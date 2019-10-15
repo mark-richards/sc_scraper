@@ -1,0 +1,830 @@
+Player ID|First Name|Last Name|Pos1|Pos2|Team|Playing Next|In 2 Rds|In 3 Rds|Playing Next|Owner|Waiver|Free Agent|Trade Status|Total Pts|Rds|Rd Pts|Avg|Avg 3|Avg 5|Status Comment|Player Note
+153|Brodie|Grundy|RUC||COL|N/A|N/A|N/A|Man of Steele|||owner|2860|22|157|130.0|122.0|120.8|N/A|Grundy didn't have a massive start to the season but he did come home well after a slow start to the game. He gave away 5 free kicks and just the 55% efficiency rating from his 18 touches.
+748|Jack|Macrae|MID||WBD|N/A|N/A|N/A|Casting Crouch|||owner|2710|22|119|123.18|120.33|133.8|N/A|Macrae had the second best score for the Dogs from his 32 touches and 3 tackles. He also had a massive 15 clearances. His efficiency was down at 68% but owners can't be unhappy with a return of 132.
+464|Max|Gawn|RUC||MEL|N/A|N/A|N/A|Fire The Worpedo|||owner|2696|21|212|128.38|143.33|139.4|N/A|Gawn was targeted by the Power players and his scoring suffered as a result. He managed to get himself to 87 but at his price tag we need him back over 110.
+77|Lachie|Neale|MID||BRL|N/A|N/A|N/A|Salt&VinegarCripps|||owner|2668|22|190|121.27|126.0|119.8|N/A|Neale has had a great start to his Lions career and top scored for the Lions. His 29 touches included 14 contested but impressively he used the ball well with 86% efficiency.
+734|Josh|Dunkley|FWD|MID|WBD|N/A|N/A|N/A|TryingAnewStratton|||owner|2562|22|106|116.45|142.67|124.6|N/A|Dunkley didn't take any marks but he did lay 7 tackles and have 20 touches. He just missed the 100 so don't panic just yet if you are an owner.
+726|Marcus|Bontempelli|MID||WBD|N/A|N/A|N/A|Swimming n Titch|||owner|2524|22|140|114.73|109.67|125.4|N/A|Bontempelli showed us exactly why he has been a popular pick in previous seasons. 29 touches and 7 tackles including a goal was a great result which delivered owners 158 points. His role was a mix of midfield and forward time. Hopefully he can spend more time in the midfield to maintain high scores.
+178|Adam|Treloar|MID||COL|N/A|N/A|N/A|Salt&VinegarCripps|||owner|2495|22|99|113.41|114.0|128.4|N/A|Treloar had 34 touches and 6 tackles but 10 of those touches were clangers which kept his score down to just over 100. However he was the only Pie over 100 for the game. He will be a gun again this season.
+513|Todd|Goldstein|RUC||NTH|N/A|N/A|N/A|Salt&VinegarCripps|||owner|2469|22|69|112.23|122.67|123.6|N/A|Goldy was one of the top scoring rucks of the week with his 102 from 23 touches 34 hitouts and a goal. A great option for those that started with him.
+331|Patrick|Dangerfield|FWD|MID|GEE|N/A|N/A|N/A|Swimming n Titch|||owner|2419|21|156|115.19|146.33|119.0|N/A|Danger seemed to spend most of his time in the midfield which is exactly what we were hoping for. 27 touches and a goal was good but 6 clangers and 59% efficiency was what held him back.
+485|Clayton|Oliver|MID||MEL|N/A|N/A|N/A|DEVQON.1|||owner|2406|22|109|109.36|99.0|106.8|N/A|Oliver was quiet as he only had one mark and two tackles. The Demons didn't have a great day and this could be why he was down. Hopefully he can turn this around next week.
+243|Nat|Fyfe|MID||FRE|N/A|N/A|N/A|Barbeques Treloar|||owner|2400|20|108|120.0|118.0|120.4|N/A|Fyfe was great with 10 kicks and 22 handballs. His 32 touches came at 78% efficiency and he had 10 clearances which was 3 more than any other player on the ground. He is worth putting on watch for next weeks trades.
+701|Jake|Lloyd|DEF||SYD|N/A|N/A|N/A|TryingAnewStratton|||owner|2396|22|113|108.91|95.67|92.0|N/A|Lloyd was the only Swan over 100 and he got there in style from 35 touches at 85% and 10 marks. He is on his way to being one of the top defenders again.
+91|Dayne|Zorko|MID||BRL|N/A|N/A|N/A|Swimming n Titch|||owner|2346|22|141|106.64|129.0|114.6|N/A|Zorko was great with his 20 touches and 8 tackles. This is a level of scoring we are hoping to continue to see from him. The Lions were good and hopefully their form continues and it allows him to score like this.
+94|Patrick|Cripps|MID||CAR|N/A|N/A|N/A|Barbeques Treloar|||owner|2342|20|148|117.1|122.33|119.4|N/A|Cripps had the second best score for the Blues with 21 of his 32 touches contested and his efficiency was up at 81%. The only downside on his game was that 22 of those 32 touches were by hand.
+213|Zach|Merrett|MID||ESS|N/A|N/A|N/A|Fire The Worpedo|||owner|2324|22|78|105.64|99.33|99.8|N/A|Merrett didn't have a great game with just 16 touches one mark and 3 tackles. He is competing with an extra player (Shiel) in the midfield and this doesn't seem to be helping his scoring.
+712|Luke|Parker|MID||SYD|N/A|N/A|N/A|Casting Crouch|||owner|2312|22|141|105.09|94.67|88.8|N/A|N/A
+167|Scott|Pendlebury|MID||COL|N/A|N/A|N/A|Fire The Worpedo|||owner|2295|22|115|104.32|114.0|108.4|N/A|N/A
+342|Tim|Kelly|FWD|MID|GEE|N/A|N/A|N/A|DEVQON.1|||owner|2276|22|115|103.45|101.67|105.4|N/A|Kelly was fantastic and had the ball on a string in the first term. His 31 touches came at a 67% but 12 of those touches were contested. Look for him to be a popular trade in in the first few weeks.
+332|Mitch|Duncan|MID||GEE|N/A|N/A|N/A|Man of Steele|||owner|2271|22|79|103.23|87.33|89.8|N/A|N/A
+38|Rory|Sloane|MID||ADE|N/A|N/A|N/A|DEVQON.1|||owner|2266|22|106|103.0|87.33|90.8|N/A|Sloane returned to former glory scoring that we thought he could do. 9 tackles to go with his 36 touches which came at 76% and included 11 clearances! He will come into a few teams on the back of this performance.
+815|Elliot|Yeo|MID||WCE|N/A|N/A|N/A|Man of Steele|||owner|2260|21|93|107.62|110.67|114.8|N/A|Yeo didn't get the score that we need him to for his price. He was one of many Eagles that had a  down day. He did have 25 touches but he did have an efficiency of only 44%. Hopefully he can turn this around next week.
+548|Travis|Boak|FWD||PTA|N/A|N/A|N/A|DEVQON.1|||owner|2252|21|74|107.24|78.0|89.8|N/A|Boak has been reborn this year with 34 touches and a team high 5 clearances to get to his 119.
+405|Tim|Taranto|MID||GWS|N/A|N/A|N/A|DEVQON.1|||owner|2252|22|97|102.36|91.67|91.8|N/A|Taranto was talked about all through the preseason and he came up with the goods for us. 30 touches with 21 by foot and 10 tackles. The only blemish was that his efficiency was just under 50% which saw his score a little restricted.
+507|Ben|Cunnington|MID||NTH|N/A|N/A|N/A|Barbeques Treloar|||owner|2245|22|46|102.05|87.67|82.8|N/A|N/A
+625|Dion|Prestia|MID||RIC|N/A|N/A|N/A|Swimming n Titch|||owner|2229|22|116|101.32|115.67|121.2|N/A|N/A
+808|Luke|Shuey|MID||WCE|N/A|N/A|N/A|Swimming n Titch|||owner|2221|22|107|100.95|91.33|91.2|N/A|Shuey was one of just 3 Eagles over 100 this week. He had 26 touches and 23 were kicks which was great for us. He could have scored better as just 57% of those disposals were effective but it wasn't a great night for them so don't panic just yet.
+270|Michael|Walters|FWD|MID|FRE|N/A|N/A|N/A|TryingAnewStratton|||owner|2217|22|74|100.77|84.67|100.8|N/A|Walters had a great JLT with an 86 and 92. But are you game enough to select him? Last year he burnt us with suspensions and poor scoring.
+661|Rowan|Marshall|FWD||STK|N/A|N/A|N/A|DEVQON.1|||owner|2205|20|94|110.25|95.33|104.0|N/A|N/A
+316|Jarrod|Witts|RUC||GCS|N/A|N/A|N/A|Swimming n Titch|||owner|2193|22|152|99.68|129.33|120.2|N/A|N/A
+68|Jarryd|Lyons|MID||BRL|N/A|N/A|N/A|Fire The Worpedo|||owner|2169|22|92|98.59|125.0|113.8|N/A|Lyons had a good preseason at his new home with a 109 then a huge 147. He doesn't come cheap at $502k but an interesting unique selection for you.
+5|Brad|Crouch|MID||ADE|N/A|N/A|N/A|Fire The Worpedo|||owner|2164|22|59|98.36|82.33|89.4|N/A|Crouch had 28 and kicked 2 goals but it was his efficiency which hurt him at 67%. However 91 still a good start for a guy that didn't play last season and was very underpriced. Look for him to build from here.
+361|Tom|Stewart|DEF||GEE|N/A|N/A|N/A|Man of Steele|||owner|2160|22|124|98.18|108.0|98.0|N/A|N/A
+672|Sebastian|Ross|MID||STK|N/A|N/A|N/A|Man of Steele|||owner|2151|22|126|97.77|123.67|126.0|N/A|Ross had 27 touches but didn't have any tackles which kept his scoring down. Look for him to improve this week and hopefully return to the scoring we bought him in for.
+786|Andrew|Gaff|MID||WCE|N/A|N/A|N/A|DEVQON.1|||owner|2148|20|134|107.4|120.67|116.2|N/A|N/A
+455|James|Worpel|FWD|MID|HAW|N/A|N/A|N/A|Fire The Worpedo|||owner|2135|22|72|97.05|113.67|119.2|N/A|Worpel top scored for the Hawks as he showed that his JLT form was no fluke. His 27 touches resulted in 2 goals and he had the most contested possessions for the Hawks with 12.
+80|Daniel|Rich|DEF||BRL|N/A|N/A|N/A|Swimming n Titch|||owner|2130|22|103|96.82|105.0|99.4|N/A|N/A
+25|Rory|Laird|DEF||ADE|N/A|N/A|N/A|Man of Steele|||owner|2130|22|104|96.82|90.0|98.4|N/A|Laird had a solid JLT series showing that he hasn't lost any of his scoring power. He will be a popular selection again this year.
+740|Lachie|Hunter|MID||WBD|N/A|N/A|N/A|Barbeques Treloar|||owner|2096|22|97|95.27|110.67|96.0|N/A|N/A
+466|James|Harmes|MID||MEL|N/A|N/A|N/A|TryingAnewStratton|||owner|2092|22|95|95.09|90.33|93.2|N/A|N/A
+806|Dom|Sheed|MID||WCE|N/A|N/A|N/A|Salt&VinegarCripps|||owner|2091|22|75|95.05|77.67|80.6|N/A|Sheed has had a fantastic start to the season which he has continued into round one. His 38 touches included 10 clearances and 21 of the touches were contested. He is getting the job done in the midfield but it will be interesting to see what happens when Gaff comes back.
+424|Ricky|Henderson|MID||HAW|N/A|N/A|N/A|Swimming n Titch|||owner|2086|22|111|94.82|90.33|82.6|N/A|N/A
+82|Mitch|Robinson|FWD|MID|BRL|N/A|N/A|N/A|Casting Crouch|||owner|2077|22|104|94.41|108.67|111.8|N/A|N/A
+695|Isaac|Heeney|FWD|MID|SYD|N/A|N/A|N/A|Casting Crouch|||owner|2069|22|54|94.05|82.67|94.4|N/A|Heeney has been a popular selection over the past couple of seasons and he has started this one well with 19 touches at 78% however just 6 of those were kicks which stalled his scoring a bit.
+450|James|Sicily|DEF||HAW|N/A|N/A|N/A|TryingAnewStratton|||owner|2064|22|124|93.82|103.67|95.6|N/A|Sicily was great with 10 marks and a kick to handball ratio of 22 to 4 which is what we like to see.
+641|Jack|Billings|FWD||STK|N/A|N/A|N/A|Casting Crouch|||owner|2064|22|44|93.82|76.33|79.0|N/A|Billings didn't get off to a great start but it was better than all but one of his games before the byes last year. His 28 touches were good and he had 4 marks. Importantly his 82% efficiency helped boost that score. Just one Saint went over 100 so don't despair with him just yet.
+222|Dylan|Shiel|MID||ESS|N/A|N/A|N/A|Man of Steele|||owner|2046|21|61|97.43|89.67|99.0|N/A|Shiel was one of only two Bombers to crack the 100 point mark. He had 25 touches with 18 of them being contested. He was one of few shining lights for the Bombers.
+714|Dane|Rampe|DEF||SYD|N/A|N/A|N/A|Fire The Worpedo|||owner|2041|21|79|97.19|96.33|96.0|N/A|N/A
+410|Zac|Williams|DEF||GWS|N/A|N/A|N/A|TryingAnewStratton|||owner|2032|20|100|101.6|100.67|99.2|N/A|Williams didn't play much JLT at all but did manage 82 points in his 53% of JLT1. He was rested in JLT2  and if named he could still be well worth a selection.
+70|Stefan|Martin|RUC||BRL|N/A|N/A|N/A|Barbeques Treloar|||owner|2030|22|85|92.27|103.33|90.8|N/A|Stef had a good return from just 13 touches and 17 hitouts. As an alternative to the big two he scored well. Hopefully he can keep this up and improve from here.
+699|Josh P.|Kennedy|MID||SYD|N/A|N/A|N/A|Man of Steele|||owner|2026|19|178|106.63|121.33|109.2|N/A|N/A
+320|Gary|Ablett|MID||GEE|N/A|N/A|N/A|Salt&VinegarCripps|||owner|2009|21|167|95.67|121.0|105.0|N/A|Ablett was talked up to be more of a forward this season and that is how things panned out. But he did still spend some time in the midfield. 23 touches and 2 goals was a solid game for him but he did give away 3 free kicks.
+614|Bachar|Houli|DEF||RIC|N/A|N/A|N/A|Man of Steele|||owner|2000|19|110|105.26|119.0|118.2|N/A|N/A
+618|Dustin|Martin|MID||RIC|N/A|N/A|N/A|Salt&VinegarCripps|||owner|2000|20|108|100.0|126.0|117.2|N/A|Dusty had 30 touches and half of these were contested. He scored well but did look a bit rusty at times and got caught when normally he would get away. Look for a much better season from Dusty.
+544|Jack|Ziebell|FWD||NTH|N/A|N/A|N/A|Barbeques Treloar|||owner|1999|22|100|90.86|96.67|96.0|N/A|N/A
+97|Ed|Curnow|MID||CAR|N/A|N/A|N/A|Barbeques Treloar|||owner|1998|22|126|90.82|133.0|114.6|N/A|Curnow took 12 marks against the Tigers. He also had 25 touches to go with them. He had a good game and was 4th equal top score or the Blues.
+173|Steele|Sidebottom|MID||COL|N/A|N/A|N/A|DEVQON.1|||owner|1980|21|0|94.29|99.0|96.6|N/A|N/A
+73|Hugh|McCluggage|MID||BRL|N/A|N/A|N/A|Casting Crouch|||owner|1975|21|112|94.05|102.67|100.6|N/A|McCluggage hit 114 points from his 20 touches at 85%. Many have suspected that he could score like this and hopefully this is the start of a great season for him.
+6|Matt|Crouch|MID||ADE|N/A|N/A|N/A|Casting Crouch|||owner|1970|19|134|103.68|117.0|109.2|N/A|Crouch was great and had the second best score for the Crows from 40 touches and just under half of them were contested. He is a supercoach machine and well worth being in your side.
+788|Shannon|Hurn|DEF||WCE|N/A|N/A|N/A|TryingAnewStratton|||owner|1967|19|89|103.53|83.0|84.2|N/A|Hurn had a great JLT with 111 and 89. Not many people are talking about him and if you want a unique down back he could be your man.
+258|David|Mundy|FWD|MID|FRE|N/A|N/A|N/A|Man of Steele|||owner|1959|22|70|89.05|76.33|74.2|N/A|N/A
+145|Jack|Crisp|DEF||COL|N/A|N/A|N/A|TryingAnewStratton|||owner|1956|22|92|88.91|80.67|81.4|N/A|N/A
+39|Brodie|Smith|DEF||ADE|N/A|N/A|N/A|Casting Crouch|||owner|1950|22|89|88.64|90.0|91.2|N/A|Smith was solid for his 81 points from 21 touches. His role may change a little with Doedee out but there is nothing to worry about there.
+312|David|Swallow|MID||GCS|N/A|N/A|N/A|Fire The Worpedo|||owner|1940|22|71|88.18|96.67|95.0|N/A|N/A
+696|George|Hewett|MID||SYD|N/A|N/A|N/A|Fire The Worpedo|||owner|1935|22|79|87.95|76.67|77.4|N/A|N/A
+117|Nic|Newman|DEF||CAR|N/A|N/A|N/A|Casting Crouch|||owner|1933|20|84|96.65|94.67|105.4|N/A|Newman had a lackluster preseason campaign which saw him exit a lot of Supercoach teams. But he turned it on with 21 of his 26 touches by foot as well as 9 marks. He won't change price for another week yet so wait and see how he goes this week before getting him in.
+527|Jared|Polec|MID||NTH|N/A|N/A|N/A|Man of Steele|||owner|1930|22|118|87.73|90.33|91.0|N/A|Polec had a good first game for the Roos and finished the day with 27 touches 7 marks and a tackle. If the Roos can get back on track he could improve his scoring from this effort.
+553|Darcy|Byrne-Jones|DEF||PTA|N/A|N/A|N/A|Fire The Worpedo|||owner|1918|22|97|87.18|71.33|83.4|N/A|N/A
+634|Nick|Vlastuin|DEF||RIC|N/A|N/A|N/A|Barbeques Treloar|||owner|1916|21|106|91.24|102.0|102.6|N/A|N/A
+133|Sam|Walsh|MID||CAR|N/A|N/A|N/A|Man of Steele|||owner|1912|22|73|86.91|66.33|79.2|N/A|Walsh didn't let down those coaches that paid the extra price for him. 24 possessions and 6 marks on debut certainly paid off. His score could have been higher as only half of his touches were effective but he will only get better which is great for owners.
+675|Jack|Steele|MID||STK|N/A|N/A|N/A|Man of Steele|||owner|1900|20|98|95.0|84.33|99.0|N/A|Steele was the  best for the Saints and it was the 10 tackles that really helped to go with his 22 touches. He was the only Saint to hit the 100+ mark.
+441|Jaeger|O'Meara|MID||HAW|N/A|N/A|N/A|Fire The Worpedo|||owner|1899|21|99|90.43|81.0|86.8|N/A|O'Meara was great with a couple of goals from his 24 touches and had the second best score for the Hawks. 
+252|Ed|Langdon|MID||FRE|N/A|N/A|N/A|Swimming n Titch|||owner|1889|22|111|85.86|110.67|98.0|N/A|N/A
+337|Tom|Hawkins|FWD||GEE|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1884|22|35|85.64|59.67|83.6|N/A|N/A
+800|Jack|Redden|MID||WCE|N/A|N/A|N/A|Swimming n Titch|||owner|1877|21|69|89.38|70.33|84.2|N/A|N/A
+570|Dan|Houston|DEF||PTA|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1875|21|117|89.29|103.33|105.8|N/A|N/A
+782|Jack|Darling|FWD||WCE|N/A|N/A|N/A|Swimming n Titch|||owner|1859|22|76|84.5|93.33|97.2|N/A|N/A
+372|Jeremy|Cameron|FWD||GWS|N/A|N/A|N/A|Fire The Worpedo|||owner|1856|20|152|92.8|91.67|98.6|N/A|N/A
+246|Bradley|Hill|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1853|22|76|84.23|73.67|80.0|N/A|N/A
+673|Shane|Savage|DEF||STK|N/A|N/A|N/A|Man of Steele|||owner|1851|22|90|84.14|88.0|85.8|N/A|N/A
+807|Brad|Sheppard|DEF||WCE|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1846|22|69|83.91|65.0|69.2|N/A|N/A
+285|Brayden|Fiorini|MID||GCS|N/A|N/A|N/A|Casting Crouch|||owner|1845|21|80|87.86|87.67|78.2|N/A|Fiorini is showing the form we all suspected he had and he got there on the back of 30 touches and 6 tackles this gave him the best score for the Suns.
+793|Jeremy|McGovern|DEF||WCE|N/A|N/A|N/A|Barbeques Treloar|||owner|1838|21|70|87.52|86.0|88.6|N/A|N/A
+459|Angus|Brayshaw|MID||MEL|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1833|22|77|83.32|93.0|81.4|N/A|Brayshaw didn't quite get to the score we needed him to as he had only 57% efficiency for his 26 touches. He did top the clearance list for the Demons though so this could be a one off hopefully.
+576|Scott|Lycett|RUC|FWD|PTA|N/A|N/A|N/A|Man of Steele|||owner|1825|18|129|101.39|108.33|104.0|N/A|N/A
+168|Tom|Phillips|MID||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1825|22|67|82.95|75.33|78.8|N/A|N/A
+323|Mark|Blicavs|DEF||GEE|N/A|N/A|N/A|Swimming n Titch|||owner|1820|22|36|82.73|77.67|86.6|N/A|N/A
+387|Jacob|Hopper|MID||GWS|N/A|N/A|N/A|DEVQON.1|||owner|1820|19|0|95.79|93.33|89.4|N/A|Hopper had the second best score for the Giants and had a fantastic 15 contested possessions out of his 28 touches. An interesting unique.
+399|Heath|Shaw|DEF||GWS|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1818|22|90|82.64|89.0|90.0|N/A|N/A
+530|Robbie|Tarrant|DEF||NTH|N/A|N/A|N/A|Casting Crouch|||owner|1814|22|96|82.45|83.67|74.8|N/A|N/A
+489|Christian|Salem|DEF||MEL|N/A|N/A|N/A|DEVQON.1|||owner|1809|20|64|90.45|66.67|67.8|N/A|N/A
+708|Callum|Mills|DEF||SYD|N/A|N/A|N/A|Fire The Worpedo|||owner|1799|22|82|81.77|73.67|78.2|N/A|Mills had a great JLT with a 106 and a 93. At his handy price bracket he could be a unique midpricer that pays off.
+298|Darcy|MacPherson|FWD||GCS|N/A|N/A|N/A|Man of Steele|||owner|1798|22|97|81.73|71.67|69.6|N/A|N/A
+121|Sam|Petrevski-Seton|FWD||CAR|N/A|N/A|N/A|Barbeques Treloar|||owner|1796|22|28|81.64|61.67|73.8|N/A|N/A
+486|Christian|Petracca|FWD|MID|MEL|N/A|N/A|N/A|TryingAnewStratton|||owner|1788|22|97|81.27|88.33|85.8|N/A|N/A
+330|Luke|Dahlhaus|FWD|MID|GEE|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1788|21|123|85.14|97.33|85.4|N/A|Dahlhaus was quiet in game one but had 118 in game two. His price is awkward if he isn't going to be scoring over 75 each week.
+409|Lachie|Whitfield|DEF||GWS|N/A|N/A|N/A|Fire The Worpedo|||owner|1780|16|159|111.25|121.0|112.4|N/A|Whitfield was a popular choice in our defence this season and he delivered with 30 touches. He seems to have a role that will assist him with this level of scoring going forward.
+605|Shane|Edwards|FWD|MID|RIC|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1771|21|91|84.33|112.33|104.2|N/A|N/A
+664|Tim|Membrey|FWD||STK|N/A|N/A|N/A|Swimming n Titch|||owner|1768|22|80|80.36|81.67|87.2|N/A|N/A
+431|Ben|McEvoy|RUC||HAW|N/A|N/A|N/A|Casting Crouch|||owner|1762|19|35|92.74|68.67|96.0|N/A|N/A
+510|Trent|Dumont|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1760|21|84|83.81|72.67|82.4|N/A|N/A
+161|Brayden|Maynard|DEF||COL|N/A|N/A|N/A|Swimming n Titch|||owner|1758|22|57|79.91|90.33|88.0|N/A|N/A
+54|Charlie|Cameron|FWD||BRL|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1755|22|38|79.77|82.67|86.4|N/A|N/A
+504|Ben|Brown|FWD||NTH|N/A|N/A|N/A|Barbeques Treloar|||owner|1750|22|93|79.55|91.33|88.6|N/A|N/A
+526|Jasper|Pittard|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1750|22|103|79.55|94.33|83.2|N/A|N/A
+423|Blake|Hardwick|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|1738|22|83|79.0|75.67|77.0|N/A|N/A
+607|Brandon|Ellis|DEF||RIC|N/A|N/A|N/A|Fire The Worpedo|||owner|1734|20|63|86.7|87.0|76.2|N/A|N/A
+715|Sam|Reid|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|1726|22|68|78.45|85.33|71.8|N/A|N/A
+262|Luke|Ryan|DEF||FRE|N/A|N/A|N/A|Swimming n Titch|||owner|1725|18|0|95.83|84.33|76.4|N/A|A solid return for Ryann in the JLT with two in the 80s. He doesn't come cheap but scores like this will certainly make him a solid unique selection.
+711|Tom|Papley|FWD||SYD|N/A|N/A|N/A|Barbeques Treloar|||owner|1724|22|92|78.36|75.67|70.0|N/A|N/A
+116|Marc|Murphy|MID||CAR|N/A|N/A|N/A|TryingAnewStratton|||owner|1723|19|128|90.68|109.0|106.6|N/A|N/A
+688|Jordan|Dawson|MID||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|1723|20|114|86.15|94.67|96.4|N/A|N/A
+33|Reilly|O'Brien|RUC||ADE|N/A|N/A|N/A|Swimming n Titch|||owner|1715|18|0|95.28|80.67|92.8|N/A|N/A
+356|Joel|Selwood|MID||GEE|N/A|N/A|N/A|Barbeques Treloar|||owner|1715|20|47|85.75|61.33|81.6|N/A|Selwood had a night out against the Bombers in JLT2. 38 touches 11 marks and 7 tackles is a great return particularly in a practice game.
+221|Adam|Saad|DEF||ESS|N/A|N/A|N/A|Man of Steele|||owner|1715|21|49|81.67|71.33|73.8|N/A|N/A
+218|Darcy|Parish|FWD|MID|ESS|N/A|N/A|N/A|DEVQON.1|||owner|1714|20|86|85.7|73.0|75.2|N/A|N/A
+585|Connor|Rozee|DEF|FWD|PTA|N/A|N/A|N/A|Barbeques Treloar|||owner|1710|22|85|77.73|91.67|90.2|N/A|Rozee had a great debut with 18 touches at 77% and 5 tackles. He is a higher priced rookie but showed more here than he did in the JLT.
+681|Aliir|Aliir|DEF||SYD|N/A|N/A|N/A|DEVQON.1|||owner|1706|22|68|77.55|75.0|76.0|N/A|N/A
+674|Jack|Sinclair|MID||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1703|22|84|77.41|75.0|78.0|N/A|N/A
+496|Jack|Viney|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1699|21|62|80.9|87.0|80.4|N/A|N/A
+746|Sam|Lloyd|MID||WBD|N/A|N/A|N/A|TryingAnewStratton|||owner|1698|22|63|77.18|69.0|70.4|N/A|N/A
+413|Luke|Breust|FWD||HAW|N/A|N/A|N/A|Casting Crouch|||owner|1694|22|126|77.0|83.67|68.0|N/A|N/A
+757|Bailey|Smith|MID||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1685|22|87|76.59|89.0|88.0|N/A|Smith had a slow start to his career with just the 8 possessions at 62% efficiency. If you have him the bench is the best spot for now.
+732|Caleb|Daniel|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1684|17|0|99.06|84.67|91.2|N/A|N/A
+210|Conor|McKenna|DEF||ESS|N/A|N/A|N/A|DEVQON.1|||owner|1677|21|141|79.86|97.0|89.4|N/A|N/A
+461|Bayley|Fritsch|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1677|22|99|76.23|77.33|78.8|N/A|N/A
+649|Luke|Dunstan|MID||STK|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1675|18|114|93.06|86.33|85.0|N/A|N/A
+384|Nick|Haynes|DEF||GWS|N/A|N/A|N/A|Barbeques Treloar|||owner|1661|19|0|87.42|110.0|94.6|N/A|N/A
+208|Anthony|McDonald-Tipungwuti|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1659|22|127|75.41|89.0|77.8|N/A|N/A
+449|Liam|Shiels|MID||HAW|N/A|N/A|N/A|TryingAnewStratton|||owner|1650|19|96|86.84|100.33|92.0|N/A|N/A
+132|Dale|Thomas|DEF||CAR|N/A|N/A|N/A|Casting Crouch|||owner|1649|20|91|82.45|108.67|102.2|N/A|N/A
+23|Jake|Kelly|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1646|22|45|74.82|60.67|68.4|N/A|N/A
+390|Josh|Kelly|MID||GWS|N/A|N/A|N/A|TryingAnewStratton|||owner|1644|14|124|117.43|104.0|108.8|N/A|N/A
+584|Tom|Rockliff|MID||PTA|N/A|N/A|N/A|DEVQON.1|||owner|1642|18|71|91.22|70.67|80.6|N/A|Rockliff will be targeted by many coaches this week as he was everywhere with 44 touches and 8 tackles. Another week like this will see him the most traded in at round 3.
+288|Jarrod|Harbrow|DEF||GCS|N/A|N/A|N/A|Casting Crouch|||owner|1622|21|64|77.24|66.0|65.2|N/A|N/A
+209|Andrew|McGrath|DEF|MID|ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1618|22|88|73.55|72.33|70.6|N/A|N/A
+268|Darcy|Tucker|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1614|22|68|73.36|63.0|68.2|N/A|Tucker had a great game with a couple of goals and 24 touches but the Dockers won't have the game on their own terms like this each week so just be careful.
+516|Shaun|Higgins|MID||NTH|N/A|N/A|N/A|Casting Crouch|||owner|1613|17|133|94.88|104.67|104.4|N/A|N/A
+471|Nathan|Jones|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1612|22|75|73.27|70.0|66.2|N/A|N/A
+199|Dyson|Heppell|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1610|17|0|94.71|77.67|85.4|N/A|N/A
+589|Justin|Westhoff|FWD|RUC|PTA|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1604|20|134|80.2|88.0|86.4|N/A|Westhoff didn't need the ruck duties to get his points. He kicked 5 goals and that was enough for him to get a game high 149 points. He won't get it all his own way every week but a great start.
+741|Jason|Johannisen|DEF||WBD|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1603|19|85|84.37|90.0|87.6|N/A|N/A
+386|Harry|Himmelberg|FWD||GWS|N/A|N/A|N/A|Barbeques Treloar|||owner|1600|21|46|76.19|57.67|72.0|N/A|N/A
+651|Jade|Gresham|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1597|19|0|84.05|93.0|88.0|N/A|N/A
+421|Jack|Gunston|FWD||HAW|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1597|20|91|79.85|84.67|84.8|N/A|N/A
+564|Robbie|Gray|FWD|MID|PTA|N/A|N/A|N/A|Swimming n Titch|||owner|1585|19|37|83.42|54.33|72.2|N/A|N/A
+615|Kane|Lambert|FWD||RIC|N/A|N/A|N/A|Man of Steele|||owner|1584|18|86|88.0|76.33|83.2|N/A|N/A
+407|Adam|Tomlinson|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1581|22|64|71.86|58.33|60.4|N/A|N/A
+163|Brody|Mihocek|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1580|22|76|71.82|79.33|75.6|N/A|N/A
+226|David|Zaharakis|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1579|20|0|78.95|44.67|51.4|N/A|N/A
+451|Isaac|Smith|MID||HAW|N/A|N/A|N/A|||1|free_agent|1577|19|71|83.0|98.33|93.2|N/A|N/A
+616|Tom J.|Lynch|FWD||RIC|N/A|N/A|N/A|Fire The Worpedo|||owner|1575|22|47|71.59|79.67|90.2|N/A|Lynch was good in his first game for the Tigers. 3 goals and 7 touches in what was effectively his first game of the season as he missed the JLT.
+730|Hayden|Crozier|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1573|21|83|74.9|74.0|78.2|N/A|N/A
+47|Harris|Andrews|DEF||BRL|N/A|N/A|N/A|Barbeques Treloar|||owner|1572|19|72|82.74|89.0|79.6|N/A|N/A
+736|Tim|English|RUC||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1569|19|104|82.58|102.0|92.6|N/A|N/A
+380|Jeremy|Finlayson|DEF||GWS|N/A|N/A|N/A|Fire The Worpedo|||owner|1562|19|68|82.21|80.67|72.2|N/A|N/A
+503|Shaun|Atley|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1561|21|76|74.33|75.0|72.2|N/A|N/A
+679|Callum|Wilkie|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1555|22|59|70.68|74.33|73.8|N/A|N/A
+554|Tom|Clurey|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1554|21|0|74.0|74.67|74.6|N/A|N/A
+233|Andrew|Brayshaw|MID||FRE|N/A|N/A|N/A|Swimming n Titch|||owner|1551|22|74|70.5|73.67|77.8|N/A|N/A
+612|Dylan|Grimes|DEF||RIC|N/A|N/A|N/A|Barbeques Treloar|||owner|1545|21|70|73.57|74.67|69.2|N/A|N/A
+42|Daniel|Talia|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1530|22|38|69.55|66.67|72.2|N/A|N/A
+52|Jarrod|Berry|MID||BRL|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1529|18|67|84.94|85.67|82.8|N/A|N/A
+302|Touk|Miller|MID||GCS|N/A|N/A|N/A|DEVQON.1|||owner|1527|18|86|84.83|84.0|94.0|N/A|N/A
+398|Sam J.|Reid|DEF|FWD|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1522|22|49|69.18|55.0|70.4|N/A|N/A
+124|Lachie|Plowman|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1519|21|67|72.33|70.67|70.0|N/A|N/A
+89|Alex|Witherden|DEF||BRL|N/A|N/A|N/A|DEVQON.1|||owner|1519|21|38|72.33|77.0|62.2|N/A|Witherden has been talked about as a key player down back this season in Supercoach and he delivered in the first week with his 25 touches and 7 marks. Keep him in mind if you don't have him.
+373|Stephen|Coniglio|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1518|15|0|101.2|86.67|90.8|N/A|Coniglio had 3 goals from his 24 kicks and 7 handballs. On top of this he had a handy 7 tackles. Look at him to be a popular trade in target following his 154. Look at him as a captain option too.
+155|Jeremy|Howe|DEF||COL|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1511|19|58|79.53|93.0|92.6|N/A|N/A
+377|Phil|Davis|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1510|19|88|79.47|76.67|73.2|N/A|N/A
+1|Rory|Atkins|MID||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1510|20|0|75.5|56.67|72.6|N/A|N/A
+237|Reece|Conca|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1507|22|83|68.5|65.0|67.0|N/A|N/A
+314|Lachie|Weller|DEF|MID|GCS|N/A|N/A|N/A|Barbeques Treloar|||owner|1506|17|110|88.59|91.67|84.4|N/A|N/A
+759|Matthew|Suckling|DEF||WBD|N/A|N/A|N/A|Casting Crouch|||owner|1505|18|109|83.61|104.0|87.2|N/A|N/A
+382|Toby|Greene|FWD||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1503|16|0|93.94|123.67|118.0|N/A|N/A
+751|Aaron|Naughton|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1490|22|59|67.73|70.0|84.0|N/A|N/A
+93|Levi|Casboult|FWD||CAR|N/A|N/A|N/A|Fire The Worpedo|||owner|1486|20|22|74.3|62.67|67.8|N/A|N/A
+363|Harry|Taylor|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1486|21|52|70.76|53.0|55.0|N/A|N/A
+347|Gryan|Miers|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1481|22|68|67.32|80.67|69.2|N/A|Miers had just the 11 touches and 3 tackles. He may not be safe to play on field but if you have him he should make some money if he can stay in the team.
+529|Jy|Simpkin|FWD||NTH|N/A|N/A|N/A|TryingAnewStratton|||owner|1481|21|49|70.52|68.0|63.4|N/A|N/A
+43|Taylor|Walker|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1481|22|79|67.32|61.0|67.0|N/A|N/A
+558|Xavier|Duursma|DEF|MID|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1479|20|98|73.95|86.67|82.0|N/A|Duursma had a handy 67 for us on debut from his 16 touches at 87%. He looked good and should hold his spot for a while yet.
+502|Jed|Anderson|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1472|17|0|86.59|76.0|80.2|N/A|N/A
+60|Darcy|Gardiner|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1472|22|32|66.91|63.67|65.4|N/A|N/A
+520|Jamie|Macmillan|DEF||NTH|N/A|N/A|N/A|DEVQON.1|||owner|1469|18|35|81.61|91.33|81.8|N/A|Macmillan top scored for the Roos this week on the back of 37 touches and 3 tackles. The ball spent a lot of time in the North defence and may continue to do so as the season progresses.
+130|Kade|Simpson|DEF||CAR|N/A|N/A|N/A|Man of Steele|||owner|1467|18|65|81.5|91.33|97.6|N/A|Simpson still doesn't look like slowing down. 27 touches and 6 marks was a handy contribution. He looks to be a solid option for those that started with him.
+108|Matthew|Kreuzer|RUC||CAR|N/A|N/A|N/A|DEVQON.1|||owner|1461|15|82|97.4|97.67|93.0|N/A|N/A
+698|Zak|Jones|DEF||SYD|N/A|N/A|N/A|Casting Crouch|||owner|1457|17|0|85.71|80.33|84.2|N/A|N/A
+643|Josh|Bruce|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1451|22|72|65.95|70.67|73.6|N/A|N/A
+72|Lincoln|McCarthy|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1448|22|31|65.82|51.0|55.2|N/A|N/A
+689|Oliver|Florent|MID||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|1444|21|70|68.76|92.67|78.2|N/A|N/A
+202|Michael|Hurley|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1435|18|48|79.72|46.0|59.6|N/A|N/A
+171|Jordan|Roughead|RUC|FWD|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1427|22|76|64.86|58.67|57.2|N/A|N/A
+301|Anthony|Miles|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1425|17|0|83.82|78.67|82.2|N/A|N/A
+565|Sam|Gray|FWD||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1424|20|41|71.2|44.67|60.4|N/A|N/A
+162|Chris|Mayne|MID||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1423|19|123|74.89|90.0|88.8|N/A|N/A
+665|Jack|Newnes|FWD|MID|STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1423|20|28|71.15|53.67|55.2|N/A|N/A
+134|Jacob|Weitering|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1413|20|38|70.65|62.0|70.6|N/A|N/A
+787|Tom|Hickey|RUC||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|1411|18|75|78.39|79.0|79.6|N/A|N/A
+582|Sam|Powell-Pepper|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1411|19|0|74.26|76.67|70.6|N/A|N/A
+462|Sam|Frost|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1410|22|60|64.09|60.0|67.8|N/A|N/A
+790|Lewis|Jetta|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|1409|20|95|70.45|67.33|70.2|N/A|N/A
+249|Ethan|Hughes|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1408|21|47|67.05|66.67|79.4|N/A|N/A
+376|Brent|Daniels|FWD||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1407|22|80|63.95|68.33|60.6|N/A|N/A
+586|Paddy|Ryder|RUC||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1406|17|84|82.71|83.0|80.4|N/A|N/A
+443|Paul|Puopolo|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|1404|22|72|63.82|66.67|64.2|N/A|N/A
+148|Jordan|De Goey|FWD||COL|N/A|N/A|N/A|Swimming n Titch|||owner|1396|16|0|87.25|96.0|83.4|N/A|N/A
+600|Jason|Castagna|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1395|21|81|66.43|79.0|73.8|N/A|N/A
+245|Joel|Hamling|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1387|22|56|63.05|68.33|68.4|N/A|N/A
+573|Tom|Jonas|DEF||PTA|N/A|N/A|N/A|Swimming n Titch|||owner|1384|18|62|76.89|76.67|74.4|N/A|N/A
+773|Oscar|Allen|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|1384|21|81|65.9|78.0|73.8|N/A|N/A
+414|Shaun|Burgoyne|MID||HAW|N/A|N/A|N/A|Barbeques Treloar|||owner|1383|18|90|76.83|72.0|79.0|N/A|N/A
+448|Tom|Scully|MID||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|1380|21|15|65.71|60.33|58.0|N/A|N/A
+360|Rhys|Stanley|RUC||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1377|16|95|86.06|84.0|88.8|N/A|N/A
+102|Zac|Fisher|FWD|MID|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1377|21|38|65.57|35.67|43.0|N/A|N/A
+200|Cale|Hooker|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1372|17|0|80.71|61.33|68.0|N/A|N/A
+335|Cameron|Guthrie|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1372|18|71|76.22|58.0|67.0|N/A|N/A
+63|Luke|Hodge|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1370|20|92|68.5|69.33|68.8|N/A|N/A
+22|Alex|Keath|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1369|18|29|76.06|51.67|59.2|N/A|N/A
+142|Callum L.|Brown|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1366|20|70|68.3|78.33|68.8|N/A|N/A
+640|Josh|Battle|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1365|19|60|71.84|78.33|63.0|N/A|N/A
+818|Sydney|Stack|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1362|17|0|80.12|65.67|76.0|N/A|N/A
+804|Liam|Ryan|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|1356|22|55|61.64|50.67|59.6|N/A|N/A
+26|Tom|Lynch|FWD||ADE|N/A|N/A|N/A|DEVQON.1|||owner|1355|16|86|84.69|61.0|71.0|N/A|N/A
+636|Blake|Acres|FWD|MID|STK|N/A|N/A|N/A||Tue 27th 4am||waiver|1345|19|43|70.79|52.33|68.2|N/A|N/A
+351|Brandan|Parfitt|FWD||GEE|N/A|N/A|N/A|TryingAnewStratton|||owner|1338|17|101|78.71|78.67|69.6|N/A|N/A
+533|Scott D.|Thompson|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1335|19|57|70.26|83.33|71.6|N/A|N/A
+219|Mason|Redman|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1329|19|72|69.95|82.0|78.6|N/A|N/A
+549|Riley|Bonner|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1314|19|67|69.16|59.67|73.0|N/A|N/A
+546|Karl|Amon|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1310|17|80|77.06|69.0|79.0|N/A|N/A
+253|Rory|Lobb|RUC|FWD|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1306|15|0|87.07|80.33|79.4|N/A|N/A
+394|Shane|Mumford|RUC||GWS|N/A|N/A|N/A|DEVQON.1|||owner|1306|16|94|81.62|87.33|65.6|N/A|Mumford will miss the first couple of weeks of the season through club suspension.
+2|Eddie|Betts|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1305|21|52|62.14|50.33|58.8|N/A|N/A
+781|Jamie|Cripps|FWD||WCE|N/A|N/A|N/A|Swimming n Titch|||owner|1295|17|42|76.18|68.0|62.4|N/A|N/A
+75|Oscar|McInerney|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1289|19|72|67.84|65.33|72.0|N/A|N/A
+349|Mark|O'Connor|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1276|20|56|63.8|65.0|66.6|N/A|N/A
+225|Jake|Stringer|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1275|18|0|70.83|59.33|74.8|N/A|N/A
+534|Kayne|Turner|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1274|21|89|60.67|64.67|57.0|N/A|N/A
+593|David|Astbury|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1273|19|71|67.0|66.33|66.0|N/A|N/A
+185|Tom|Bellchambers|RUC||ESS|N/A|N/A|N/A|TryingAnewStratton|||owner|1272|15|62|84.8|77.0|79.4|N/A|N/A
+255|Brandon|Matera|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1263|20|57|63.15|64.67|60.6|N/A|N/A
+426|Jarman|Impey|DEF|FWD|HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|1260|17|0|74.12|58.0|73.2|N/A|N/A
+749|Toby|McLean|FWD|MID|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1260|18|48|70.0|79.33|59.8|N/A|N/A
+31|Wayne|Milera|DEF||ADE|N/A|N/A|N/A|DEVQON.1|||owner|1260|17|66|74.12|58.0|62.0|N/A|N/A
+275|Charlie|Ballard|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1260|21|33|60.0|46.67|56.8|N/A|N/A
+204|Kyle|Langford|FWD|MID|ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1252|17|86|73.65|76.0|74.2|N/A|N/A
+532|Tarryn|Thomas|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1252|20|37|62.6|49.67|53.6|N/A|N/A
+235|Adam|Cerra|FWD||FRE|N/A|N/A|N/A|Man of Steele|||owner|1248|20|51|62.4|67.67|67.8|N/A|N/A
+176|Josh|Thomas|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1247|20|72|62.35|83.67|74.0|N/A|N/A
+816|Michael|Gibbons|MID||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1244|21|0|59.24|48.0|69.2|N/A|Gibbons only got to 35 from his 11 touches and 3 tackles. We didn't expect him to be a high scorer but he did his role and we expect him to hold his spot. He is a slow burn for us so don't lose faith just yet.
+299|Jack|Martin|FWD|MID|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1240|16|0|77.5|56.33|65.8|N/A|N/A
+545|Cameron|Zurhaar|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1238|19|27|65.16|38.0|53.2|N/A|N/A
+287|Pearce|Hanley|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1237|16|82|77.31|97.33|80.8|N/A|N/A
+391|Adam|Kennedy|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1237|19|76|65.11|75.67|74.0|N/A|N/A
+744|Tom|Liberatore|MID||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1236|15|0|82.4|59.67|58.4|N/A|Libba wasn't the high scorer people thought he might be when they picked him but it is only one game. He did have 28 touches at 60% efficiency but just 75 points was the result.  Hopefully he will lift that scoring in the coming weeks.
+791|Josh J.|Kennedy|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|1236|20|65|61.8|53.33|65.0|N/A|N/A
+76|Daniel|McStay|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1236|22|26|56.18|40.67|47.8|N/A|N/A
+272|Nathan|Wilson|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1233|18|0|68.5|65.33|68.6|N/A|N/A
+115|Harry|McKay|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1233|20|25|61.65|41.67|47.8|N/A|N/A
+469|Jayden|Hunt|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1227|21|35|58.43|41.0|42.4|N/A|N/A
+467|Michael|Hibberd|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1222|19|79|64.32|64.0|70.2|N/A|N/A
+321|Tom|Atkins|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1205|20|0|60.25|76.0|62.2|N/A|Atkins used the footy well in his first game and his 9 touches were supplemented by 5 tackles. This should be enough for him to hold his spot for a couple more weeks.
+311|Alex|Sexton|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1204|22|68|54.73|41.33|47.2|N/A|N/A
+27|David|Mackay|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1197|18|44|66.5|59.67|67.6|N/A|N/A
+154|Will|Hoskin-Elliott|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1196|17|45|70.35|65.67|74.4|N/A|N/A
+14|Hugh|Greenwood|MID||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1194|14|68|85.29|76.67|83.0|N/A|N/A
+594|Liam|Baker|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1190|16|89|74.38|75.0|68.4|N/A|N/A
+551|Ryan|Burton|DEF||PTA|N/A|N/A|N/A|Man of Steele|||owner|1184|16|49|74.0|47.67|66.0|N/A|N/A
+541|Mason|Wood|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1181|18|74|65.61|57.33|60.8|N/A|N/A
+767|Easton|Wood|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1174|22|46|53.36|53.33|50.6|N/A|N/A
+266|Sam|Switkowski|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|1170|18|77|65.0|85.67|83.0|N/A|N/A
+317|Peter|Wright|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1156|17|0|68.0|64.33|68.6|N/A|N/A
+415|Jonathon|Ceglar|RUC|FWD|HAW|N/A|N/A|N/A|||1|free_agent|1152|15|94|76.8|95.67|81.8|N/A|N/A
+552|Zak|Butters|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1150|19|0|60.53|49.0|53.6|N/A|A couple of goals helped Butters to his 67 points. His 13 touches came at only 53% efficiency so as he builds on that his score will improve.
+440|Tim|O'Brien|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|1147|16|101|71.69|87.33|84.8|N/A|N/A
+684|Nick|Blakey|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|1144|21|62|54.48|69.67|63.6|N/A|Blakey had a reasonable JLT with 31 and 54. But as we know any rookie that shows promise under Horse at Sydney is destined for the NEAFL. Select with caution.
+32|Lachlan|Murphy|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1144|21|0|54.48|46.0|49.0|N/A|N/A
+597|Nathan|Broad|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1140|21|44|54.29|55.67|57.0|N/A|N/A
+62|Eric|Hipwood|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1137|21|77|54.14|56.33|56.4|N/A|N/A
+276|Jack|Bowes|MID||GCS|N/A|N/A|N/A|Casting Crouch|||owner|1136|15|73|75.73|74.33|56.8|N/A|N/A
+397|Harry|Perryman|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1134|15|98|75.6|89.0|79.0|N/A|N/A
+378|Matt|de Boer|FWD||GWS|N/A|N/A|N/A|TryingAnewStratton|||owner|1127|15|81|75.13|65.0|75.2|N/A|N/A
+628|Daniel|Rioli|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1126|19|57|59.26|45.0|53.8|N/A|N/A
+599|Josh|Caddy|FWD||RIC|N/A|N/A|N/A|Fire The Worpedo|||owner|1125|15|87|75.0|72.67|73.8|N/A|N/A
+164|Darcy|Moore|DEF|FWD|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1121|15|61|74.73|59.0|68.4|N/A|Moore had a great game showing why he was so heavily talked about in the preseason. He used the ball well with his 16 touches coming at 81% effectiveness.
+596|Shai|Bolton|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1117|16|40|69.81|56.0|61.2|N/A|N/A
+729|Zaine|Cordy|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1116|22|50|50.73|48.0|45.0|N/A|N/A
+326|Jordan|Clark|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1097|18|0|60.94|63.0|66.0|N/A|Clark was good with 14 of his 17 touches being kicks and all of them going at 82%. This is exactly what we want to see form a rookie in his first game!
+344|Jake|Kolodjashnij|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1096|20|0|54.8|38.0|44.8|N/A|N/A
+127|Will|Setterfield|MID|FWD|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1093|18|79|60.72|55.0|63.4|N/A|Setterfield justified being selected on the field as he returned 24 touches. Look for his score to only get better as he improves his efficiency from 50%.
+354|Gary|Rohan|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1090|18|55|60.56|48.33|47.8|N/A|N/A
+610|Jack|Graham|MID||RIC|N/A|N/A|N/A|Casting Crouch|||owner|1080|14|61|77.14|84.0|91.2|N/A|N/A
+481|Tom|McDonald|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|1069|15|0|71.27|112.0|87.2|N/A|N/A
+364|Zach|Tuohy|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1067|15|96|71.13|72.67|67.4|N/A|N/A
+339|Jack|Henry|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|1065|20|46|53.25|65.67|66.4|N/A|N/A
+454|Chad|Wingard|FWD|MID|HAW|N/A|N/A|N/A|Casting Crouch|||owner|1063|14|62|75.93|88.33|88.4|N/A|The Hawks big new recruit missed the JLT with a calf complaint.
+297|Jack|Lukosius|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|1062|21|51|50.57|55.0|60.2|N/A|Lukosius finished with 13 touches and took four marks. His 42 points isn't ideal but it was better than we thought he might do after his JLT. He is still not someone you want to start on the field at this stage.
+232|Connor|Blakely|DEF||FRE|N/A|N/A|N/A|Salt&VinegarCripps|||owner|1061|14|50|75.79|57.67|65.0|N/A|N/A
+590|Ollie|Wines|MID||PTA|N/A|N/A|N/A|TryingAnewStratton|||owner|1060|12|138|88.33|97.33|101.4|N/A|Wines had a shoulder injury in the off season and will miss the first few weeks of the season.
+745|Patrick|Lipinski|FWD|MID|WBD|N/A|N/A|N/A|Man of Steele|||owner|1057|13|89|81.31|100.33|92.0|N/A|N/A
+48|Noah|Answerth|DEF|MID|BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1054|17|43|62.0|66.33|74.8|N/A|N/A
+540|Marley|Williams|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1048|17|88|61.65|73.0|74.8|N/A|N/A
+406|Sam|Taylor|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1048|18|51|58.22|51.0|56.4|N/A|N/A
+152|Levi|Greenwood|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|1047|16|74|65.44|63.67|67.0|N/A|N/A
+761|Jackson|Trengove|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1043|16|0|65.19|64.67|61.0|N/A|N/A
+571|Dougal|Howard|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|1040|15|0|69.33|38.33|51.4|N/A|N/A
+193|Aaron|Francis|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1038|16|60|64.88|62.33|62.4|N/A|N/A
+646|Hunter|Clark|DEF||STK|N/A|N/A|N/A|Swimming n Titch|||owner|1037|14|67|74.07|78.0|76.4|N/A|N/A
+733|Tory|Dickson|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|1036|17|0|60.94|56.67|59.6|N/A|N/A
+100|Paddy|Dow|FWD|MID|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|1034|19|47|54.42|45.0|42.4|N/A|N/A
+519|Nick|Larkey|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1030|17|61|60.59|76.67|68.4|N/A|N/A
+720|Callum|Sinclair|RUC||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|1022|14|0|73.0|68.0|77.0|N/A|N/A
+3|Luke|Brown|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|1020|15|52|68.0|63.67|61.6|N/A|Brown won't be in the Crows side for the first month or so due to injury.
+79|Cameron|Rayner|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|1020|22|59|46.36|37.67|45.6|N/A|N/A
+129|Jack|Silvagni|DEF|FWD|CAR|N/A|N/A|N/A|Barbeques Treloar|||owner|1018|17|17|59.88|43.33|55.6|N/A|N/A
+619|Kamdyn|McIntosh|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|1013|16|0|63.31|49.0|55.4|N/A|N/A
+379|Brett|Deledio|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|1011|13|0|77.77|67.0|68.2|N/A|N/A
+211|Shaun|McKernan|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|1005|15|95|67.0|72.67|73.6|N/A|N/A
+353|Esava|Ratugolea|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|999|17|87|58.76|71.0|62.6|N/A|N/A
+186|Mitch|Brown|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|994|15|53|66.27|53.33|56.4|N/A|N/A
+417|James|Frawley|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|994|18|65|55.22|71.0|59.4|N/A|N/A
+468|Marty|Hore|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|989|14|40|70.64|25.33|40.2|N/A|Marty was solid in his first game and scored better than we thought with his 58 points from 14 touches at 71%. Definitely enough for him to hold his spot for a few weeks which is great for us.
+735|Taylor|Duryea|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|985|13|70|75.77|76.0|73.0|N/A|N/A
+150|Jamie|Elliott|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|981|14|109|70.07|92.67|75.8|N/A|N/A
+783|Liam|Duggan|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|975|15|95|65.0|69.67|64.8|N/A|N/A
+136|Taylor|Adams|MID||COL|N/A|N/A|N/A|TryingAnewStratton|||owner|967|10|138|96.7|115.0|106.2|N/A|A finger injury that required surgery will see Adams miss the first few rounds.
+799|Jack|Petruccelle|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|967|19|32|50.89|35.67|44.8|N/A|Pettruccelle played a few games last year for a top score of 33 so he was able to beat that and a good sign is that he had an efficiency of 80% which will please the coach and hopefully keep him in the side.
+175|Jaidyn|Stephenson|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|964|12|0|80.33|75.33|79.4|N/A|N/A
+291|Jack|Hombsch|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|964|18|0|53.56|52.0|44.8|N/A|N/A
+293|Jesse|Joyce|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|963|16|0|60.19|41.0|57.2|N/A|N/A
+182|Patrick|Ambrose|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|963|19|54|50.68|53.67|53.2|N/A|N/A
+196|Matt|Guelfi|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|954|17|0|56.12|47.0|54.6|N/A|N/A
+24|Riley|Knight|FWD|MID|ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|951|15|51|63.4|58.33|61.6|N/A|N/A
+703|Tom|McCartin|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|944|19|94|49.68|63.0|58.8|N/A|N/A
+179|Travis|Varcoe|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|941|16|62|58.81|70.33|66.6|N/A|N/A
+36|Paul|Seedsman|MID||ADE|N/A|N/A|N/A|TryingAnewStratton|||owner|940|13|95|72.31|102.33|94.0|N/A|N/A
+774|Tom|Barrass|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|938|12|52|78.17|82.0|80.8|N/A|N/A
+10|Cameron|Ellis-Yolmen|MID||ADE|N/A|N/A|N/A|Barbeques Treloar|||owner|934|10|0|93.4|91.67|94.8|N/A|N/A
+754|Ed|Richards|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|925|19|36|48.68|49.0|49.6|N/A|N/A
+666|Matthew|Parker|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|910|17|0|53.53|40.67|49.8|N/A|Parker did exactly what we hoped. He got himself plenty of the footy with 17 possessions and he also kicked a couple of goals. He should make us some great cash if he can do this for a few weeks.
+792|Chris|Masten|MID||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|899|15|67|59.93|62.67|66.8|N/A|N/A
+802|Willie|Rioli|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|897|13|104|69.0|99.33|94.6|N/A|N/A
+706|Lewis|Melican|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|891|17|32|52.41|52.33|53.8|N/A|N/A
+425|Daniel|Howe|MID||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|883|12|67|73.58|62.67|76.8|N/A|N/A
+508|Luke|Davies-Uniacke|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|882|14|0|63.0|46.0|52.2|N/A|N/A
+567|Hamish|Hartlett|DEF||PTA|N/A|N/A|N/A|DEVQON.1|||owner|881|11|91|80.09|66.67|78.6|N/A|N/A
+580|Steven|Motlop|FWD|MID|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|873|14|0|62.36|63.33|61.8|N/A|N/A
+604|Trent|Cotchin|MID||RIC|N/A|N/A|N/A|TryingAnewStratton|||owner|870|11|54|79.09|59.33|83.0|N/A|N/A
+242|Taylin|Duman|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|867|14|64|61.93|65.67|63.4|N/A|N/A
+483|Alex|Neal-Bullen|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|860|14|63|61.43|62.67|64.0|N/A|N/A
+105|Liam|Jones|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|859|13|0|66.08|87.33|68.0|N/A|N/A
+613|Jack|Higgins|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|859|13|0|66.08|49.67|62.0|N/A|N/A
+642|Nathan|Brown|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|853|16|63|53.31|51.33|54.8|N/A|N/A
+660|Jack|Lonie|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|848|13|46|65.23|58.0|58.6|N/A|N/A
+393|Daniel|Lloyd|FWD||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|847|14|88|60.5|70.0|67.0|N/A|N/A
+137|James|Aish|DEF|MID|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|845|13|0|65.0|75.0|75.6|N/A|N/A
+559|Brad|Ebert|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|841|11|0|76.45|51.67|48.2|N/A|N/A
+763|Mitch|Wallis|FWD|MID|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|837|10|0|83.7|87.0|86.6|N/A|N/A
+16|Kyle|Hartigan|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|837|19|0|44.05|39.33|43.0|N/A|N/A
+658|Ben|Long|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|834|16|51|52.12|67.67|61.4|N/A|N/A
+631|Ivan|Soldo|RUC||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|833|11|88|75.73|90.67|77.6|N/A|N/A
+113|Caleb|Marchbank|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|833|13|0|64.08|77.33|75.6|N/A|N/A
+416|James|Cousins|MID||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|832|12|0|69.33|57.67|66.6|N/A|Cousins got plenty of the footy but he didn't use it well going at just 50% efficiency that is all that stopped him from a great score.
+13|Bryce|Gibbs|MID||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|829|12|45|69.08|62.0|67.4|N/A|N/A
+655|Dean|Kent|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|828|13|0|63.69|58.67|64.4|N/A|N/A
+452|Ben|Stratton|DEF||HAW|N/A|N/A|N/A|TryingAnewStratton|||owner|826|19|12|43.47|32.67|38.0|N/A|N/A
+303|Jordan|Murdoch|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|824|14|46|58.86|59.33|62.0|N/A|N/A
+240|Sean|Darcy|RUC||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|816|11|0|74.18|91.0|84.6|N/A|N/A
+430|Mitch|Lewis|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|811|12|0|67.58|73.67|80.8|N/A|N/A
+192|Orazio|Fantasia|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|810|14|0|57.86|54.0|49.4|N/A|N/A
+789|Mark|Hutchings|MID||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|808|16|0|50.5|40.67|40.6|N/A|N/A
+290|Nick|Holman|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|807|12|0|67.25|57.0|61.2|N/A|N/A
+780|Thomas|Cole|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|803|14|0|57.36|63.67|56.2|N/A|N/A
+477|Jordan|Lewis|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|797|12|85|66.42|83.0|75.8|N/A|N/A
+686|Ryan|Clarke|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|797|14|0|56.93|73.67|63.6|N/A|N/A
+482|Jake|Melksham|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|795|12|45|66.25|55.0|56.6|N/A|N/A
+521|Luke|McDonald|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|783|13|0|60.23|53.0|62.8|N/A|N/A
+114|Mitch|McGovern|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|776|16|51|48.5|56.33|43.4|N/A|N/A
+663|Daniel|McKenzie|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|776|15|0|51.73|40.0|39.4|N/A|N/A
+630|Jayden|Short|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|772|12|64|64.33|69.33|73.2|N/A|N/A
+118|Lochie|O'Brien|MID||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|762|17|46|44.82|42.0|41.2|N/A|N/A
+694|Will|Hayward|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|761|13|0|58.54|47.33|57.2|N/A|N/A
+144|Mason|Cox|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|757|14|0|54.07|51.67|46.6|N/A|N/A
+96|Charlie|Curnow|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|754|11|0|68.55|87.0|88.6|N/A|N/A
+20|Josh|Jenkins|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|752|11|0|68.36|73.0|70.2|N/A|N/A
+667|Ben|Paton|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|752|13|0|57.85|44.67|47.0|N/A|N/A
+710|Colin|O'Riordan|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|747|12|0|62.25|82.67|73.8|N/A|N/A
+719|James|Rowbottom|MID||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|746|12|79|62.17|73.0|62.2|N/A|N/A
+55|Allen|Christensen|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|745|11|0|67.73|60.67|71.4|N/A|N/A
+756|Josh|Schache|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|741|13|77|57.0|67.33|60.0|N/A|N/A
+498|Josh|Wagner|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|734|12|0|61.17|58.67|55.0|N/A|N/A
+346|Sam|Menegola|FWD|MID|GEE|N/A|N/A|N/A|Casting Crouch|||owner|732|9|0|81.33|86.67|79.0|N/A|N/A
+139|Dayne|Beams|MID||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|732|9|0|81.33|71.0|68.0|N/A|Beams was the second highest scorer for the Pies and got there with his 10 contested touches from his 25 and 5 clearances. A great return to the Pies for him.
+274|Ben|Ainsworth|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|727|12|99|60.58|68.0|60.0|N/A|N/A
+692|Lance|Franklin|FWD||SYD|N/A|N/A|N/A|Salt&VinegarCripps|||owner|726|10|108|72.6|95.67|75.2|N/A|Buddy didn't have a great game with only 7 touches and one goal. He is a risk and this just demonstrates that for us.
+248|Jesse|Hogan|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|724|12|0|60.33|61.33|53.0|N/A|N/A
+687|Harry|Cunningham|MID||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|723|9|0|80.33|56.33|67.6|N/A|N/A
+557|Willem|Drew|FWD|MID|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|723|10|87|72.3|65.67|65.6|N/A|Drew starts his Supercoach career off with a ton!  A fantastic start with 21 touches at 81% efficiency. He looked good and will hold that midfield spot for a few more weeks yet.
+306|Wil|Powell|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|715|13|0|55.0|31.33|42.6|N/A|N/A
+187|Dylan|Clarke|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|713|11|36|64.82|47.0|56.6|N/A|N/A
+267|Matt|Taberner|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|707|9|0|78.56|69.33|77.4|N/A|N/A
+402|Dawson|Simpson|RUC||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|707|9|0|78.56|77.0|73.4|N/A|N/A
+88|Josh|Walker|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|700|11|0|63.64|48.0|43.6|N/A|N/A
+439|Conor|Nash|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|695|14|36|49.64|61.0|54.6|N/A|N/A
+550|Matthew|Broadbent|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|692|10|57|69.2|63.0|66.8|N/A|N/A
+627|Jack|Riewoldt|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|689|10|112|68.9|84.33|68.4|N/A|N/A
+278|Christopher|Burgess|DEF|FWD|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|684|14|53|48.86|54.67|59.0|N/A|Burgess didn't have a great game with just 4 possessions but thankfully there was a goal in there to help with his score.
+283|Sam|Day|FWD||GCS|N/A|N/A|N/A|Fire The Worpedo|||owner|681|10|27|68.1|52.67|57.4|N/A|N/A
+158|Tom|Langdon|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|672|9|0|74.67|58.33|69.4|N/A|N/A
+624|Toby|Nankervis|RUC||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|670|9|0|74.44|60.33|58.4|N/A|Nankervis was fantastic for those that took the risk with him. 3 goals and 17 touches but do take into account that he didn't have much competition with Kreuzer not playing.
+500|Sam|Weideman|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|647|11|0|58.82|46.67|51.6|N/A|N/A
+447|Jack|Scrimshaw|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|645|10|53|64.5|53.33|57.0|N/A|Scrimshaw had a great game with 13 touches and 5 tackles. Look for him to be a solid cash cow for us.
+494|Billy|Stretch|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|644|9|89|71.56|70.67|71.8|N/A|N/A
+731|Bailey|Dale|FWD|MID|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|643|9|104|71.44|80.0|84.2|N/A|N/A
+277|Will|Brodie|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|642|8|0|80.25|65.67|75.0|N/A|N/A
+194|Martin|Gleeson|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|642|9|57|71.33|64.67|63.6|N/A|N/A
+256|Cam|McCarthy|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|639|12|16|53.25|36.67|46.6|N/A|McCarthy had the second best score for the Dockers thanks to 5 goals and his 20 possessions. He won't have great weeks like this too often though so don't jump in too soon on him.
+653|Nick|Hind|MID||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|630|11|26|57.27|63.0|61.6|N/A|N/A
+49|Zac|Bailey|FWD|MID|BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|630|13|43|48.46|70.0|60.4|N/A|N/A
+822|Jay|Lockhart|DEF|MID|MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|627|12|0|52.25|30.0|51.0|N/A|N/A
+254|Griffin|Logue|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|626|10|72|62.6|60.33|51.6|N/A|N/A
+497|Corey|Wagner|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|624|11|56|56.73|67.33|59.0|N/A|N/A
+595|Noah|Balta|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|617|13|22|47.46|34.0|46.4|N/A|Balta looked good in the first quarter with a goal after a 50 with his first kick in footy. But he couldn't keep it up from there and finished the game with 18. Hardwick did say though that he may be considered for Rance's spot down back.
+812|Jake|Waterman|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|611|11|63|55.55|59.67|63.0|N/A|N/A
+645|Jake|Carlisle|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|605|10|69|60.5|63.0|56.4|N/A|N/A
+691|Robbie|Fox|DEF|FWD|SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|605|11|70|55.0|62.0|54.2|N/A|N/A
+206|Jayden|Laverde|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|604|9|73|67.11|62.67|58.0|N/A|N/A
+261|Alex|Pearce|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|603|11|0|54.82|45.67|50.0|N/A|N/A
+95|David|Cuningham|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|598|9|27|66.44|52.0|57.8|N/A|N/A
+480|Oscar|McDonald|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|590|12|0|49.17|54.33|49.4|N/A|N/A
+810|Nathan|Vardy|RUC|FWD|WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|585|11|0|53.18|72.33|63.0|N/A|N/A
+717|Ben|Ronke|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|584|13|79|44.92|57.0|62.4|N/A|N/A
+556|Charlie|Dixon|FWD||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|581|9|112|64.56|90.0|69.8|N/A|N/A
+445|Jarryd|Roughead|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|580|8|0|72.5|74.0|76.0|N/A|N/A
+294|Ben|King|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|580|14|31|41.43|40.0|56.4|N/A|N/A
+575|Jarrod|Lienert|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|575|7|0|82.14|82.33|88.2|N/A|N/A
+188|Zac|Clarke|RUC||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|571|9|0|63.44|62.0|72.0|N/A|N/A
+106|Matthew|Kennedy|MID||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|570|10|70|57.0|45.33|57.4|N/A|N/A
+478|Steven|May|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|566|8|0|70.75|77.33|76.2|N/A|N/A
+476|Jake|Lever|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|566|8|60|70.75|75.67|74.8|N/A|N/A
+328|Charlie|Constable|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|560|7|0|80.0|77.33|78.2|N/A|Constable had a great debut for the Cats posting 21 touches at 85% efficiency. This is exactly what those that took him and put him on the field wanted. 
+512|Taylor|Garner|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|560|9|80|62.22|73.67|68.2|N/A|N/A
+797|Jackson|Nelson|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|551|11|56|50.09|45.33|56.0|N/A|N/A
+66|Ryan|Lester|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|547|9|0|60.78|59.0|60.0|N/A|N/A
+723|Jackson|Thurlow|MID||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|546|9|0|60.67|42.33|53.8|N/A|N/A
+279|Sam|Collins|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|544|9|0|60.44|51.33|53.0|N/A|Collins didn't perform as expected and finished with just 5 possessions. He wasn't ideal for those that started him on the field.
+71|Rhys|Mathieson|FWD|MID|BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|539|9|0|59.89|56.0|52.8|N/A|N/A
+236|Travis|Colyer|FWD|MID|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|538|10|0|53.8|43.67|46.0|N/A|N/A
+805|Will|Schofield|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|536|12|0|44.67|40.0|43.0|N/A|N/A
+487|Harrison|Petty|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|531|10|0|53.1|58.0|63.6|N/A|N/A
+577|Todd|Marshall|FWD||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|527|10|81|52.7|66.67|59.2|N/A|N/A
+511|Sam|Durdin|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|526|10|76|52.6|58.33|57.2|N/A|N/A
+601|Mabior|Chol|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|524|9|0|58.22|36.0|49.0|N/A|N/A
+183|Mark|Baguley|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|522|10|0|52.2|58.67|60.0|N/A|N/A
+676|Jack|Steven|MID||STK|N/A|N/A|N/A|||1|free_agent|518|7|66|74.0|64.33|71.8|N/A|N/A
+263|Aaron|Sandilands|RUC||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|512|6|0|85.33|97.67|95.2|N/A|N/A
+677|Jimmy|Webster|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|510|8|0|63.75|57.0|62.2|N/A|N/A
+322|Jed|Bews|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|505|9|79|56.11|52.67|51.0|N/A|N/A
+766|Bailey|Williams|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|498|9|0|55.33|68.67|63.2|N/A|N/A
+12|Jordan|Gallucci|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|497|10|0|49.7|42.67|56.2|N/A|N/A
+9|Richard|Douglas|FWD|MID|ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|492|9|54|54.67|57.0|59.2|N/A|N/A
+737|Billy|Gowers|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|486|10|0|48.6|41.33|42.2|N/A|N/A
+501|Paul|Ahern|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|484|7|0|69.14|93.33|81.4|N/A|N/A
+181|Rupert|Wills|MID||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|484|7|57|69.14|69.33|73.6|N/A|N/A
+223|Devon|Smith|FWD|MID|ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|481|7|0|68.71|55.33|65.2|N/A|Smith didn't have a good day. But it wasn't all his fault as the team didn't perform. He had just 23 touches but they came at only 56% efficiency. 
+652|Dan|Hannebery|MID||STK|N/A|N/A|N/A|Fire The Worpedo|||owner|480|5|103|96.0|106.33|96.0|N/A|N/A
+438|Harry|Morrison|FWD|MID|HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|476|9|0|52.89|50.0|51.6|N/A|N/A
+370|Matt|Buntine|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|473|9|0|52.56|49.67|52.8|N/A|N/A
+488|Braydon|Preuss|RUC||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|472|7|41|67.43|35.0|59.8|N/A|N/A
+422|Oliver|Hanrahan|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|472|9|58|52.44|52.67|43.8|N/A|N/A
+45|Marcus|Adams|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|466|8|72|58.25|79.67|66.4|N/A|N/A
+122|Andrew|Phillips|RUC||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|464|5|0|92.8|95.67|92.8|N/A|N/A
+739|Will|Hayes|MID||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|464|8|56|58.0|68.0|58.0|N/A|N/A
+648|Nick|Coffield|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|456|8|0|57.0|51.0|63.0|N/A|N/A
+514|Aaron|Hall|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|455|6|0|75.83|65.67|79.2|N/A|Hall was not ideal for his owners this week. He had 19 touches at just 57% efficiency. He could be one that is traded out next week if he doesn't redeem himself.
+170|Ben|Reid|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|455|7|0|65.0|47.0|66.0|N/A|N/A
+389|Lachlan|Keeffe|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|452|9|36|50.22|39.0|43.0|N/A|N/A
+238|Brennan|Cox|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|450|8|0|56.25|65.67|58.6|N/A|N/A
+629|Jack|Ross|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|438|7|0|62.57|45.33|58.8|N/A|N/A
+705|Jarrad|McVeigh|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|436|6|51|72.67|54.67|70.2|N/A|N/A
+456|Oskar|Baker|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|434|9|0|48.22|36.33|43.4|N/A|N/A
+383|Jackson|Hately|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|432|7|0|61.71|52.33|50.4|N/A|A 101 for Hately in the first game but just 42 in the second. He poses a risk for us in terms of his selection given that variety and uncertainty as to his role in the Giants team.
+184|Josh|Begley|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|426|8|56|53.25|47.33|55.8|N/A|N/A
+697|Kieren|Jack|FWD|MID|SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|407|8|46|50.88|49.0|45.2|N/A|N/A
+491|Timothy|Smith|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|404|7|0|57.71|48.67|59.2|N/A|N/A
+19|Sam|Jacobs|RUC||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|401|5|125|80.2|89.0|80.2|N/A|N/A
+21|Chayce|Jones|MID||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|400|8|86|50.0|61.67|52.4|N/A|N/A
+779|Jarrod|Cameron|MID|FWD|WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|399|7|0|57.0|44.33|60.8|N/A|N/A
+17|Elliott|Himmelberg|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|398|7|0|56.86|46.33|56.0|N/A|N/A
+220|Jordan|Ridley|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|396|6|0|66.0|62.33|65.0|N/A|Ridley had just the 14 touches but all of them were effective. He needs to get more of the ball to pay off as a selection.
+385|Ian|Hill|FWD|MID|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|395|7|85|56.43|54.33|55.0|N/A|N/A
+437|Dylan|Moore|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|393|7|0|56.14|61.0|55.8|N/A|N/A
+172|Matthew|Scharenberg|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|392|7|16|56.0|47.0|56.8|N/A|N/A
+282|Jacob|Dawson|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|391|6|75|65.17|67.33|69.2|N/A|N/A
+295|Sean|Lemmens|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|386|8|24|48.25|32.33|41.6|N/A|N/A
+229|Bailey|Banfield|FWD|MID|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|382|7|62|54.57|44.67|49.0|N/A|N/A
+280|Joshua|Corbett|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|377|9|0|41.89|19.67|28.8|N/A|N/A
+574|Peter|Ladhams|RUC||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|376|5|0|75.2|77.0|75.2|N/A|N/A
+620|Connor|Menadue|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|375|6|0|62.5|50.67|64.0|N/A|N/A
+463|Jeff|Garlett|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|362|7|0|51.71|47.33|52.6|N/A|N/A
+231|Brett|Bewley|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|362|7|0|51.71|47.0|53.2|N/A|Bewley didn't give us anything to get excited about in the JLT with 48 and 16. With Ross as a coach it makes me even more nervous.
+216|David|Myers|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|360|7|0|51.43|43.67|49.8|N/A|N/A
+109|Darcy|Lang|FWD|MID|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|360|8|0|45.0|29.33|45.8|N/A|N/A
+87|Lewis|Taylor|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|357|5|0|71.4|79.67|71.4|N/A|N/A
+308|Michael|Rischitelli|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|353|7|30|50.43|33.33|44.4|N/A|N/A
+650|Jarryn|Geary|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|351|5|0|70.2|71.0|70.2|N/A|N/A
+338|Lachie|Henderson|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|351|5|64|70.2|62.67|70.2|N/A|N/A
+609|Ryan|Garthwaite|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|350|7|0|50.0|47.33|49.6|N/A|N/A
+470|Neville|Jetta|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|349|7|0|49.86|45.67|53.0|N/A|N/A
+418|Conor|Glass|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|346|7|0|49.43|51.67|52.6|N/A|N/A
+492|Charlie|Spargo|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|345|8|49|43.12|56.67|49.0|N/A|N/A
+560|Kane|Farrell|FWD||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|340|7|0|48.57|40.33|43.2|N/A|N/A
+598|Dan|Butler|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|336|7|0|48.0|53.0|48.4|N/A|N/A
+825|Joshua|Deluca|MID||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|333|6|63|55.5|65.67|60.8|N/A|N/A
+707|Daniel|Menzel|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|320|7|12|45.71|40.67|47.8|N/A|N/A
+292|George|Horlin-Smith|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|317|7|0|45.29|38.0|38.0|N/A|N/A
+474|Jay|Kennedy Harris|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|314|5|55|62.8|60.33|62.8|N/A|N/A
+239|Mitchell|Crowden|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|314|5|30|62.8|56.33|62.8|N/A|N/A
+348|Quinton|Narkle|FWD||GEE|N/A|N/A|N/A|Fire The Worpedo|||owner|313|3|134|104.33|104.33|104.33|N/A|N/A
+517|Nathan|Hrovat|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|301|5|62|60.2|59.0|60.2|N/A|N/A
+264|Lachlan|Schultz|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|299|7|0|42.71|38.0|42.2|N/A|Schulz did kick a couple of goals with 17 touches but his efficiency was down. Despite that he looked good and should hold his spot for a few weeks to come.
+174|Brayden|Sier|MID||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|298|6|0|49.67|51.33|39.0|N/A|N/A
+434|David|Mirra|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|288|4|0|72.0|67.67|72.0|N/A|N/A
+412|Kaiden|Brand|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|288|5|0|57.6|63.67|57.6|N/A|N/A
+811|Daniel|Venables|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|287|6|0|47.83|42.0|43.4|N/A|N/A
+375|Isaac|Cumming|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|282|5|69|56.4|65.0|56.4|N/A|N/A
+796|Nic|Naitanui|RUC||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|281|3|0|93.67|93.67|93.67|N/A|N/A
+260|Ryan|Nyhuis|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|279|5|28|55.8|34.0|55.8|N/A|N/A
+768|Lachlan|Young|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|269|6|0|44.83|41.67|45.4|N/A|N/A
+404|Jake|Stein|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|266|5|0|53.2|52.67|53.2|N/A|N/A
+147|Josh|Daicos|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|265|5|0|53.0|50.67|53.0|N/A|N/A
+758|Roarke|Smith|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|264|5|0|52.8|40.0|52.8|N/A|N/A
+81|Nick|Robertson|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|261|4|0|65.25|68.33|65.25|N/A|N/A
+11|Darcy|Fogarty|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|261|4|41|65.25|66.67|65.25|N/A|N/A
+352|James|Parsons|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|260|4|0|65.0|58.67|65.0|N/A|N/A
+284|Corey|Ellis|DEF|MID|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|257|4|0|64.25|64.0|64.25|N/A|N/A
+833|Cam|Sutcliffe|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|257|5|0|51.4|56.33|51.4|N/A|N/A
+718|James|Rose|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|255|5|0|51.0|47.0|51.0|N/A|N/A
+831|William|Snelling|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|254|3|0|84.67|84.67|84.67|N/A|N/A
+668|Ed|Phillips|MID||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|253|4|0|63.25|55.67|63.25|N/A|N/A
+821|Jonathon|Marsh|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|253|5|0|50.6|46.67|50.6|N/A|N/A
+803|Josh|Rotham|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|253|4|0|63.25|65.67|63.25|N/A|N/A
+189|Joe|Daniher|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|249|4|0|62.25|64.67|62.25|N/A|N/A
+131|Liam|Stocker|MID||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|248|5|0|49.6|56.67|49.6|N/A|N/A
+465|Mitch|Hannan|FWD||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|247|6|0|41.17|42.0|41.4|N/A|N/A
+769|Lewis|Young|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|246|4|51|61.5|70.33|61.5|N/A|N/A
+819|Hayden|McLean|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|244|4|0|61.0|61.33|61.0|N/A|N/A
+169|Isaac|Quaynor|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|241|4|0|60.25|53.0|60.25|N/A|N/A
+827|Kyle|Dunkley|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|239|5|0|47.8|46.67|47.8|N/A|N/A
+57|Tom|Cutler|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|234|3|0|78.0|78.0|78.0|N/A|N/A
+411|Grant|Birchall|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|231|3|0|77.0|77.0|77.0|N/A|N/A
+535|Dom|Tyson|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|227|3|0|75.67|75.67|75.67|N/A|N/A
+160|Jack|Madgen|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|217|4|77|54.25|64.33|54.25|N/A|N/A
+528|Bailey|Scott|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|216|4|0|54.0|37.67|54.0|N/A|Bailey Scott was the Rising Star Nominee this week and he was fantastic. He had 21 touches at an impressive 90% efficiency for those touches. He also slotted two goals. He is one of the must have rookies at the moment.
+198|Michael|Hartley|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|215|3|58|71.67|71.67|71.67|N/A|N/A
+34|Andy|Otten|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|209|3|0|69.67|69.67|69.67|N/A|N/A
+212|Ben|McNiece|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|209|5|0|41.8|51.0|41.8|N/A|N/A
+334|Darcy|Fort|RUC||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|209|3|0|69.67|69.67|69.67|N/A|Fort struggled in the JLT and is unlikely to get that number one ruck position at Geelong. This means he isn't an option for you at R2.
+374|Aidan|Corr|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|206|4|47|51.5|52.0|51.5|N/A|N/A
+563|Joel|Garner|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|202|4|0|50.5|45.67|50.5|N/A|N/A
+359|Zac|Smith|RUC||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|201|3|0|67.0|67.0|67.0|N/A|N/A
+289|Jacob|Heron|DEF|FWD|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|184|5|0|36.8|37.67|36.8|N/A|N/A
+197|Brayden|Ham|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|178|4|46|44.5|44.67|44.5|N/A|N/A
+836|John|Noble|MID||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|170|3|64|56.67|56.67|56.67|N/A|N/A
+654|Darragh|Joyce|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|165|3|0|55.0|55.0|55.0|N/A|N/A
+286|Caleb|Graham|DEF|RUC|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|164|3|47|54.67|54.67|54.67|N/A|N/A
+588|Jack|Watts|FWD||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|162|2|0|81.0|81.0|81.0|N/A|N/A
+657|Doulton|Langlands|FWD|MID|STK|N/A|N/A|N/A||Tue 27th 4am||waiver|160|3|0|53.33|53.33|53.33|N/A|N/A
+357|Scott|Selwood|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|145|2|0|72.5|72.5|72.5|N/A|N/A
+442|Marc|Pittonet|RUC||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|145|2|0|72.5|72.5|72.5|N/A|N/A
+623|Patrick|Naish|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|145|2|0|72.5|72.5|72.5|N/A|N/A
+51|Ryan|Bastinac|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|144|3|0|48.0|48.0|48.0|N/A|N/A
+765|Rhylee|West|MID||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|142|2|73|71.0|71.0|71.0|N/A|N/A
+65|Ben|Keays|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|140|2|0|70.0|70.0|70.0|N/A|N/A
+228|Hayden|Ballantyne|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|140|3|0|46.67|46.67|46.67|N/A|N/A
+427|Changkuoth|Jiath|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|135|2|0|67.5|67.5|67.5|N/A|N/A
+392|Zac|Langdon|FWD||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|134|3|0|44.67|44.67|44.67|N/A|N/A
+813|Francis|Watson|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|134|2|0|67.0|67.0|67.0|N/A|N/A
+61|Mitchell|Hinge|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|129|2|0|64.5|64.5|64.5|N/A|N/A
+40|Tyson|Stengle|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|124|2|0|62.0|62.0|62.0|N/A|N/A
+606|Derek|Eggmolesse-Smith|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|124|2|0|62.0|62.0|62.0|N/A|N/A
+638|David|Armitage|FWD|MID|STK|N/A|N/A|N/A||Tue 27th 4am||waiver|121|2|0|60.5|60.5|60.5|N/A|N/A
+680|Robert|Young|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|119|3|0|39.67|39.67|39.67|N/A|N/A
+635|Maverick|Weller|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|118|2|0|59.0|59.0|59.0|N/A|N/A
+247|Stephen|Hill|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|117|3|0|39.0|39.0|39.0|N/A|N/A
+579|Trent|McKenzie|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|110|1|110|110.0|110.0|110.0|N/A|N/A
+84|Archie|Smith|RUC||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|110|2|0|55.0|55.0|55.0|N/A|N/A
+505|Tom|Campbell|RUC||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|105|2|0|52.5|52.5|52.5|N/A|N/A
+146|Ben|Crocker|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|105|3|0|35.0|35.0|35.0|N/A|N/A
+309|Brad|Scheer|MID|FWD|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|103|3|0|34.33|34.33|34.33|N/A|N/A
+522|Ben|McKay|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|103|3|0|34.33|34.33|34.33|N/A|N/A
+35|Myles|Poholke|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|102|2|0|51.0|51.0|51.0|N/A|N/A
+333|Lachie|Fogarty|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|101|2|0|50.5|50.5|50.5|N/A|N/A
+371|Jye|Caldwell|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|100|2|0|50.0|50.0|50.0|N/A|N/A
+617|Oleg|Markov|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|97|2|0|48.5|48.5|48.5|N/A|N/A
+111|Matthew|Lobbe|RUC||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|96|2|0|48.0|48.0|48.0|N/A|N/A
+493|Tom|Sparrow|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|96|2|0|48.0|48.0|48.0|N/A|N/A
+809|Josh|Smith|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|93|2|0|46.5|46.5|46.5|N/A|N/A
+46|Jacob|Allison|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|93|2|0|46.5|46.5|46.5|N/A|N/A
+101|Alex|Fasolo|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|89|3|0|29.67|29.67|29.67|N/A|N/A
+755|Fletcher|Roberts|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|88|2|0|44.0|44.0|44.0|N/A|N/A
+318|Aaron|Young|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|87|2|60|43.5|43.5|43.5|N/A|N/A
+561|Billy|Frampton|RUC||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|87|2|0|43.5|43.5|43.5|N/A|N/A
+475|Kade|Kolodjashnij|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|85|2|0|42.5|42.5|42.5|N/A|N/A
+125|Cameron|Polson|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|85|3|0|28.33|28.33|28.33|N/A|N/A
+103|Jarrod|Garlett|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|84|2|0|42.0|42.0|42.0|N/A|N/A
+365|Aiden|Bonar|MID|FWD|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|83|2|0|41.5|41.5|41.5|N/A|N/A
+273|Callum|Ah Chee|DEF|FWD|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|82|1|0|82.0|82.0|82.0|N/A|N/A
+250|Scott|Jones|RUC|FWD|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|80|1|80|80.0|80.0|80.0|N/A|N/A
+135|Tom|Williamson|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|77|2|0|38.5|38.5|38.5|N/A|N/A
+473|Declan|Keilty|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|75|2|0|37.5|37.5|37.5|N/A|N/A
+770|Brendon|Ah Chee|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|70|1|0|70.0|70.0|70.0|N/A|N/A
+776|Jarrod|Brander|FWD||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|70|2|0|35.0|35.0|35.0|N/A|N/A
+319|Ryan|Abbott|RUC||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|66|1|0|66.0|66.0|66.0|N/A|N/A
+678|Brandon|White|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|66|1|0|66.0|66.0|66.0|N/A|N/A
+547|Joe|Atley|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|66|1|0|66.0|66.0|66.0|N/A|N/A
+234|Jason|Carter|DEF|MID|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|65|2|0|32.5|32.5|32.5|N/A|N/A
+180|Daniel|Wells|FWD||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|64|1|0|64.0|64.0|64.0|N/A|N/A
+830|Ryan|Gardner|DEF|FWD|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|63|2|0|31.5|31.5|31.5|N/A|N/A
+602|Callum|Coleman-Jones|RUC|FWD|RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|60|1|0|60.0|60.0|60.0|N/A|N/A
+460|Kade|Chandler|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|60|1|0|60.0|60.0|60.0|N/A|N/A
+227|Brandon|Zerk-Thatcher|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|58|1|0|58.0|58.0|58.0|N/A|N/A
+659|Billy|Longer|RUC||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|57|1|0|57.0|57.0|57.0|N/A|N/A
+8|Tom|Doedee|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|56|1|0|56.0|56.0|56.0|N/A|N/A
+669|Lewis|Pierce|RUC||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|55|1|0|55.0|55.0|55.0|N/A|N/A
+572|Aidyn|Johnson|FWD||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|54|1|0|54.0|54.0|54.0|N/A|N/A
+104|Hugh|Goddard|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|53|2|0|26.5|26.5|26.5|N/A|N/A
+683|James|Bell|FWD|MID|SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|53|2|0|26.5|26.5|26.5|N/A|N/A
+336|Zach|Guthrie|DEF||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|50|1|0|50.0|50.0|50.0|N/A|N/A
+44|Patrick|Wilson|MID||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|50|1|0|50.0|50.0|50.0|N/A|N/A
+203|Thomas|Jok|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|49|1|49|49.0|49.0|49.0|N/A|N/A
+310|Josh|Schoenfeld|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|47|1|0|47.0|47.0|47.0|N/A|N/A
+823|Sam|Rowe|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|46|1|46|46.0|46.0|46.0|N/A|N/A
+241|Hugh|Dixon|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|45|1|45|45.0|45.0|45.0|N/A|N/A
+56|Cedric|Cox|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|44|1|44|44.0|44.0|44.0|N/A|N/A
+722|Ryley|Stoddart|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|42|2|0|21.0|21.0|21.0|N/A|N/A
+531|Curtis|Taylor|MID|FWD|NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|40|2|0|20.0|20.0|20.0|N/A|N/A
+750|Dale|Morris|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|39|1|0|39.0|39.0|39.0|N/A|N/A
+126|Angus|Schumacher|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|39|1|0|39.0|39.0|39.0|N/A|N/A
+626|Alex|Rance|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|36|1|0|36.0|36.0|36.0|N/A|Rance suffered a knee injury in the third quarter and didn't come back on. It didn't look good and unfortunately he has ruptured his ACL and will miss the rest of the season.
+86|Brandon|Starcevich|FWD|MID|BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|34|1|0|34.0|34.0|34.0|N/A|N/A
+388|Connor|Idun|DEF|FWD|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|33|1|0|33.0|33.0|33.0|N/A|N/A
+515|Kyron|Hayden|MID|FWD|NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|31|1|0|31.0|31.0|31.0|N/A|N/A
+632|Jacob|Townsend|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|29|1|0|29.0|29.0|29.0|N/A|N/A
+403|Zachary|Sproule|FWD|MID|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|26|1|0|26.0|26.0|26.0|N/A|N/A
+7|Ben|Davis|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|22|1|0|22.0|22.0|22.0|N/A|N/A
+138|Flynn|Appleby|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|21|1|0|21.0|21.0|21.0|N/A|N/A
+704|Justin|McInerney|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|21|1|0|21.0|21.0|21.0|N/A|N/A
+112|Harrison|Macreadie|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|14|1|0|14.0|14.0|14.0|N/A|N/A
+408|Callan|Ward|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|4|1|0|4.0|4.0|4.0|N/A|N/A
+400|Tommy|Sheridan|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|2|1|0|2.0|2.0|2.0|N/A|N/A
+536|Ed|Vickers-Willis|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|1|1|0|1.0|1.0|1.0|N/A|N/A
+435|Tom|Mitchell|MID||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+99|Sam|Docherty|DEF||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+518|Ben|Jacobs|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+509|Majak|Daw|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+396|Jonathon|Patton|RUC|FWD|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+639|Logan|Austin|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+166|Sam|Murray|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+329|Jordan|Cunico|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+224|James|Stewart|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+432|Teia|Miles|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+721|Nick|Smith|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+190|Matt|Dea|DEF||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+251|Shane|Kersten|DEF||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+149|Lynden|Dunn|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+742|Lin|Jong|FWD|MID|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+670|Bailey|Rice|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+671|Dylan|Roberton|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|Dylan will miss the 2019 season due to his health issues from last season. We wish him all the best in his recovery.
+495|Aaron|vandenBerg|FWD|MID|MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+622|Callum|Moore|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+747|Brad|Lynch|DEF|FWD|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+578|Sam|Mayes|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+281|Brayden|Crossley|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+244|Stefan|Giro|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+490|Joel|Smith|DEF||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+313|Rory|Thompson|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+662|Paddy|McCartin|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+446|Ryan|Schoenmakers|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+151|Tyson|Goldsack|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+709|Sam|Naismith|RUC||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+296|Jack|Leslie|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+764|Lukas|Webb|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+436|Tim|Mohr|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+141|Tim|Broomhead|MID|FWD|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+479|Corey|Maynard|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+215|Kobe|Mutch|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|1|0|0.0|0.0|0.0|N/A|N/A
+587|Jack|Trengove|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+771|Brayden|Ainsworth|MID||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+107|Pat|Kerr|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+794|Fraser|McInnes|RUC||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+304|Tom|Nicholls|RUC||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+207|Jake|Long|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+341|Jamaine|Jones|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+325|Wylie|Buzza|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+778|Keegan|Brooksby|RUC||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+738|Fergus|Greene|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+58|Matt|Eagles|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+537|Will|Walker|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+307|Izak|Rankine|FWD||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|A hamstring injury will see Rankine miss the first two months of the season.
+525|Tom|Murphy|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+656|Max|King|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+433|Darren|Minchington|MID||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+327|Nakia|Cockatoo|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+98|Tom|De Koning|RUC|FWD|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+83|Sam|Skinner|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+230|Harley|Bennell|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+165|Nathan|Murphy|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+368|Dylan|Buckley|FWD||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+358|Sam|Simpson|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+29|Ned|McHenry|MID|FWD|ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+795|Kurt|Mutimer|DEF||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+685|Darcy|Cameron|RUC||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+265|Sam|Sturt|FWD||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+401|Nick|Shipley|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+257|Lloyd|Meek|RUC||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+201|Jordan|Houlahan|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+78|Jack|Payne|DEF||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+28|Shane|McAdam|FWD||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+428|Harrison|Jones|DEF||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+621|Ben|Miller|DEF||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+345|Nathan|Kreuger|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+568|Sam|Hayes|RUC||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+90|Toby|Wooller|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+543|Tristan|Xerri|RUC|FWD|NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+581|Jake|Patmore|FWD|MID|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+702|Jack|Maibaum|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+647|Oscar|Clavarino|DEF||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+381|Matthew|Flynn|RUC||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+444|Jackson|Ross|FWD||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+110|Kym|Lebois|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+753|Callum|Porter|MID||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+159|Max|Lynch|RUC||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+777|Hamish|Brayshaw|MID||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+682|Joel|Amartey|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+30|Andrew|McPherson|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+191|Sam|Draper|RUC||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+217|Trent|Mynott|MID||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+700|Matthew|Ling|FWD|MID|SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+369|Jack|Buckley|FWD|MID|GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+259|Tom|North|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+713|Toby|Pink|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+143|Tyler|Brown|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+50|Connor|Ballenden|FWD||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+305|Connor|Nutting|DEF|FWD|GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+538|Declan|Watson|DEF||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+67|Corey|Lyons|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+772|Matthew|Allen|FWD|MID|WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+603|Riley|Collier-Dawkins|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+41|Kieran|Strachan|RUC|FWD|ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+53|Thomas|Berry|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+324|Oscar|Brownless|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+728|Ben|Cavarra|FWD||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+395|Xavier|O'Halloran|MID||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+119|Finbar|O'Dwyer|FWD||CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+214|Irving|Mosquito|MID|FWD|ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+814|Bailey|Williams|RUC|FWD|WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+269|Luke|Valente|MID||FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+64|Tom|Joyce|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+37|Lachlan|Sholl|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+472|James|Jordon|DEF|MID|MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+128|Ben|Silvagni|DEF|FWD|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+195|Noah|Gown|FWD||ESS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+74|Connor|McFadyen|MID|FWD|BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+140|Atu|Bosenavulagi|MID|FWD|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+343|Jacob|Kennerley|MID||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+300|Jez|McLennan|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+566|Riley|Grundy|DEF||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+591|Boyd|Woodcock|MID|FWD|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+362|Jake|Tarca|FWD||GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+633|Fraser|Turner|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+85|Ely|Smith|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+366|Kieren|Briggs|RUC||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+785|Luke|Foley|MID||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+15|William|Hamill|DEF||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+608|Luke|English|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+644|Jack|Bytel|MID||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+484|Aaron|Nietschke|MID||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+157|Will|Kelly|DEF||COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+798|Xavier|O'Neill|MID||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+429|Jacob|Koschitzke|DEF|FWD|HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+453|Mathew|Walker|MID|FWD|HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+457|Toby|Bedford|MID|FWD|MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+762|Laitham|Vandermeer|DEF|MID|WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+690|Zac|Foot|FWD||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+506|Joel|Crocker|DEF|FWD|NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+340|Ben|Jarvis|RUC|FWD|GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+555|Tobin|Cox|MID|FWD|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+523|Tom|McKenzie|DEF|MID|NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+724|Durak|Tucker|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+420|Damon|Greaves|DEF|MID|HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+592|Jake|Aarts|FWD||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+784|Harry|Edwards|RUC||WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+583|Kai|Pudney|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+355|Blake|Schlensog|RUC|FWD|GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+828|Michael|Knoll|RUC||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+760|Jordon|Sweet|RUC||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+834|Dillon|O'Reilly|DEF|FWD|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+829|Lachlan|Hosie|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+637|Sam|Alabakis|RUC||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+832|Jack|Mayo|FWD||STK|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+826|Mitchell|Riordan|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+367|Callum M.|Brown|DEF||GWS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+743|Buku|Khamis|DEF||WBD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+817|Matthew|Cottrell|MID|FWD|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+18|Paul|Hunter|RUC||ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+801|Brodie|Riach|MID|FWD|WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+315|Harrison|Wigg|DEF||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+59|Thomas|Fullarton|RUC||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+716|Harry|Reynolds|DEF||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+458|Austin|Bradtke|RUC||MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+539|Tom|Wilkinson|FWD||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+177|Anton|Tohill|DEF|FWD|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+419|Will|Golds|MID||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+69|James|Madden|MID||BRL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+725|Samuel|Wicks|MID|FWD|SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+524|Red Og|Murphy|MID||NTH|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+562|Martin|Frederick|DEF|MID|PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+775|Patrick|Bines|RUC|FWD|WCE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+837|Cody|Hirst|MID||SYD|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+350|Stefan|Okunbor|DEF|FWD|GEE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+499|Guy|Walker|DEF|FWD|MEL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+120|Matthew|Owies|MID|FWD|CAR|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+569|Cameron|Hewett|MID||PTA|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+824|Sam|Fletcher|MID||GCS|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+4|Jordon|Butts|DEF|FWD|ADE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+271|Tobe|Watson|DEF|MID|FRE|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+835|Marlion|Pickett|MID||RIC|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+156|Mark|Keane|DEF|FWD|COL|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A
+820|Ned|Reeves|RUC||HAW|N/A|N/A|N/A||Tue 27th 4am||waiver|0|0|0|0.0|0.0|0.0|N/A|N/A

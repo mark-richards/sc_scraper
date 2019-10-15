@@ -1,0 +1,830 @@
+First Name|Last Name|Pos1|Pos2|Team|Total Pts|Rds|Rd Pts|Avg|Avg 3|Avg 5|MVP|Status Comment|Player Note
+Brodie|Grundy|RUC||COL|2860|22|157|130.0|122.0|120.8|4740|N/A|Grundy didn't have a massive start to the season but he did come home well after a slow start to the game. He gave away 5 free kicks and just the 55% efficiency rating from his 18 touches.
+Jack|Macrae|MID||WBD|2710|22|119|123.18|120.33|133.8|5299.4833948339|N/A|Macrae had the second best score for the Dogs from his 32 touches and 3 tackles. He also had a massive 15 clearances. His efficiency was down at 68% but owners can't be unhappy with a return of 132.
+Max|Gawn|RUC||MEL|2696|21|212|128.38|143.33|139.4|4972.7002967359|N/A|Gawn was targeted by the Power players and his scoring suffered as a result. He managed to get himself to 87 but at his price tag we need him back over 110.
+Lachie|Neale|MID||BRL|2668|22|190|121.27|126.0|119.8|4620.1649175412|N/A|Neale has had a great start to his Lions career and top scored for the Lions. His 29 touches included 14 contested but impressively he used the ball well with 86% efficiency.
+Josh|Dunkley|FWD|MID|WBD|2562|22|106|116.45|142.67|124.6|5659.718969555|N/A|Dunkley didn't take any marks but he did lay 7 tackles and have 20 touches. He just missed the 100 so don't panic just yet if you are an owner.
+Marcus|Bontempelli|MID||WBD|2524|22|140|114.73|109.67|125.4|5029.3185419968|N/A|Bontempelli showed us exactly why he has been a popular pick in previous seasons. 29 touches and 7 tackles including a goal was a great result which delivered owners 158 points. His role was a mix of midfield and forward time. Hopefully he can spend more time in the midfield to maintain high scores.
+Adam|Treloar|MID||COL|2495|22|99|113.41|114.0|128.4|5538.3567134269|N/A|Treloar had 34 touches and 6 tackles but 10 of those touches were clangers which kept his score down to just over 100. However he was the only Pie over 100 for the game. He will be a gun again this season.
+Todd|Goldstein|RUC||NTH|2469|22|69|112.23|122.67|123.6|5630.5386796274|N/A|Goldy was one of the top scoring rucks of the week with his 102 from 23 touches 34 hitouts and a goal. A great option for those that started with him.
+Patrick|Dangerfield|FWD|MID|GEE|2419|21|156|115.19|146.33|119.0|5231.3352625052|N/A|Danger seemed to spend most of his time in the midfield which is exactly what we were hoping for. 27 touches and a goal was good but 6 clangers and 59% efficiency was what held him back.
+Clayton|Oliver|MID||MEL|2406|22|109|109.36|99.0|106.8|4944.0565253533|N/A|Oliver was quiet as he only had one mark and two tackles. The Demons didn't have a great day and this could be why he was down. Hopefully he can turn this around next week.
+Nat|Fyfe|MID||FRE|2400|20|108|120.0|118.0|120.4|5150.8333333333|N/A|Fyfe was great with 10 kicks and 22 handballs. His 32 touches came at 78% efficiency and he had 10 clearances which was 3 more than any other player on the ground. He is worth putting on watch for next weeks trades.
+Jake|Lloyd|DEF||SYD|2396|22|113|108.91|95.67|92.0|4427.5459098497|N/A|Lloyd was the only Swan over 100 and he got there in style from 35 touches at 85% and 10 marks. He is on his way to being one of the top defenders again.
+Dayne|Zorko|MID||BRL|2346|22|141|106.64|129.0|114.6|5302.1312872975|N/A|Zorko was great with his 20 touches and 8 tackles. This is a level of scoring we are hoping to continue to see from him. The Lions were good and hopefully their form continues and it allows him to score like this.
+Patrick|Cripps|MID||CAR|2342|20|148|117.1|122.33|119.4|4785.6532877882|N/A|Cripps had the second best score for the Blues with 21 of his 32 touches contested and his efficiency was up at 81%. The only downside on his game was that 22 of those 32 touches were by hand.
+Zach|Merrett|MID||ESS|2324|22|78|105.64|99.33|99.8|4888.4681583477|N/A|Merrett didn't have a great game with just 16 touches one mark and 3 tackles. He is competing with an extra player (Shiel) in the midfield and this doesn't seem to be helping his scoring.
+Luke|Parker|MID||SYD|2312|22|141|105.09|94.67|88.8|4223.0103806228|N/A|N/A
+Scott|Pendlebury|MID||COL|2295|22|115|104.32|114.0|108.4|5183.1808278867|N/A|N/A
+Tim|Kelly|FWD|MID|GEE|2276|22|115|103.45|101.67|105.4|4842.7065026362|N/A|Kelly was fantastic and had the ball on a string in the first term. His 31 touches came at a 67% but 12 of those touches were contested. Look for him to be a popular trade in in the first few weeks.
+Mitch|Duncan|MID||GEE|2271|22|79|103.23|87.33|89.8|4600.5284015852|N/A|N/A
+Rory|Sloane|MID||ADE|2266|22|106|103.0|87.33|90.8|4399.0291262136|N/A|Sloane returned to former glory scoring that we thought he could do. 9 tackles to go with his 36 touches which came at 76% and included 11 clearances! He will come into a few teams on the back of this performance.
+Elliot|Yeo|MID||WCE|2260|21|93|107.62|110.67|114.8|5233.2743362832|N/A|Yeo didn't get the score that we need him to for his price. He was one of many Eagles that had a  down day. He did have 25 touches but he did have an efficiency of only 44%. Hopefully he can turn this around next week.
+Travis|Boak|FWD||PTA|2252|21|74|107.24|78.0|89.8|4362.2557726465|N/A|Boak has been reborn this year with 34 touches and a team high 5 clearances to get to his 119.
+Tim|Taranto|MID||GWS|2252|22|97|102.36|91.67|91.8|4550.4440497336|N/A|Taranto was talked about all through the preseason and he came up with the goods for us. 30 touches with 21 by foot and 10 tackles. The only blemish was that his efficiency was just under 50% which saw his score a little restricted.
+Ben|Cunnington|MID||NTH|2245|22|46|102.05|87.67|82.8|4378.4409799555|N/A|N/A
+Dion|Prestia|MID||RIC|2229|22|116|101.32|115.67|121.2|5656.4378645132|N/A|N/A
+Luke|Shuey|MID||WCE|2221|22|107|100.95|91.33|91.2|4611.9765871229|N/A|Shuey was one of just 3 Eagles over 100 this week. He had 26 touches and 23 were kicks which was great for us. He could have scored better as just 57% of those disposals were effective but it wasn't a great night for them so don't panic just yet.
+Michael|Walters|FWD|MID|FRE|2217|22|74|100.77|84.67|100.8|4905.0969778981|N/A|Walters had a great JLT with an 86 and 92. But are you game enough to select him? Last year he burnt us with suspensions and poor scoring.
+Rowan|Marshall|FWD||STK|2205|20|94|110.25|95.33|104.0|4951.4739229025|N/A|N/A
+Jarrod|Witts|RUC||GCS|2193|22|152|99.68|129.33|120.2|5490.4696762426|N/A|N/A
+Jarryd|Lyons|MID||BRL|2169|22|92|98.59|125.0|113.8|6020.8390963578|N/A|Lyons had a good preseason at his new home with a 109 then a huge 147. He doesn't come cheap at $502k but an interesting unique selection for you.
+Brad|Crouch|MID||ADE|2164|22|59|98.36|82.33|89.4|4952.033271719|N/A|Crouch had 28 and kicked 2 goals but it was his efficiency which hurt him at 67%. However 91 still a good start for a guy that didn't play last season and was very underpriced. Look for him to build from here.
+Tom|Stewart|DEF||GEE|2160|22|124|98.18|108.0|98.0|4893.9814814815|N/A|N/A
+Sebastian|Ross|MID||STK|2151|22|126|97.77|123.67|126.0|5719.3863319386|N/A|Ross had 27 touches but didn't have any tackles which kept his scoring down. Look for him to improve this week and hopefully return to the scoring we bought him in for.
+Andrew|Gaff|MID||WCE|2148|20|134|107.4|120.67|116.2|5105.2141527002|N/A|N/A
+James|Worpel|FWD|MID|HAW|2135|22|72|97.05|113.67|119.2|5945.6674473068|N/A|Worpel top scored for the Hawks as he showed that his JLT form was no fluke. His 27 touches resulted in 2 goals and he had the most contested possessions for the Hawks with 12.
+Daniel|Rich|DEF||BRL|2130|22|103|96.82|105.0|99.4|4974.2723004695|N/A|N/A
+Rory|Laird|DEF||ADE|2130|22|104|96.82|90.0|98.4|4891.6431924883|N/A|Laird had a solid JLT series showing that he hasn't lost any of his scoring power. He will be a popular selection again this year.
+Lachie|Hunter|MID||WBD|2096|22|97|95.27|110.67|96.0|5064.4083969466|N/A|N/A
+James|Harmes|MID||MEL|2092|22|95|95.09|90.33|93.2|4979.4455066922|N/A|N/A
+Dom|Sheed|MID||WCE|2091|22|75|95.05|77.67|80.6|4639.8852223816|N/A|Sheed has had a fantastic start to the season which he has continued into round one. His 38 touches included 10 clearances and 21 of the touches were contested. He is getting the job done in the midfield but it will be interesting to see what happens when Gaff comes back.
+Ricky|Henderson|MID||HAW|2086|22|111|94.82|90.33|82.6|4387.3441994247|N/A|N/A
+Mitch|Robinson|FWD|MID|BRL|2077|22|104|94.41|108.67|111.8|5597.9778526721|N/A|N/A
+Isaac|Heeney|FWD|MID|SYD|2069|22|54|94.05|82.67|94.4|5169.8405026583|N/A|Heeney has been a popular selection over the past couple of seasons and he has started this one well with 19 touches at 78% however just 6 of those were kicks which stalled his scoring a bit.
+James|Sicily|DEF||HAW|2064|22|124|93.82|103.67|95.6|4943.6046511628|N/A|Sicily was great with 10 marks and a kick to handball ratio of 22 to 4 which is what we like to see.
+Jack|Billings|FWD||STK|2064|22|44|93.82|76.33|79.0|4813.5658914729|N/A|Billings didn't get off to a great start but it was better than all but one of his games before the byes last year. His 28 touches were good and he had 4 marks. Importantly his 82% efficiency helped boost that score. Just one Saint went over 100 so don't despair with him just yet.
+Dylan|Shiel|MID||ESS|2046|21|61|97.43|89.67|99.0|4978.0058651026|N/A|Shiel was one of only two Bombers to crack the 100 point mark. He had 25 touches with 18 of them being contested. He was one of few shining lights for the Bombers.
+Dane|Rampe|DEF||SYD|2041|21|79|97.19|96.33|96.0|5149.6815286624|N/A|N/A
+Zac|Williams|DEF||GWS|2032|20|100|101.6|100.67|99.2|5043.3070866142|N/A|Williams didn't play much JLT at all but did manage 82 points in his 53% of JLT1. He was rested in JLT2  and if named he could still be well worth a selection.
+Stefan|Martin|RUC||BRL|2030|22|85|92.27|103.33|90.8|5155.3694581281|N/A|Stef had a good return from just 13 touches and 17 hitouts. As an alternative to the big two he scored well. Hopefully he can keep this up and improve from here.
+Josh P.|Kennedy|MID||SYD|2026|19|178|106.63|121.33|109.2|4762.1915103653|N/A|N/A
+Gary|Ablett|MID||GEE|2009|21|167|95.67|121.0|105.0|5106.2717770035|N/A|Ablett was talked up to be more of a forward this season and that is how things panned out. But he did still spend some time in the midfield. 23 touches and 2 goals was a solid game for him but he did give away 3 free kicks.
+Bachar|Houli|DEF||RIC|2000|19|110|105.26|119.0|118.2|5328.55|N/A|N/A
+Dustin|Martin|MID||RIC|2000|20|108|100.0|126.0|117.2|5521|N/A|Dusty had 30 touches and half of these were contested. He scored well but did look a bit rusty at times and got caught when normally he would get away. Look for a much better season from Dusty.
+Jack|Ziebell|FWD||NTH|1999|22|100|90.86|96.67|96.0|5092.2461230615|N/A|N/A
+Ed|Curnow|MID||CAR|1998|22|126|90.82|133.0|114.6|6254.2542542543|N/A|Curnow took 12 marks against the Tigers. He also had 25 touches to go with them. He had a good game and was 4th equal top score or the Blues.
+Steele|Sidebottom|MID||COL|1980|21|0|94.29|99.0|96.6|5258.4848484848|N/A|N/A
+Hugh|McCluggage|MID||BRL|1975|21|112|94.05|102.67|100.6|5040|N/A|McCluggage hit 114 points from his 20 touches at 85%. Many have suspected that he could score like this and hopefully this is the start of a great season for him.
+Matt|Crouch|MID||ADE|1970|19|134|103.68|117.0|109.2|5207.1573604061|N/A|Crouch was great and had the second best score for the Crows from 40 touches and just under half of them were contested. He is a supercoach machine and well worth being in your side.
+Shannon|Hurn|DEF||WCE|1967|19|89|103.53|83.0|84.2|4275.2414844942|N/A|Hurn had a great JLT with 111 and 89. Not many people are talking about him and if you want a unique down back he could be your man.
+David|Mundy|FWD|MID|FRE|1959|22|70|89.05|76.33|74.2|4361.8172537009|N/A|N/A
+Jack|Crisp|DEF||COL|1956|22|92|88.91|80.67|81.4|4695.8077709611|N/A|N/A
+Brodie|Smith|DEF||ADE|1950|22|89|88.64|90.0|91.2|5166.0512820513|N/A|Smith was solid for his 81 points from 21 touches. His role may change a little with Doedee out but there is nothing to worry about there.
+David|Swallow|MID||GCS|1940|22|71|88.18|96.67|95.0|5238.0412371134|N/A|N/A
+George|Hewett|MID||SYD|1935|22|79|87.95|76.67|77.4|4642.1705426357|N/A|N/A
+Nic|Newman|DEF||CAR|1933|20|84|96.65|94.67|105.4|5448.5256078634|N/A|Newman had a lackluster preseason campaign which saw him exit a lot of Supercoach teams. But he turned it on with 21 of his 26 touches by foot as well as 9 marks. He won't change price for another week yet so wait and see how he goes this week before getting him in.
+Jared|Polec|MID||NTH|1930|22|118|87.73|90.33|91.0|4714.6113989637|N/A|Polec had a good first game for the Roos and finished the day with 27 touches 7 marks and a tackle. If the Roos can get back on track he could improve his scoring from this effort.
+Darcy|Byrne-Jones|DEF||PTA|1918|22|97|87.18|71.33|83.4|5129.5099061522|N/A|N/A
+Nick|Vlastuin|DEF||RIC|1916|21|106|91.24|102.0|102.6|5288.3611691023|N/A|N/A
+Sam|Walsh|MID||CAR|1912|22|73|86.91|66.33|79.2|4588.7029288703|N/A|Walsh didn't let down those coaches that paid the extra price for him. 24 possessions and 6 marks on debut certainly paid off. His score could have been higher as only half of his touches were effective but he will only get better which is great for owners.
+Jack|Steele|MID||STK|1900|20|98|95.0|84.33|99.0|4920|N/A|Steele was the  best for the Saints and it was the 10 tackles that really helped to go with his 22 touches. He was the only Saint to hit the 100+ mark.
+Jaeger|O'Meara|MID||HAW|1899|21|99|90.43|81.0|86.8|4679.9368088468|N/A|O'Meara was great with a couple of goals from his 24 touches and had the second best score for the Hawks. 
+Ed|Langdon|MID||FRE|1889|22|111|85.86|110.67|98.0|5455.1614610905|N/A|N/A
+Tom|Hawkins|FWD||GEE|1884|22|35|85.64|59.67|83.6|4739.8089171975|N/A|N/A
+Jack|Redden|MID||WCE|1877|21|69|89.38|70.33|84.2|4876.8779968034|N/A|N/A
+Dan|Houston|DEF||PTA|1875|21|117|89.29|103.33|105.8|5322.24|N/A|N/A
+Jack|Darling|FWD||WCE|1859|22|76|84.5|93.33|97.2|5840.2366863905|N/A|N/A
+Jeremy|Cameron|FWD||GWS|1856|20|152|92.8|91.67|98.6|4705.8189655172|N/A|N/A
+Bradley|Hill|MID||FRE|1853|22|76|84.23|73.67|80.0|4784.6735024285|N/A|N/A
+Shane|Savage|DEF||STK|1851|22|90|84.14|88.0|85.8|5121.4478660184|N/A|N/A
+Brad|Sheppard|DEF||WCE|1846|22|69|83.91|65.0|69.2|4440.5200433369|N/A|N/A
+Brayden|Fiorini|MID||GCS|1845|21|80|87.86|87.67|78.2|4483.4146341463|N/A|Fiorini is showing the form we all suspected he had and he got there on the back of 30 touches and 6 tackles this gave him the best score for the Suns.
+Jeremy|McGovern|DEF||WCE|1838|21|70|87.52|86.0|88.6|5088.9009793254|N/A|N/A
+Angus|Brayshaw|MID||MEL|1833|22|77|83.32|93.0|81.4|4742.062193126|N/A|Brayshaw didn't quite get to the score we needed him to as he had only 57% efficiency for his 26 touches. He did top the clearance list for the Demons though so this could be a one off hopefully.
+Scott|Lycett|RUC|FWD|PTA|1825|18|129|101.39|108.33|104.0|5380.2739726027|N/A|N/A
+Tom|Phillips|MID||COL|1825|22|67|82.95|75.33|78.8|4915.9452054795|N/A|N/A
+Mark|Blicavs|DEF||GEE|1820|22|36|82.73|77.67|86.6|5458.9010989011|N/A|N/A
+Jacob|Hopper|MID||GWS|1820|19|0|95.79|93.33|89.4|4701.978021978|N/A|Hopper had the second best score for the Giants and had a fantastic 15 contested possessions out of his 28 touches. An interesting unique.
+Heath|Shaw|DEF||GWS|1818|22|90|82.64|89.0|90.0|5074.0374037404|N/A|N/A
+Robbie|Tarrant|DEF||NTH|1814|22|96|82.45|83.67|74.8|4986.9900771775|N/A|N/A
+Christian|Salem|DEF||MEL|1809|20|64|90.45|66.67|67.8|4419.0160309563|N/A|N/A
+Callum|Mills|DEF||SYD|1799|22|82|81.77|73.67|78.2|4868.3713173986|N/A|Mills had a great JLT with a 106 and a 93. At his handy price bracket he could be a unique midpricer that pays off.
+Darcy|MacPherson|FWD||GCS|1798|22|97|81.73|71.67|69.6|4467.296996663|N/A|N/A
+Sam|Petrevski-Seton|FWD||CAR|1796|22|28|81.64|61.67|73.8|4907.1269487751|N/A|N/A
+Christian|Petracca|FWD|MID|MEL|1788|22|97|81.27|88.33|85.8|5159.1722595078|N/A|N/A
+Luke|Dahlhaus|FWD|MID|GEE|1788|21|123|85.14|97.33|85.4|4739.0939597315|N/A|Dahlhaus was quiet in game one but had 118 in game two. His price is awkward if he isn't going to be scoring over 75 each week.
+Lachie|Whitfield|DEF||GWS|1780|16|159|111.25|121.0|112.4|4826.9662921348|N/A|Whitfield was a popular choice in our defence this season and he delivered with 30 touches. He seems to have a role that will assist him with this level of scoring going forward.
+Shane|Edwards|FWD|MID|RIC|1771|21|91|84.33|112.33|104.2|5841.1067193676|N/A|N/A
+Tim|Membrey|FWD||STK|1768|22|80|80.36|81.67|87.2|5277.2624434389|N/A|N/A
+Ben|McEvoy|RUC||HAW|1762|19|35|92.74|68.67|96.0|5132.8036322361|N/A|N/A
+Trent|Dumont|MID||NTH|1760|21|84|83.81|72.67|82.4|4683.2386363636|N/A|N/A
+Brayden|Maynard|DEF||COL|1758|22|57|79.91|90.33|88.0|5357.337883959|N/A|N/A
+Charlie|Cameron|FWD||BRL|1755|22|38|79.77|82.67|86.4|5630.9971509972|N/A|N/A
+Ben|Brown|FWD||NTH|1750|22|93|79.55|91.33|88.6|5508.8|N/A|N/A
+Jasper|Pittard|DEF||NTH|1750|22|103|79.55|94.33|83.2|4897.8285714286|N/A|N/A
+Blake|Hardwick|DEF||HAW|1738|22|83|79.0|75.67|77.0|4855.6962025316|N/A|N/A
+Brandon|Ellis|DEF||RIC|1734|20|63|86.7|87.0|76.2|4868.5121107266|N/A|N/A
+Sam|Reid|FWD||SYD|1726|22|68|78.45|85.33|71.8|4824.449594438|N/A|N/A
+Luke|Ryan|DEF||FRE|1725|18|0|95.83|84.33|76.4|4563.1304347826|N/A|A solid return for Ryann in the JLT with two in the 80s. He doesn't come cheap but scores like this will certainly make him a solid unique selection.
+Tom|Papley|FWD||SYD|1724|22|92|78.36|75.67|70.0|4613.1090487239|N/A|N/A
+Marc|Murphy|MID||CAR|1723|19|128|90.68|109.0|106.6|5489.3789901335|N/A|N/A
+Jordan|Dawson|MID||SYD|1723|20|114|86.15|94.67|96.4|5294.2542077771|N/A|N/A
+Reilly|O'Brien|RUC||ADE|1715|18|0|95.28|80.67|92.8|5207.9300291545|N/A|N/A
+Joel|Selwood|MID||GEE|1715|20|47|85.75|61.33|81.6|4759.1836734694|N/A|Selwood had a night out against the Bombers in JLT2. 38 touches 11 marks and 7 tackles is a great return particularly in a practice game.
+Adam|Saad|DEF||ESS|1715|21|49|81.67|71.33|73.8|4829.387755102|N/A|N/A
+Darcy|Parish|FWD|MID|ESS|1714|20|86|85.7|73.0|75.2|4465.577596266|N/A|N/A
+Connor|Rozee|DEF|FWD|PTA|1710|22|85|77.73|91.67|90.2|5445.9649122807|N/A|Rozee had a great debut with 18 touches at 77% and 5 tackles. He is a higher priced rookie but showed more here than he did in the JLT.
+Aliir|Aliir|DEF||SYD|1706|22|68|77.55|75.0|76.0|5012.5439624853|N/A|N/A
+Jack|Sinclair|MID||STK|1703|22|84|77.41|75.0|78.0|4655.7839107457|N/A|N/A
+Jack|Viney|MID||MEL|1699|21|62|80.9|87.0|80.4|5166.5685697469|N/A|N/A
+Sam|Lloyd|MID||WBD|1698|22|63|77.18|69.0|70.4|4778.3274440518|N/A|N/A
+Luke|Breust|FWD||HAW|1694|22|126|77.0|83.67|68.0|4637.6623376623|N/A|N/A
+Bailey|Smith|MID||WBD|1685|22|87|76.59|89.0|88.0|5359.6439169139|N/A|Smith had a slow start to his career with just the 8 possessions at 62% efficiency. If you have him the bench is the best spot for now.
+Caleb|Daniel|FWD||WBD|1684|17|0|99.06|84.67|91.2|4762.8266033254|N/A|N/A
+Conor|McKenna|DEF||ESS|1677|21|141|79.86|97.0|89.4|5330.7692307692|N/A|N/A
+Bayley|Fritsch|MID||MEL|1677|22|99|76.23|77.33|78.8|5290.7573047108|N/A|N/A
+Luke|Dunstan|MID||STK|1675|18|114|93.06|86.33|85.0|4817.552238806|N/A|N/A
+Nick|Haynes|DEF||GWS|1661|19|0|87.42|110.0|94.6|5306.5021071644|N/A|N/A
+Anthony|McDonald-Tipungwuti|FWD||ESS|1659|22|127|75.41|89.0|77.8|4964.9186256781|N/A|N/A
+Liam|Shiels|MID||HAW|1650|19|96|86.84|100.33|92.0|5455.8787878788|N/A|N/A
+Dale|Thomas|DEF||CAR|1649|20|91|82.45|108.67|102.2|5884.7786537295|N/A|N/A
+Jake|Kelly|DEF||ADE|1646|22|45|74.82|60.67|68.4|4895.8687727825|N/A|N/A
+Josh|Kelly|MID||GWS|1644|14|124|117.43|104.0|108.8|4791.8491484185|N/A|N/A
+Tom|Rockliff|MID||PTA|1642|18|71|91.22|70.67|80.6|4509.8660170524|N/A|Rockliff will be targeted by many coaches this week as he was everywhere with 44 touches and 8 tackles. Another week like this will see him the most traded in at round 3.
+Jarrod|Harbrow|DEF||GCS|1622|21|64|77.24|66.0|65.2|4294.512946979|N/A|N/A
+Andrew|McGrath|DEF|MID|ESS|1618|22|88|73.55|72.33|70.6|4588.9987639061|N/A|N/A
+Darcy|Tucker|MID||FRE|1614|22|68|73.36|63.0|68.2|4634.448574969|N/A|Tucker had a great game with a couple of goals and 24 touches but the Dockers won't have the game on their own terms like this each week so just be careful.
+Shaun|Higgins|MID||NTH|1613|17|133|94.88|104.67|104.4|5047.3031618103|N/A|N/A
+Nathan|Jones|MID||MEL|1612|22|75|73.27|70.0|66.2|4674.317617866|N/A|N/A
+Dyson|Heppell|MID||ESS|1610|17|0|94.71|77.67|85.4|4787.4534161491|N/A|N/A
+Justin|Westhoff|FWD|RUC|PTA|1604|20|134|80.2|88.0|86.4|5048.6284289277|N/A|Westhoff didn't need the ruck duties to get his points. He kicked 5 goals and that was enough for him to get a game high 149 points. He won't get it all his own way every week but a great start.
+Jason|Johannisen|DEF||WBD|1603|19|85|84.37|90.0|87.6|4764.8159700561|N/A|N/A
+Harry|Himmelberg|FWD||GWS|1600|21|46|76.19|57.67|72.0|4899.5625|N/A|N/A
+Jade|Gresham|FWD||STK|1597|19|0|84.05|93.0|88.0|5287.1634314339|N/A|N/A
+Jack|Gunston|FWD||HAW|1597|20|91|79.85|84.67|84.8|4991.8597370069|N/A|N/A
+Robbie|Gray|FWD|MID|PTA|1585|19|37|83.42|54.33|72.2|4670.2839116719|N/A|N/A
+Kane|Lambert|FWD||RIC|1584|18|86|88.0|76.33|83.2|4767.0454545455|N/A|N/A
+Adam|Tomlinson|MID||GWS|1581|22|64|71.86|58.33|60.4|4354.0796963947|N/A|N/A
+Brody|Mihocek|FWD||COL|1580|22|76|71.82|79.33|75.6|5383.0379746835|N/A|N/A
+David|Zaharakis|MID||ESS|1579|20|0|78.95|44.67|51.4|3934.1355288157|N/A|N/A
+Isaac|Smith|MID||HAW|1577|19|71|83.0|98.33|93.2|5554.2168674699|N/A|N/A
+Tom J.|Lynch|FWD||RIC|1575|22|47|71.59|79.67|90.2|6215.873015873|N/A|Lynch was good in his first game for the Tigers. 3 goals and 7 touches in what was effectively his first game of the season as he missed the JLT.
+Hayden|Crozier|DEF||WBD|1573|21|83|74.9|74.0|78.2|5066.4335664336|N/A|N/A
+Harris|Andrews|DEF||BRL|1572|19|72|82.74|89.0|79.6|4921.6284987277|N/A|N/A
+Tim|English|RUC||WBD|1569|19|104|82.58|102.0|92.6|5294.3275971957|N/A|N/A
+Jeremy|Finlayson|DEF||GWS|1562|19|68|82.21|80.67|72.2|4735.4033290653|N/A|N/A
+Shaun|Atley|FWD||NTH|1561|21|76|74.33|75.0|72.2|4700.4484304933|N/A|N/A
+Callum|Wilkie|DEF||STK|1555|22|59|70.68|74.33|73.8|5287.0739549839|N/A|N/A
+Tom|Clurey|DEF||PTA|1554|21|0|74.0|74.67|74.6|5086.4864864865|N/A|N/A
+Andrew|Brayshaw|MID||FRE|1551|22|74|70.5|73.67|77.8|5635.4609929078|N/A|N/A
+Dylan|Grimes|DEF||RIC|1545|21|70|73.57|74.67|69.2|4848.3495145631|N/A|N/A
+Daniel|Talia|DEF||ADE|1530|22|38|69.55|66.67|72.2|5254.1176470588|N/A|N/A
+Jarrod|Berry|MID||BRL|1529|18|67|84.94|85.67|82.8|4956.1805101373|N/A|N/A
+Touk|Miller|MID||GCS|1527|18|86|84.83|84.0|94.0|5237.3280943026|N/A|N/A
+Sam J.|Reid|DEF|FWD|GWS|1522|22|49|69.18|55.0|70.4|5024.4415243101|N/A|N/A
+Lachie|Plowman|DEF||CAR|1519|21|67|72.33|70.67|70.0|4976.9585253456|N/A|N/A
+Alex|Witherden|DEF||BRL|1519|21|38|72.33|77.0|62.2|4950.6912442396|N/A|Witherden has been talked about as a key player down back this season in Supercoach and he delivered in the first week with his 25 touches and 7 marks. Keep him in mind if you don't have him.
+Stephen|Coniglio|MID||GWS|1518|15|0|101.2|86.67|90.8|5335.9683794466|N/A|Coniglio had 3 goals from his 24 kicks and 7 handballs. On top of this he had a handy 7 tackles. Look at him to be a popular trade in target following his 154. Look at him as a captain option too.
+Jeremy|Howe|DEF||COL|1511|19|58|79.53|93.0|92.6|5565.4533421575|N/A|N/A
+Phil|Davis|DEF||GWS|1510|19|88|79.47|76.67|73.2|4600.2649006623|N/A|N/A
+Rory|Atkins|MID||ADE|1510|20|0|75.5|56.67|72.6|4654.3046357616|N/A|N/A
+Reece|Conca|MID||FRE|1507|22|83|68.5|65.0|67.0|4802.9197080292|N/A|N/A
+Lachie|Weller|DEF|MID|GCS|1506|17|110|88.59|91.67|84.4|4664.2762284197|N/A|N/A
+Matthew|Suckling|DEF||WBD|1505|18|109|83.61|104.0|87.2|5111.7607973422|N/A|N/A
+Toby|Greene|FWD||GWS|1503|16|0|93.94|123.67|118.0|5950.7651363939|N/A|N/A
+Aaron|Naughton|DEF||WBD|1490|22|59|67.73|70.0|84.0|5650.6040268456|N/A|N/A
+Levi|Casboult|FWD||CAR|1486|20|22|74.3|62.67|67.8|4979.8115746972|N/A|N/A
+Harry|Taylor|DEF||GEE|1486|21|52|70.76|53.0|55.0|4345.5585464334|N/A|N/A
+Gryan|Miers|FWD||GEE|1481|22|68|67.32|80.67|69.2|5234.8413234301|N/A|Miers had just the 11 touches and 3 tackles. He may not be safe to play on field but if you have him he should make some money if he can stay in the team.
+Jy|Simpkin|FWD||NTH|1481|21|49|70.52|68.0|63.4|4869.2775151924|N/A|N/A
+Taylor|Walker|FWD||ADE|1481|22|79|67.32|61.0|67.0|4783.2545577313|N/A|N/A
+Xavier|Duursma|DEF|MID|PTA|1479|20|98|73.95|86.67|82.0|5250.8451656525|N/A|Duursma had a handy 67 for us on debut from his 16 touches at 87%. He looked good and should hold his spot for a while yet.
+Jed|Anderson|MID||NTH|1472|17|0|86.59|76.0|80.2|4756.9972826087|N/A|N/A
+Darcy|Gardiner|DEF||BRL|1472|22|32|66.91|63.67|65.4|5141.3043478261|N/A|N/A
+Jamie|Macmillan|DEF||NTH|1469|18|35|81.61|91.33|81.8|5289.7208985705|N/A|Macmillan top scored for the Roos this week on the back of 37 touches and 3 tackles. The ball spent a lot of time in the North defence and may continue to do so as the season progresses.
+Kade|Simpson|DEF||CAR|1467|18|65|81.5|91.33|97.6|5748.4662576687|N/A|Simpson still doesn't look like slowing down. 27 touches and 6 marks was a handy contribution. He looks to be a solid option for those that started with him.
+Matthew|Kreuzer|RUC||CAR|1461|15|82|97.4|97.67|93.0|4957.9055441478|N/A|N/A
+Zak|Jones|DEF||SYD|1457|17|0|85.71|80.33|84.2|4986.8222374743|N/A|N/A
+Josh|Bruce|FWD||STK|1451|22|72|65.95|70.67|73.6|5397.6567884218|N/A|N/A
+Lincoln|McCarthy|FWD||BRL|1448|22|31|65.82|51.0|55.2|4618.7845303867|N/A|N/A
+Oliver|Florent|MID||SYD|1444|21|70|68.76|92.67|78.2|5382.3407202216|N/A|N/A
+Michael|Hurley|DEF||ESS|1435|18|48|79.72|46.0|59.6|4264.8083623693|N/A|N/A
+Jordan|Roughead|RUC|FWD|COL|1427|22|76|64.86|58.67|57.2|4531.0441485634|N/A|N/A
+Anthony|Miles|MID||GCS|1425|17|0|83.82|78.67|82.2|5277.7543859649|N/A|N/A
+Sam|Gray|FWD||PTA|1424|20|41|71.2|44.67|60.4|4476.1235955056|N/A|N/A
+Chris|Mayne|MID||COL|1423|19|123|74.89|90.0|88.8|4968.3063949403|N/A|N/A
+Jack|Newnes|FWD|MID|STK|1423|20|28|71.15|53.67|55.2|4295.1510892481|N/A|N/A
+Jacob|Weitering|DEF||CAR|1413|20|38|70.65|62.0|70.6|4898.796886058|N/A|N/A
+Tom|Hickey|RUC||WCE|1411|18|75|78.39|79.0|79.6|5072.1474131821|N/A|N/A
+Sam|Powell-Pepper|MID||PTA|1411|19|0|74.26|76.67|70.6|4839.546420978|N/A|N/A
+Sam|Frost|DEF||MEL|1410|22|60|64.09|60.0|67.8|5258.1560283688|N/A|N/A
+Lewis|Jetta|DEF||WCE|1409|20|95|70.45|67.33|70.2|4580.5535841022|N/A|N/A
+Ethan|Hughes|DEF||FRE|1408|21|47|67.05|66.67|79.4|5672.0880681818|N/A|N/A
+Brent|Daniels|FWD||GWS|1407|22|80|63.95|68.33|60.6|4892.5373134328|N/A|N/A
+Paddy|Ryder|RUC||PTA|1406|17|84|82.71|83.0|80.4|4941.6073968706|N/A|N/A
+Paul|Puopolo|FWD||HAW|1404|22|72|63.82|66.67|64.2|4915.5270655271|N/A|N/A
+Jordan|De Goey|FWD||COL|1396|16|0|87.25|96.0|83.4|4875.6446991404|N/A|N/A
+Jason|Castagna|FWD||RIC|1395|21|81|66.43|79.0|73.8|5824.3010752688|N/A|N/A
+Joel|Hamling|DEF||FRE|1387|22|56|63.05|68.33|68.4|5637.2025955299|N/A|N/A
+Tom|Jonas|DEF||PTA|1384|18|62|76.89|76.67|74.4|5046.2427745665|N/A|N/A
+Oscar|Allen|DEF||WCE|1384|21|81|65.9|78.0|73.8|5400.2167630058|N/A|N/A
+Shaun|Burgoyne|MID||HAW|1383|18|90|76.83|72.0|79.0|5157.9175704989|N/A|N/A
+Tom|Scully|MID||HAW|1380|21|15|65.71|60.33|58.0|4893.9130434783|N/A|N/A
+Rhys|Stanley|RUC||GEE|1377|16|95|86.06|84.0|88.8|4931.2999273784|N/A|N/A
+Zac|Fisher|FWD|MID|CAR|1377|21|38|65.57|35.67|43.0|3670.8061002179|N/A|N/A
+Cale|Hooker|DEF||ESS|1372|17|0|80.71|61.33|68.0|4590.7434402332|N/A|N/A
+Cameron|Guthrie|DEF||GEE|1372|18|71|76.22|58.0|67.0|4461.9533527697|N/A|N/A
+Luke|Hodge|DEF||BRL|1370|20|92|68.5|69.33|68.8|4922.6277372263|N/A|N/A
+Alex|Keath|DEF||ADE|1369|18|29|76.06|51.67|59.2|4594.0102264427|N/A|N/A
+Callum L.|Brown|FWD||COL|1366|20|70|68.3|78.33|68.8|5120.0585651537|N/A|N/A
+Josh|Battle|FWD||STK|1365|19|60|71.84|78.33|63.0|5001.2454212454|N/A|N/A
+Sydney|Stack|MID||RIC|1362|17|0|80.12|65.67|76.0|4976.4317180617|N/A|N/A
+Liam|Ryan|FWD||WCE|1356|22|55|61.64|50.67|59.6|4935.3982300885|N/A|N/A
+Tom|Lynch|FWD||ADE|1355|16|86|84.69|61.0|71.0|4463.4686346863|N/A|N/A
+Blake|Acres|FWD|MID|STK|1345|19|43|70.79|52.33|68.2|4653.2342007435|N/A|N/A
+Brandan|Parfitt|FWD||GEE|1338|17|101|78.71|78.67|69.6|4695.9641255605|N/A|N/A
+Scott D.|Thompson|DEF||NTH|1335|19|57|70.26|83.33|71.6|5237.4531835206|N/A|N/A
+Mason|Redman|DEF||ESS|1329|19|72|69.95|82.0|78.6|5459.8194130926|N/A|N/A
+Riley|Bonner|DEF||PTA|1314|19|67|69.16|59.67|73.0|5085.4642313546|N/A|N/A
+Karl|Amon|MID||PTA|1310|17|80|77.06|69.0|79.0|5140.2290076336|N/A|N/A
+Rory|Lobb|RUC|FWD|FRE|1306|15|0|87.07|80.33|79.4|4982.3889739663|N/A|N/A
+Shane|Mumford|RUC||GWS|1306|16|94|81.62|87.33|65.6|4480.2450229709|N/A|Mumford will miss the first couple of weeks of the season through club suspension.
+Eddie|Betts|FWD||ADE|1305|21|52|62.14|50.33|58.8|4891.9540229885|N/A|N/A
+Jamie|Cripps|FWD||WCE|1295|17|42|76.18|68.0|62.4|4660.2316602317|N/A|N/A
+Oscar|McInerney|FWD||BRL|1289|19|72|67.84|65.33|72.0|5175.2521334368|N/A|N/A
+Mark|O'Connor|DEF||GEE|1276|20|56|63.8|65.0|66.6|5147.3354231975|N/A|N/A
+Jake|Stringer|FWD||ESS|1275|18|0|70.83|59.33|74.8|5107.7647058824|N/A|N/A
+Kayne|Turner|FWD||NTH|1274|21|89|60.67|64.67|57.0|4500|N/A|N/A
+David|Astbury|DEF||RIC|1273|19|71|67.0|66.33|66.0|5070.1492537313|N/A|N/A
+Tom|Bellchambers|RUC||ESS|1272|15|62|84.8|77.0|79.4|5166.2735849057|N/A|N/A
+Brandon|Matera|FWD||FRE|1263|20|57|63.15|64.67|60.6|4663.4996041172|N/A|N/A
+Jarman|Impey|DEF|FWD|HAW|1260|17|0|74.12|58.0|73.2|5399.5238095238|N/A|N/A
+Toby|McLean|FWD|MID|WBD|1260|18|48|70.0|79.33|59.8|5037.1428571429|N/A|N/A
+Wayne|Milera|DEF||ADE|1260|17|66|74.12|58.0|62.0|4480.7142857143|N/A|N/A
+Charlie|Ballard|DEF||GCS|1260|21|33|60.0|46.67|56.8|4861.6666666667|N/A|N/A
+Kyle|Langford|FWD|MID|ESS|1252|17|86|73.65|76.0|74.2|4755.1118210863|N/A|N/A
+Tarryn|Thomas|MID||NTH|1252|20|37|62.6|49.67|53.6|4757.1884984026|N/A|N/A
+Adam|Cerra|FWD||FRE|1248|20|51|62.4|67.67|67.8|5363.7820512821|N/A|N/A
+Josh|Thomas|FWD||COL|1247|20|72|62.35|83.67|74.0|5698.4763432237|N/A|N/A
+Michael|Gibbons|MID||CAR|1244|21|0|59.24|48.0|69.2|5675.4019292604|N/A|Gibbons only got to 35 from his 11 touches and 3 tackles. We didn't expect him to be a high scorer but he did his role and we expect him to hold his spot. He is a slow burn for us so don't lose faith just yet.
+Jack|Martin|FWD|MID|GCS|1240|16|0|77.5|56.33|65.8|4544.5161290323|N/A|N/A
+Cameron|Zurhaar|FWD||NTH|1238|19|27|65.16|38.0|53.2|4513.6510500808|N/A|N/A
+Pearce|Hanley|DEF||GCS|1237|16|82|77.31|97.33|80.8|5085.8528698464|N/A|N/A
+Adam|Kennedy|DEF||GWS|1237|19|76|65.11|75.67|74.0|5197.7364591754|N/A|N/A
+Tom|Liberatore|MID||WBD|1236|15|0|82.4|59.67|58.4|3969.6601941748|N/A|Libba wasn't the high scorer people thought he might be when they picked him but it is only one game. He did have 28 touches at 60% efficiency but just 75 points was the result.  Hopefully he will lift that scoring in the coming weeks.
+Josh J.|Kennedy|FWD||WCE|1236|20|65|61.8|53.33|65.0|4537.216828479|N/A|N/A
+Daniel|McStay|FWD||BRL|1236|22|26|56.18|40.67|47.8|4707.928802589|N/A|N/A
+Nathan|Wilson|DEF||FRE|1233|18|0|68.5|65.33|68.6|5183.9416058394|N/A|N/A
+Harry|McKay|FWD||CAR|1233|20|25|61.65|41.67|47.8|4433.0900243309|N/A|N/A
+Jayden|Hunt|DEF||MEL|1227|21|35|58.43|41.0|42.4|4170.9046454768|N/A|N/A
+Michael|Hibberd|DEF||MEL|1222|19|79|64.32|64.0|70.2|5454.3371522095|N/A|N/A
+Tom|Atkins|MID||GEE|1205|20|0|60.25|76.0|62.2|5118.6721991701|N/A|Atkins used the footy well in his first game and his 9 touches were supplemented by 5 tackles. This should be enough for him to hold his spot for a couple more weeks.
+Alex|Sexton|FWD||GCS|1204|22|68|54.73|41.33|47.2|4304.9833887043|N/A|N/A
+David|Mackay|DEF||ADE|1197|18|44|66.5|59.67|67.6|5036.0902255639|N/A|N/A
+Will|Hoskin-Elliott|FWD||COL|1196|17|45|70.35|65.67|74.4|5172.491638796|N/A|N/A
+Hugh|Greenwood|MID||ADE|1194|14|68|85.29|76.67|83.0|5059.4639865997|N/A|N/A
+Liam|Baker|FWD||RIC|1190|16|89|74.38|75.0|68.4|4566.0504201681|N/A|N/A
+Ryan|Burton|DEF||PTA|1184|16|49|74.0|47.67|66.0|4691.8918918919|N/A|N/A
+Mason|Wood|FWD||NTH|1181|18|74|65.61|57.33|60.8|4531.2447078747|N/A|N/A
+Easton|Wood|DEF||WBD|1174|22|46|53.36|53.33|50.6|5125.2129471891|N/A|N/A
+Sam|Switkowski|FWD||FRE|1170|18|77|65.0|85.67|83.0|5887.6923076923|N/A|N/A
+Peter|Wright|FWD||GCS|1156|17|0|68.0|64.33|68.6|5125|N/A|N/A
+Jonathon|Ceglar|RUC|FWD|HAW|1152|15|94|76.8|95.67|81.8|5250|N/A|N/A
+Zak|Butters|MID||PTA|1150|19|0|60.53|49.0|53.6|4801.2173913043|N/A|A couple of goals helped Butters to his 67 points. His 13 touches came at only 53% efficiency so as he builds on that his score will improve.
+Tim|O'Brien|FWD||HAW|1147|16|101|71.69|87.33|84.8|5238.0122057541|N/A|N/A
+Nick|Blakey|FWD||SYD|1144|21|62|54.48|69.67|63.6|5751.1363636364|N/A|Blakey had a reasonable JLT with 31 and 54. But as we know any rookie that shows promise under Horse at Sydney is destined for the NEAFL. Select with caution.
+Lachlan|Murphy|FWD||ADE|1144|21|0|54.48|46.0|49.0|4631.3811188811|N/A|N/A
+Nathan|Broad|DEF||RIC|1140|21|44|54.29|55.67|57.0|5500.5263157895|N/A|N/A
+Eric|Hipwood|FWD||BRL|1137|21|77|54.14|56.33|56.4|5188.1266490765|N/A|N/A
+Jack|Bowes|MID||GCS|1136|15|73|75.73|74.33|56.8|4280.8098591549|N/A|N/A
+Harry|Perryman|DEF||GWS|1134|15|98|75.6|89.0|79.0|5179.8941798942|N/A|N/A
+Matt|de Boer|FWD||GWS|1127|15|81|75.13|65.0|75.2|4824.7559893523|N/A|N/A
+Daniel|Rioli|FWD||RIC|1126|19|57|59.26|45.0|53.8|4657.1936056838|N/A|N/A
+Josh|Caddy|FWD||RIC|1125|15|87|75.0|72.67|73.8|4898.6666666667|N/A|N/A
+Darcy|Moore|DEF|FWD|COL|1121|15|61|74.73|59.0|68.4|4867.9750223015|N/A|Moore had a great game showing why he was so heavily talked about in the preseason. He used the ball well with his 16 touches coming at 81% effectiveness.
+Shai|Bolton|FWD||RIC|1117|16|40|69.81|56.0|61.2|4810.0268576544|N/A|N/A
+Zaine|Cordy|DEF||WBD|1116|22|50|50.73|48.0|45.0|4585.3046594982|N/A|N/A
+Jordan|Clark|DEF||GEE|1097|18|0|60.94|63.0|66.0|5221.1485870556|N/A|Clark was good with 14 of his 17 touches being kicks and all of them going at 82%. This is exactly what we want to see form a rookie in his first game!
+Jake|Kolodjashnij|DEF||GEE|1096|20|0|54.8|38.0|44.8|4275.5474452555|N/A|N/A
+Will|Setterfield|MID|FWD|CAR|1093|18|79|60.72|55.0|63.4|4966.8801463861|N/A|Setterfield justified being selected on the field as he returned 24 touches. Look for his score to only get better as he improves his efficiency from 50%.
+Gary|Rohan|FWD||GEE|1090|18|55|60.56|48.33|47.8|4014.495412844|N/A|N/A
+Jack|Graham|MID||RIC|1080|14|61|77.14|84.0|91.2|5838.5185185185|N/A|N/A
+Tom|McDonald|FWD||MEL|1069|15|0|71.27|112.0|87.2|5851.2628624883|N/A|N/A
+Zach|Tuohy|DEF||GEE|1067|15|96|71.13|72.67|67.4|4807.8725398313|N/A|N/A
+Jack|Henry|DEF||GEE|1065|20|46|53.25|65.67|66.4|6041.3145539906|N/A|N/A
+Chad|Wingard|FWD|MID|HAW|1063|14|62|75.93|88.33|88.4|5684.2897460019|N/A|The Hawks big new recruit missed the JLT with a calf complaint.
+Jack|Lukosius|FWD||GCS|1062|21|51|50.57|55.0|60.2|6155.6497175141|N/A|Lukosius finished with 13 touches and took four marks. His 42 points isn't ideal but it was better than we thought he might do after his JLT. He is still not someone you want to start on the field at this stage.
+Connor|Blakely|DEF||FRE|1061|14|50|75.79|57.67|65.0|4668.4260131951|N/A|N/A
+Ollie|Wines|MID||PTA|1060|12|138|88.33|97.33|101.4|5154.3396226415|N/A|Wines had a shoulder injury in the off season and will miss the first few weeks of the season.
+Patrick|Lipinski|FWD|MID|WBD|1057|13|89|81.31|100.33|92.0|5231.977294229|N/A|N/A
+Noah|Answerth|DEF|MID|BRL|1054|17|43|62.0|66.33|74.8|5675.8064516129|N/A|N/A
+Marley|Williams|DEF||NTH|1048|17|88|61.65|73.0|74.8|5505.534351145|N/A|N/A
+Sam|Taylor|DEF||GWS|1048|18|51|58.22|51.0|56.4|4802.2900763359|N/A|N/A
+Levi|Greenwood|DEF||COL|1047|16|74|65.44|63.67|67.0|5018.52913085|N/A|N/A
+Jackson|Trengove|DEF||WBD|1043|16|0|65.19|64.67|61.0|4652.7325023969|N/A|N/A
+Dougal|Howard|DEF||PTA|1040|15|0|69.33|38.33|51.4|4176.9230769231|N/A|N/A
+Aaron|Francis|DEF||ESS|1038|16|60|64.88|62.33|62.4|5020.4238921002|N/A|N/A
+Hunter|Clark|DEF||STK|1037|14|67|74.07|78.0|76.4|5487.9459980714|N/A|N/A
+Tory|Dickson|FWD||WBD|1036|17|0|60.94|56.67|59.6|5006.4671814672|N/A|N/A
+Paddy|Dow|FWD|MID|CAR|1034|19|47|54.42|45.0|42.4|4184.0425531915|N/A|N/A
+Nick|Larkey|FWD||NTH|1030|17|61|60.59|76.67|68.4|5220.4854368932|N/A|N/A
+Callum|Sinclair|RUC||SYD|1022|14|0|73.0|68.0|77.0|5445.2054794521|N/A|N/A
+Luke|Brown|DEF||ADE|1020|15|52|68.0|63.67|61.6|5098.5294117647|N/A|Brown won't be in the Crows side for the first month or so due to injury.
+Cameron|Rayner|FWD||BRL|1020|22|59|46.36|37.67|45.6|4667.4509803922|N/A|N/A
+Jack|Silvagni|DEF|FWD|CAR|1018|17|17|59.88|43.33|55.6|5058.2514734774|N/A|N/A
+Kamdyn|McIntosh|MID||RIC|1013|16|0|63.31|49.0|55.4|4591.5103652517|N/A|N/A
+Brett|Deledio|MID||GWS|1011|13|0|77.77|67.0|68.2|4748.6646884273|N/A|N/A
+Shaun|McKernan|FWD||ESS|1005|15|95|67.0|72.67|73.6|5240.2985074627|N/A|N/A
+Esava|Ratugolea|FWD||GEE|999|17|87|58.76|71.0|62.6|5443.7437437437|N/A|N/A
+Mitch|Brown|FWD||ESS|994|15|53|66.27|53.33|56.4|4584.5070422535|N/A|N/A
+James|Frawley|DEF||HAW|994|18|65|55.22|71.0|59.4|5474.245472837|N/A|N/A
+Marty|Hore|DEF||MEL|989|14|40|70.64|25.33|40.2|3701.7189079879|N/A|Marty was solid in his first game and scored better than we thought with his 58 points from 14 touches at 71%. Definitely enough for him to hold his spot for a few weeks which is great for us.
+Taylor|Duryea|DEF||WBD|985|13|70|75.77|76.0|73.0|5226.3959390863|N/A|N/A
+Jamie|Elliott|FWD||COL|981|14|109|70.07|92.67|75.8|5129.0519877676|N/A|N/A
+Liam|Duggan|DEF||WCE|975|15|95|65.0|69.67|64.8|4807.6923076923|N/A|N/A
+Taylor|Adams|MID||COL|967|10|138|96.7|115.0|106.2|5125.1292657704|N/A|A finger injury that required surgery will see Adams miss the first few rounds.
+Jack|Petruccelle|FWD||WCE|967|19|32|50.89|35.67|44.8|4560.3929679421|N/A|Pettruccelle played a few games last year for a top score of 33 so he was able to beat that and a good sign is that he had an efficiency of 80% which will please the coach and hopefully keep him in the side.
+Jaidyn|Stephenson|FWD||COL|964|12|0|80.33|75.33|79.4|5010.3734439834|N/A|N/A
+Jack|Hombsch|DEF||GCS|964|18|0|53.56|52.0|44.8|4587.7593360996|N/A|N/A
+Jesse|Joyce|DEF||GCS|963|16|0|60.19|41.0|57.2|4733.5410176532|N/A|N/A
+Patrick|Ambrose|DEF||ESS|963|19|54|50.68|53.67|53.2|5252.1287642783|N/A|N/A
+Matt|Guelfi|MID||ESS|954|17|0|56.12|47.0|54.6|4852.3060796646|N/A|N/A
+Riley|Knight|FWD|MID|ADE|951|15|51|63.4|58.33|61.6|4947.9495268139|N/A|N/A
+Tom|McCartin|FWD||SYD|944|19|94|49.68|63.0|58.8|5148.5169491525|N/A|N/A
+Travis|Varcoe|FWD||COL|941|16|62|58.81|70.33|66.6|5401.912858661|N/A|N/A
+Paul|Seedsman|MID||ADE|940|13|95|72.31|102.33|94.0|5767.0212765957|N/A|N/A
+Tom|Barrass|DEF||WCE|938|12|52|78.17|82.0|80.8|5187.6332622601|N/A|N/A
+Cameron|Ellis-Yolmen|MID||ADE|934|10|0|93.4|91.67|94.8|5147.7516059957|N/A|N/A
+Ed|Richards|DEF||WBD|925|19|36|48.68|49.0|49.6|5192.6486486486|N/A|N/A
+Matthew|Parker|FWD||STK|910|17|0|53.53|40.67|49.8|4569.4505494505|N/A|Parker did exactly what we hoped. He got himself plenty of the footy with 17 possessions and he also kicked a couple of goals. He should make us some great cash if he can do this for a few weeks.
+Chris|Masten|MID||WCE|899|15|67|59.93|62.67|66.8|5549.4994438265|N/A|N/A
+Willie|Rioli|FWD||WCE|897|13|104|69.0|99.33|94.6|6079.7101449275|N/A|N/A
+Lewis|Melican|DEF||SYD|891|17|32|52.41|52.33|53.8|5390.0112233446|N/A|N/A
+Daniel|Howe|MID||HAW|883|12|67|73.58|62.67|76.8|4961.7214043035|N/A|N/A
+Luke|Davies-Uniacke|MID||NTH|882|14|0|63.0|46.0|52.2|4374.6031746032|N/A|N/A
+Hamish|Hartlett|DEF||PTA|881|11|91|80.09|66.67|78.6|4625.9931895573|N/A|N/A
+Steven|Motlop|FWD|MID|PTA|873|14|0|62.36|63.33|61.8|5082.0160366552|N/A|N/A
+Trent|Cotchin|MID||RIC|870|11|54|79.09|59.33|83.0|5140.9195402299|N/A|N/A
+Taylin|Duman|DEF||FRE|867|14|64|61.93|65.67|63.4|5133.3333333333|N/A|N/A
+Alex|Neal-Bullen|FWD||MEL|860|14|63|61.43|62.67|64.0|5300.4651162791|N/A|N/A
+Liam|Jones|DEF||CAR|859|13|0|66.08|87.33|68.0|5196.9732246799|N/A|N/A
+Jack|Higgins|FWD||RIC|859|13|0|66.08|49.67|62.0|4696.0419091967|N/A|N/A
+Nathan|Brown|DEF||STK|853|16|63|53.31|51.33|54.8|4681.8288393904|N/A|N/A
+Jack|Lonie|FWD||STK|848|13|46|65.23|58.0|58.6|4862.7358490566|N/A|N/A
+Daniel|Lloyd|FWD||GWS|847|14|88|60.5|70.0|67.0|5190.0826446281|N/A|N/A
+James|Aish|DEF|MID|COL|845|13|0|65.0|75.0|75.6|5535.3846153846|N/A|N/A
+Brad|Ebert|MID||PTA|841|11|0|76.45|51.67|48.2|4205.112960761|N/A|N/A
+Mitch|Wallis|FWD|MID|WBD|837|10|0|83.7|87.0|86.6|5156.5113500597|N/A|N/A
+Kyle|Hartigan|DEF||ADE|837|19|0|44.05|39.33|43.0|4905.495818399|N/A|N/A
+Ben|Long|FWD||STK|834|16|51|52.12|67.67|61.4|5761.1510791367|N/A|N/A
+Ivan|Soldo|RUC||RIC|833|11|88|75.73|90.67|77.6|5012.725090036|N/A|N/A
+Caleb|Marchbank|DEF||CAR|833|13|0|64.08|77.33|75.6|5715.006002401|N/A|N/A
+James|Cousins|MID||HAW|832|12|0|69.33|57.67|66.6|4752.4038461538|N/A|Cousins got plenty of the footy but he didn't use it well going at just 50% efficiency that is all that stopped him from a great score.
+Bryce|Gibbs|MID||ADE|829|12|45|69.08|62.0|67.4|5200.9650180941|N/A|N/A
+Dean|Kent|FWD||STK|828|13|0|63.69|58.67|64.4|5283.2125603865|N/A|N/A
+Ben|Stratton|DEF||HAW|826|19|12|43.47|32.67|38.0|4931.7191283293|N/A|N/A
+Jordan|Murdoch|MID||GCS|824|14|46|58.86|59.33|62.0|5049.5145631068|N/A|N/A
+Sean|Darcy|RUC||FRE|816|11|0|74.18|91.0|84.6|5168.3823529412|N/A|N/A
+Mitch|Lewis|FWD||HAW|811|12|0|67.58|73.67|80.8|5436.251541307|N/A|N/A
+Orazio|Fantasia|FWD||ESS|810|14|0|57.86|54.0|49.4|4481.7283950617|N/A|N/A
+Mark|Hutchings|MID||WCE|808|16|0|50.5|40.67|40.6|4600|N/A|N/A
+Nick|Holman|FWD||GCS|807|12|0|67.25|57.0|61.2|5130.1115241636|N/A|N/A
+Thomas|Cole|DEF||WCE|803|14|0|57.36|63.67|56.2|4914.8194271482|N/A|N/A
+Jordan|Lewis|DEF||MEL|797|12|85|66.42|83.0|75.8|5582.9360100376|N/A|N/A
+Ryan|Clarke|DEF||SYD|797|14|0|56.93|73.67|63.6|6039.1468005019|N/A|N/A
+Jake|Melksham|FWD||MEL|795|12|45|66.25|55.0|56.6|4611.320754717|N/A|N/A
+Luke|McDonald|DEF||NTH|783|13|0|60.23|53.0|62.8|5131.9284802043|N/A|N/A
+Mitch|McGovern|FWD||CAR|776|16|51|48.5|56.33|43.4|4793.8144329897|N/A|N/A
+Daniel|McKenzie|DEF||STK|776|15|0|51.73|40.0|39.4|4451.675257732|N/A|N/A
+Jayden|Short|DEF||RIC|772|12|64|64.33|69.33|73.2|5469.9481865285|N/A|N/A
+Lochie|O'Brien|MID||CAR|762|17|46|44.82|42.0|41.2|4593.5695538058|N/A|N/A
+Will|Hayward|FWD||SYD|761|13|0|58.54|47.33|57.2|4841.2614980289|N/A|N/A
+Mason|Cox|FWD||COL|757|14|0|54.07|51.67|46.6|4507.001321004|N/A|N/A
+Charlie|Curnow|FWD||CAR|754|11|0|68.55|87.0|88.6|6417.6392572944|N/A|N/A
+Josh|Jenkins|FWD||ADE|752|11|0|68.36|73.0|70.2|5327.3936170213|N/A|N/A
+Ben|Paton|DEF||STK|752|13|0|57.85|44.67|47.0|4498.1382978723|N/A|N/A
+Colin|O'Riordan|DEF||SYD|747|12|0|62.25|82.67|73.8|5608.0321285141|N/A|N/A
+James|Rowbottom|MID||SYD|746|12|79|62.17|73.0|62.2|5052.5469168901|N/A|N/A
+Allen|Christensen|FWD||BRL|745|11|0|67.73|60.67|71.4|5371.5436241611|N/A|N/A
+Josh|Schache|FWD||WBD|741|13|77|57.0|67.33|60.0|5322.8070175439|N/A|N/A
+Josh|Wagner|DEF||MEL|734|12|0|61.17|58.67|55.0|4710.0817438692|N/A|N/A
+Sam|Menegola|FWD|MID|GEE|732|9|0|81.33|86.67|79.0|5216.8032786885|N/A|N/A
+Dayne|Beams|MID||COL|732|9|0|81.33|71.0|68.0|5090.1639344262|N/A|Beams was the second highest scorer for the Pies and got there with his 10 contested touches from his 25 and 5 clearances. A great return to the Pies for him.
+Ben|Ainsworth|FWD||GCS|727|12|99|60.58|68.0|60.0|4953.507565337|N/A|N/A
+Lance|Franklin|FWD||SYD|726|10|108|72.6|95.67|75.2|5537.1900826446|N/A|Buddy didn't have a great game with only 7 touches and one goal. He is a risk and this just demonstrates that for us.
+Jesse|Hogan|FWD||FRE|724|12|0|60.33|61.33|53.0|5151.3812154696|N/A|N/A
+Harry|Cunningham|MID||SYD|723|9|0|80.33|56.33|67.6|4730.2904564315|N/A|N/A
+Willem|Drew|FWD|MID|PTA|723|10|87|72.3|65.67|65.6|4419.0871369295|N/A|Drew starts his Supercoach career off with a ton!  A fantastic start with 21 touches at 81% efficiency. He looked good and will hold that midfield spot for a few more weeks yet.
+Wil|Powell|FWD||GCS|715|13|0|55.0|31.33|42.6|4669.0909090909|N/A|N/A
+Dylan|Clarke|MID||ESS|713|11|36|64.82|47.0|56.6|4387.6577840112|N/A|N/A
+Matt|Taberner|FWD||FRE|707|9|0|78.56|69.33|77.4|4862.8005657709|N/A|N/A
+Dawson|Simpson|RUC||GWS|707|9|0|78.56|77.0|73.4|4842.43281471|N/A|N/A
+Josh|Walker|DEF||BRL|700|11|0|63.64|48.0|43.6|4376.4285714286|N/A|N/A
+Conor|Nash|FWD||HAW|695|14|36|49.64|61.0|54.6|5430.7913669065|N/A|N/A
+Matthew|Broadbent|DEF||PTA|692|10|57|69.2|63.0|66.8|4939.3063583815|N/A|N/A
+Jack|Riewoldt|FWD||RIC|689|10|112|68.9|84.33|68.4|5105.9506531205|N/A|N/A
+Christopher|Burgess|DEF|FWD|GCS|684|14|53|48.86|54.67|59.0|5520.1754385965|N/A|Burgess didn't have a great game with just 4 possessions but thankfully there was a goal in there to help with his score.
+Sam|Day|FWD||GCS|681|10|27|68.1|52.67|57.4|4726.872246696|N/A|N/A
+Tom|Langdon|DEF||COL|672|9|0|74.67|58.33|69.4|5095.9821428571|N/A|N/A
+Toby|Nankervis|RUC||RIC|670|9|0|74.44|60.33|58.4|4765.9701492537|N/A|Nankervis was fantastic for those that took the risk with him. 3 goals and 17 touches but do take into account that he didn't have much competition with Kreuzer not playing.
+Sam|Weideman|FWD||MEL|647|11|0|58.82|46.67|51.6|4418.7017001546|N/A|N/A
+Jack|Scrimshaw|DEF||HAW|645|10|53|64.5|53.33|57.0|4564.3410852713|N/A|Scrimshaw had a great game with 13 touches and 5 tackles. Look for him to be a solid cash cow for us.
+Billy|Stretch|MID||MEL|644|9|89|71.56|70.67|71.8|4751.5527950311|N/A|N/A
+Bailey|Dale|FWD|MID|WBD|643|9|104|71.44|80.0|84.2|5234.8367029549|N/A|N/A
+Will|Brodie|MID||GCS|642|8|0|80.25|65.67|75.0|4697.8193146417|N/A|N/A
+Martin|Gleeson|DEF||ESS|642|9|57|71.33|64.67|63.6|4780.3738317757|N/A|N/A
+Cam|McCarthy|FWD||FRE|639|12|16|53.25|36.67|46.6|4484.5070422535|N/A|McCarthy had the second best score for the Dockers thanks to 5 goals and his 20 possessions. He won't have great weeks like this too often though so don't jump in too soon on him.
+Nick|Hind|MID||STK|630|11|26|57.27|63.0|61.6|5157.7777777778|N/A|N/A
+Zac|Bailey|FWD|MID|BRL|630|13|43|48.46|70.0|60.4|6060.4761904762|N/A|N/A
+Jay|Lockhart|DEF|MID|MEL|627|12|0|52.25|30.0|51.0|4679.4258373206|N/A|N/A
+Griffin|Logue|DEF||FRE|626|10|72|62.6|60.33|51.6|4137.3801916933|N/A|N/A
+Corey|Wagner|MID||MEL|624|11|56|56.73|67.33|59.0|5069.8717948718|N/A|N/A
+Noah|Balta|FWD||RIC|617|13|22|47.46|34.0|46.4|5349.5948136143|N/A|Balta looked good in the first quarter with a goal after a 50 with his first kick in footy. But he couldn't keep it up from there and finished the game with 18. Hardwick did say though that he may be considered for Rance's spot down back.
+Jake|Waterman|FWD||WCE|611|11|63|55.55|59.67|63.0|5435.1882160393|N/A|N/A
+Jake|Carlisle|DEF||STK|605|10|69|60.5|63.0|56.4|5105.7851239669|N/A|N/A
+Robbie|Fox|DEF|FWD|SYD|605|11|70|55.0|62.0|54.2|5009.0909090909|N/A|N/A
+Jayden|Laverde|FWD||ESS|604|9|73|67.11|62.67|58.0|4704.1390728477|N/A|N/A
+Alex|Pearce|DEF||FRE|603|11|0|54.82|45.67|50.0|4775.7877280265|N/A|N/A
+David|Cuningham|DEF||CAR|598|9|27|66.44|52.0|57.8|4769.397993311|N/A|N/A
+Oscar|McDonald|DEF||MEL|590|12|0|49.17|54.33|49.4|5393.8983050847|N/A|N/A
+Nathan|Vardy|RUC|FWD|WCE|585|11|0|53.18|72.33|63.0|5857.264957265|N/A|N/A
+Ben|Ronke|FWD||SYD|584|13|79|44.92|57.0|62.4|5905.6506849315|N/A|N/A
+Charlie|Dixon|FWD||PTA|581|9|112|64.56|90.0|69.8|5193.9759036145|N/A|N/A
+Jarryd|Roughead|FWD||HAW|580|8|0|72.5|74.0|76.0|5154.4827586207|N/A|N/A
+Ben|King|FWD||GCS|580|14|31|41.43|40.0|56.4|5942.7586206897|N/A|N/A
+Jarrod|Lienert|DEF||PTA|575|7|0|82.14|82.33|88.2|5098.4347826087|N/A|N/A
+Zac|Clarke|RUC||ESS|571|9|0|63.44|62.0|72.0|4827.8458844133|N/A|N/A
+Matthew|Kennedy|MID||CAR|570|10|70|57.0|45.33|57.4|4794.7368421053|N/A|N/A
+Steven|May|DEF||MEL|566|8|0|70.75|77.33|76.2|5397.8798586572|N/A|N/A
+Jake|Lever|DEF||MEL|566|8|60|70.75|75.67|74.8|5277.7385159011|N/A|N/A
+Charlie|Constable|MID||GEE|560|7|0|80.0|77.33|78.2|4285|N/A|Constable had a great debut for the Cats posting 21 touches at 85% efficiency. This is exactly what those that took him and put him on the field wanted. 
+Taylor|Garner|FWD||NTH|560|9|80|62.22|73.67|68.2|5070.5357142857|N/A|N/A
+Jackson|Nelson|DEF||WCE|551|11|56|50.09|45.33|56.0|4978.9473684211|N/A|N/A
+Ryan|Lester|DEF||BRL|547|9|0|60.78|59.0|60.0|5102.1937842779|N/A|N/A
+Jackson|Thurlow|MID||SYD|546|9|0|60.67|42.33|53.8|4699.4505494505|N/A|N/A
+Sam|Collins|DEF||GCS|544|9|0|60.44|51.33|53.0|4815.9926470588|N/A|Collins didn't perform as expected and finished with just 5 possessions. He wasn't ideal for those that started him on the field.
+Rhys|Mathieson|FWD|MID|BRL|539|9|0|59.89|56.0|52.8|4997.5881261596|N/A|N/A
+Travis|Colyer|FWD|MID|FRE|538|10|0|53.8|43.67|46.0|4732.3420074349|N/A|N/A
+Will|Schofield|DEF||WCE|536|12|0|44.67|40.0|43.0|4945.5223880597|N/A|N/A
+Harrison|Petty|DEF||MEL|531|10|0|53.1|58.0|63.6|5367.2316384181|N/A|N/A
+Todd|Marshall|FWD||PTA|527|10|81|52.7|66.67|59.2|5497.1537001898|N/A|N/A
+Sam|Durdin|DEF||NTH|526|10|76|52.6|58.33|57.2|4842.2053231939|N/A|N/A
+Mabior|Chol|FWD||RIC|524|9|0|58.22|36.0|49.0|3976.1450381679|N/A|N/A
+Mark|Baguley|FWD||ESS|522|10|0|52.2|58.67|60.0|5538.3141762452|N/A|N/A
+Jack|Steven|MID||STK|518|7|66|74.0|64.33|71.8|5410.8108108108|N/A|N/A
+Aaron|Sandilands|RUC||FRE|512|6|0|85.33|97.67|95.2|5528.90625|N/A|N/A
+Jimmy|Webster|DEF||STK|510|8|0|63.75|57.0|62.2|5378.8235294118|N/A|N/A
+Jed|Bews|DEF||GEE|505|9|79|56.11|52.67|51.0|4366.3366336634|N/A|N/A
+Bailey|Williams|DEF||WBD|498|9|0|55.33|68.67|63.2|5895.1807228916|N/A|N/A
+Jordan|Gallucci|FWD||ADE|497|10|0|49.7|42.67|56.2|5668.0080482897|N/A|N/A
+Richard|Douglas|FWD|MID|ADE|492|9|54|54.67|57.0|59.2|5509.756097561|N/A|N/A
+Billy|Gowers|FWD||WBD|486|10|0|48.6|41.33|42.2|4792.1810699588|N/A|N/A
+Paul|Ahern|MID||NTH|484|7|0|69.14|93.33|81.4|5521.9008264463|N/A|N/A
+Rupert|Wills|MID||COL|484|7|57|69.14|69.33|73.6|4753.9256198347|N/A|N/A
+Devon|Smith|FWD|MID|ESS|481|7|0|68.71|55.33|65.2|5297.2972972973|N/A|Smith didn't have a good day. But it wasn't all his fault as the team didn't perform. He had just 23 touches but they came at only 56% efficiency. 
+Dan|Hannebery|MID||STK|480|5|103|96.0|106.33|96.0|4468.75|N/A|N/A
+Harry|Morrison|FWD|MID|HAW|476|9|0|52.89|50.0|51.6|5517.2268907563|N/A|N/A
+Matt|Buntine|DEF||GWS|473|9|0|52.56|49.67|52.8|5247.7801268499|N/A|N/A
+Braydon|Preuss|RUC||MEL|472|7|41|67.43|35.0|59.8|4188.1355932203|N/A|N/A
+Oliver|Hanrahan|FWD||HAW|472|9|58|52.44|52.67|43.8|4322.6694915254|N/A|N/A
+Marcus|Adams|DEF||BRL|466|8|72|58.25|79.67|66.4|5630.9012875536|N/A|N/A
+Andrew|Phillips|RUC||CAR|464|5|0|92.8|95.67|92.8|4157.3275862069|N/A|N/A
+Will|Hayes|MID||WBD|464|8|56|58.0|68.0|58.0|4658.6206896552|N/A|N/A
+Nick|Coffield|DEF||STK|456|8|0|57.0|51.0|63.0|5371.9298245614|N/A|N/A
+Aaron|Hall|MID||NTH|455|6|0|75.83|65.67|79.2|5121.7582417582|N/A|Hall was not ideal for his owners this week. He had 19 touches at just 57% efficiency. He could be one that is traded out next week if he doesn't redeem himself.
+Ben|Reid|FWD||COL|455|7|0|65.0|47.0|66.0|5072.3076923077|N/A|N/A
+Lachlan|Keeffe|DEF||GWS|452|9|36|50.22|39.0|43.0|4344.6902654867|N/A|N/A
+Brennan|Cox|FWD||FRE|450|8|0|56.25|65.67|58.6|5326.2222222222|N/A|N/A
+Jack|Ross|MID||RIC|438|7|0|62.57|45.33|58.8|3953.8812785388|N/A|N/A
+Jarrad|McVeigh|DEF||SYD|436|6|51|72.67|54.67|70.2|5295.4128440367|N/A|N/A
+Oskar|Baker|MID||MEL|434|9|0|48.22|36.33|43.4|4497.9262672811|N/A|N/A
+Jackson|Hately|MID||GWS|432|7|0|61.71|52.33|50.4|3963.4259259259|N/A|A 101 for Hately in the first game but just 42 in the second. He poses a risk for us in terms of his selection given that variety and uncertainty as to his role in the Giants team.
+Josh|Begley|FWD||ESS|426|8|56|53.25|47.33|55.8|4766.1971830986|N/A|N/A
+Kieren|Jack|FWD|MID|SYD|407|8|46|50.88|49.0|45.2|4807.8624078624|N/A|N/A
+Timothy|Smith|FWD||MEL|404|7|0|57.71|48.67|59.2|5192.8217821782|N/A|N/A
+Sam|Jacobs|RUC||ADE|401|5|125|80.2|89.0|80.2|5127.1820448878|N/A|N/A
+Chayce|Jones|MID||ADE|400|8|86|50.0|61.67|52.4|4812|N/A|N/A
+Jarrod|Cameron|MID|FWD|WCE|399|7|0|57.0|44.33|60.8|4257.8947368421|N/A|N/A
+Elliott|Himmelberg|FWD||ADE|398|7|0|56.86|46.33|56.0|4965.0753768844|N/A|N/A
+Jordan|Ridley|DEF||ESS|396|6|0|66.0|62.33|65.0|4622.7272727273|N/A|Ridley had just the 14 touches but all of them were effective. He needs to get more of the ball to pay off as a selection.
+Ian|Hill|FWD|MID|GWS|395|7|85|56.43|54.33|55.0|4049.3670886076|N/A|N/A
+Dylan|Moore|FWD||HAW|393|7|0|56.14|61.0|55.8|4645.2926208651|N/A|N/A
+Matthew|Scharenberg|DEF||COL|392|7|16|56.0|47.0|56.8|5864.2857142857|N/A|N/A
+Jacob|Dawson|MID||GCS|391|6|75|65.17|67.33|69.2|4757.0332480818|N/A|N/A
+Sean|Lemmens|FWD||GCS|386|8|24|48.25|32.33|41.6|4692.2279792746|N/A|N/A
+Bailey|Banfield|FWD|MID|FRE|382|7|62|54.57|44.67|49.0|4973.2984293194|N/A|N/A
+Joshua|Corbett|FWD||GCS|377|9|0|41.89|19.67|28.8|3900.7957559682|N/A|N/A
+Peter|Ladhams|RUC||PTA|376|5|0|75.2|77.0|75.2|3981.3829787234|N/A|N/A
+Connor|Menadue|DEF||RIC|375|6|0|62.5|50.67|64.0|4683.2|N/A|N/A
+Jeff|Garlett|FWD||MEL|362|7|0|51.71|47.33|52.6|5528.453038674|N/A|N/A
+Brett|Bewley|MID||FRE|362|7|0|51.71|47.0|53.2|4490.0552486188|N/A|Bewley didn't give us anything to get excited about in the JLT with 48 and 16. With Ross as a coach it makes me even more nervous.
+David|Myers|MID||ESS|360|7|0|51.43|43.67|49.8|5619.4444444444|N/A|N/A
+Darcy|Lang|FWD|MID|CAR|360|8|0|45.0|29.33|45.8|5053.3333333333|N/A|N/A
+Lewis|Taylor|FWD||BRL|357|5|0|71.4|79.67|71.4|5284.3137254902|N/A|N/A
+Michael|Rischitelli|DEF||GCS|353|7|30|50.43|33.33|44.4|4685.835694051|N/A|N/A
+Jarryn|Geary|DEF||STK|351|5|0|70.2|71.0|70.2|5693.7321937322|N/A|N/A
+Lachie|Henderson|DEF||GEE|351|5|64|70.2|62.67|70.2|5136.7521367521|N/A|N/A
+Ryan|Garthwaite|DEF||RIC|350|7|0|50.0|47.33|49.6|4712|N/A|N/A
+Neville|Jetta|DEF||MEL|349|7|0|49.86|45.67|53.0|5329.2263610315|N/A|N/A
+Conor|Glass|DEF||HAW|346|7|0|49.43|51.67|52.6|5355.2023121387|N/A|N/A
+Charlie|Spargo|FWD||MEL|345|8|49|43.12|56.67|49.0|5806.3768115942|N/A|N/A
+Kane|Farrell|FWD||PTA|340|7|0|48.57|40.33|43.2|5035.8823529412|N/A|N/A
+Dan|Butler|FWD||RIC|336|7|0|48.0|53.0|48.4|5591.6666666667|N/A|N/A
+Joshua|Deluca|MID||CAR|333|6|63|55.5|65.67|60.8|4610.8108108108|N/A|N/A
+Daniel|Menzel|FWD||SYD|320|7|12|45.71|40.67|47.8|6026.5625|N/A|N/A
+George|Horlin-Smith|MID||GCS|317|7|0|45.29|38.0|38.0|4873.5015772871|N/A|N/A
+Jay|Kennedy Harris|MID||MEL|314|5|55|62.8|60.33|62.8|5000|N/A|N/A
+Mitchell|Crowden|FWD||FRE|314|5|30|62.8|56.33|62.8|4490.4458598726|N/A|N/A
+Quinton|Narkle|FWD||GEE|313|3|134|104.33|104.33|104.33|3029.7124600639|N/A|N/A
+Nathan|Hrovat|FWD||NTH|301|5|62|60.2|59.0|60.2|4795.6810631229|N/A|N/A
+Lachlan|Schultz|FWD||FRE|299|7|0|42.71|38.0|42.2|4476.254180602|N/A|Schulz did kick a couple of goals with 17 touches but his efficiency was down. Despite that he looked good and should hold his spot for a few weeks to come.
+Brayden|Sier|MID||COL|298|6|0|49.67|51.33|39.0|5524.8322147651|N/A|N/A
+David|Mirra|DEF||HAW|288|4|0|72.0|67.67|72.0|4900|N/A|N/A
+Kaiden|Brand|DEF||HAW|288|5|0|57.6|63.67|57.6|5324.6527777778|N/A|N/A
+Daniel|Venables|FWD||WCE|287|6|0|47.83|42.0|43.4|5009.0592334495|N/A|N/A
+Isaac|Cumming|DEF||GWS|282|5|69|56.4|65.0|56.4|4528.3687943262|N/A|N/A
+Nic|Naitanui|RUC||WCE|281|3|0|93.67|93.67|93.67|5442.7046263345|N/A|N/A
+Ryan|Nyhuis|DEF||FRE|279|5|28|55.8|34.0|55.8|4594.982078853|N/A|N/A
+Lachlan|Young|DEF||WBD|269|6|0|44.83|41.67|45.4|4200|N/A|N/A
+Jake|Stein|DEF||GWS|266|5|0|53.2|52.67|53.2|3860.9022556391|N/A|N/A
+Josh|Daicos|FWD||COL|265|5|0|53.0|50.67|53.0|5164.1509433962|N/A|N/A
+Roarke|Smith|DEF||WBD|264|5|0|52.8|40.0|52.8|4628.7878787879|N/A|N/A
+Nick|Robertson|DEF||BRL|261|4|0|65.25|68.33|65.25|5203.0651340996|N/A|N/A
+Darcy|Fogarty|FWD||ADE|261|4|41|65.25|66.67|65.25|4456.7049808429|N/A|N/A
+James|Parsons|FWD||GEE|260|4|0|65.0|58.67|65.0|4512.3076923077|N/A|N/A
+Corey|Ellis|DEF|MID|GCS|257|4|0|64.25|64.0|64.25|4339.2996108949|N/A|N/A
+Cam|Sutcliffe|MID||PTA|257|5|0|51.4|56.33|51.4|4749.0272373541|N/A|N/A
+James|Rose|FWD||SYD|255|5|0|51.0|47.0|51.0|4500|N/A|N/A
+William|Snelling|MID||ESS|254|3|0|84.67|84.67|84.67|2349.2125984252|N/A|N/A
+Ed|Phillips|MID||STK|253|4|0|63.25|55.67|63.25|4706.7193675889|N/A|N/A
+Jonathon|Marsh|DEF||STK|253|5|0|50.6|46.67|50.6|4446.6403162055|N/A|N/A
+Josh|Rotham|DEF||WCE|253|4|0|63.25|65.67|63.25|3441.8972332016|N/A|N/A
+Joe|Daniher|FWD||ESS|249|4|0|62.25|64.67|62.25|4790.3614457831|N/A|N/A
+Liam|Stocker|MID||CAR|248|5|0|49.6|56.67|49.6|4233.8709677419|N/A|N/A
+Mitch|Hannan|FWD||MEL|247|6|0|41.17|42.0|41.4|6225.9109311741|N/A|N/A
+Lewis|Young|DEF||WBD|246|4|51|61.5|70.33|61.5|4728.4552845528|N/A|N/A
+Hayden|McLean|FWD||SYD|244|4|0|61.0|61.33|61.0|3316.393442623|N/A|N/A
+Isaac|Quaynor|DEF||COL|241|4|0|60.25|53.0|60.25|3570.1244813278|N/A|N/A
+Kyle|Dunkley|MID||MEL|239|5|0|47.8|46.67|47.8|3989.539748954|N/A|N/A
+Tom|Cutler|MID||BRL|234|3|0|78.0|78.0|78.0|5483.3333333333|N/A|N/A
+Grant|Birchall|DEF||HAW|231|3|0|77.0|77.0|77.0|3283.1168831169|N/A|N/A
+Dom|Tyson|MID||NTH|227|3|0|75.67|75.67|75.67|5344.4933920705|N/A|N/A
+Jack|Madgen|DEF||COL|217|4|77|54.25|64.33|54.25|4956.6820276498|N/A|N/A
+Bailey|Scott|MID||NTH|216|4|0|54.0|37.67|54.0|3200|N/A|Bailey Scott was the Rising Star Nominee this week and he was fantastic. He had 21 touches at an impressive 90% efficiency for those touches. He also slotted two goals. He is one of the must have rookies at the moment.
+Michael|Hartley|DEF||ESS|215|3|58|71.67|71.67|71.67|4198.6046511628|N/A|N/A
+Andy|Otten|DEF||ADE|209|3|0|69.67|69.67|69.67|5275.1196172249|N/A|N/A
+Ben|McNiece|DEF||ESS|209|5|0|41.8|51.0|41.8|6315.7894736842|N/A|N/A
+Darcy|Fort|RUC||GEE|209|3|0|69.67|69.67|69.67|2580.8612440191|N/A|Fort struggled in the JLT and is unlikely to get that number one ruck position at Geelong. This means he isn't an option for you at R2.
+Aidan|Corr|DEF||GWS|206|4|47|51.5|52.0|51.5|5467.9611650485|N/A|N/A
+Joel|Garner|DEF||PTA|202|4|0|50.5|45.67|50.5|3552.4752475248|N/A|N/A
+Zac|Smith|RUC||GEE|201|3|0|67.0|67.0|67.0|4940.2985074627|N/A|N/A
+Jacob|Heron|DEF|FWD|GCS|184|5|0|36.8|37.67|36.8|6111.4130434783|N/A|N/A
+Brayden|Ham|FWD||ESS|178|4|46|44.5|44.67|44.5|3721.3483146067|N/A|N/A
+John|Noble|MID||COL|170|3|64|56.67|56.67|56.67|2661.1764705882|N/A|N/A
+Darragh|Joyce|DEF||STK|165|3|0|55.0|55.0|55.0|2992.7272727273|N/A|N/A
+Caleb|Graham|DEF|RUC|GCS|164|3|47|54.67|54.67|54.67|2908.5365853659|N/A|N/A
+Jack|Watts|FWD||PTA|162|2|0|81.0|81.0|81.0|4458.024691358|N/A|N/A
+Doulton|Langlands|FWD|MID|STK|160|3|0|53.33|53.33|53.33|3033.75|N/A|N/A
+Scott|Selwood|MID||GEE|145|2|0|72.5|72.5|72.5|5278.6206896552|N/A|N/A
+Marc|Pittonet|RUC||HAW|145|2|0|72.5|72.5|72.5|3234.4827586207|N/A|N/A
+Patrick|Naish|DEF||RIC|145|2|0|72.5|72.5|72.5|1708.9655172414|N/A|N/A
+Ryan|Bastinac|MID||BRL|144|3|0|48.0|48.0|48.0|5108.3333333333|N/A|N/A
+Rhylee|West|MID||WBD|142|2|73|71.0|71.0|71.0|1652.1126760563|N/A|N/A
+Ben|Keays|MID||BRL|140|2|0|70.0|70.0|70.0|3722.8571428571|N/A|N/A
+Hayden|Ballantyne|FWD||FRE|140|3|0|46.67|46.67|46.67|5513.5714285714|N/A|N/A
+Changkuoth|Jiath|DEF||HAW|135|2|0|67.5|67.5|67.5|1835.5555555556|N/A|N/A
+Zac|Langdon|FWD||GWS|134|3|0|44.67|44.67|44.67|6326.8656716418|N/A|N/A
+Francis|Watson|DEF||WCE|134|2|0|67.0|67.0|67.0|1849.2537313433|N/A|N/A
+Mitchell|Hinge|DEF||BRL|129|2|0|64.5|64.5|64.5|1920.9302325581|N/A|N/A
+Tyson|Stengle|FWD||ADE|124|2|0|62.0|62.0|62.0|1998.3870967742|N/A|N/A
+Derek|Eggmolesse-Smith|DEF||RIC|124|2|0|62.0|62.0|62.0|1651.6129032258|N/A|N/A
+David|Armitage|FWD|MID|STK|121|2|0|60.5|60.5|60.5|6998.347107438|N/A|N/A
+Robert|Young|FWD||STK|119|3|0|39.67|39.67|39.67|3509.243697479|N/A|N/A
+Maverick|Weller|FWD||RIC|118|2|0|59.0|59.0|59.0|5669.4915254237|N/A|N/A
+Stephen|Hill|DEF||FRE|117|3|0|39.0|39.0|39.0|8651.2820512821|N/A|N/A
+Trent|McKenzie|DEF||PTA|110|1|110|110.0|110.0|110.0|2369.0909090909|N/A|N/A
+Archie|Smith|RUC||BRL|110|2|0|55.0|55.0|55.0|3132.7272727273|N/A|N/A
+Tom|Campbell|RUC||NTH|105|2|0|52.5|52.5|52.5|5036.1904761905|N/A|N/A
+Ben|Crocker|FWD||COL|105|3|0|35.0|35.0|35.0|6542.8571428571|N/A|N/A
+Brad|Scheer|MID|FWD|GCS|103|3|0|34.33|34.33|34.33|7631.067961165|N/A|N/A
+Ben|McKay|DEF||NTH|103|3|0|34.33|34.33|34.33|4001.9417475728|N/A|N/A
+Myles|Poholke|FWD||ADE|102|2|0|51.0|51.0|51.0|4600|N/A|N/A
+Lachie|Fogarty|FWD||GEE|101|2|0|50.5|50.5|50.5|6421.7821782178|N/A|N/A
+Jye|Caldwell|MID||GWS|100|2|0|50.0|50.0|50.0|3246|N/A|N/A
+Oleg|Markov|DEF||RIC|97|2|0|48.5|48.5|48.5|3257.7319587629|N/A|N/A
+Matthew|Lobbe|RUC||CAR|96|2|0|48.0|48.0|48.0|7550|N/A|N/A
+Tom|Sparrow|MID||MEL|96|2|0|48.0|48.0|48.0|2443.75|N/A|N/A
+Josh|Smith|FWD||WCE|93|2|0|46.5|46.5|46.5|5253.7634408602|N/A|N/A
+Jacob|Allison|DEF||BRL|93|2|0|46.5|46.5|46.5|4264.5161290323|N/A|N/A
+Alex|Fasolo|FWD||CAR|89|3|0|29.67|29.67|29.67|7520.2247191011|N/A|N/A
+Fletcher|Roberts|DEF||WBD|88|2|0|44.0|44.0|44.0|4440.9090909091|N/A|N/A
+Aaron|Young|FWD||GCS|87|2|60|43.5|43.5|43.5|7487.3563218391|N/A|N/A
+Billy|Frampton|RUC||PTA|87|2|0|43.5|43.5|43.5|4393.1034482759|N/A|N/A
+Kade|Kolodjashnij|DEF||MEL|85|2|0|42.5|42.5|42.5|8557.6470588235|N/A|N/A
+Cameron|Polson|FWD||CAR|85|3|0|28.33|28.33|28.33|6349.4117647059|N/A|N/A
+Jarrod|Garlett|FWD||CAR|84|2|0|42.0|42.0|42.0|5945.2380952381|N/A|N/A
+Aiden|Bonar|MID|FWD|GWS|83|2|0|41.5|41.5|41.5|6016.8674698795|N/A|N/A
+Callum|Ah Chee|DEF|FWD|GCS|82|1|0|82.0|82.0|82.0|3664.6341463415|N/A|N/A
+Scott|Jones|RUC|FWD|FRE|80|1|80|80.0|80.0|80.0|3493.75|N/A|N/A
+Tom|Williamson|DEF||CAR|77|2|0|38.5|38.5|38.5|4922.0779220779|N/A|N/A
+Declan|Keilty|DEF||MEL|75|2|0|37.5|37.5|37.5|3304|N/A|N/A
+Brendon|Ah Chee|FWD||WCE|70|1|0|70.0|70.0|70.0|4982.8571428571|N/A|N/A
+Jarrod|Brander|FWD||WCE|70|2|0|35.0|35.0|35.0|3877.1428571429|N/A|N/A
+Ryan|Abbott|RUC||GEE|66|1|0|66.0|66.0|66.0|5162.1212121212|N/A|N/A
+Brandon|White|DEF||STK|66|1|0|66.0|66.0|66.0|3960.6060606061|N/A|N/A
+Joe|Atley|MID||PTA|66|1|0|66.0|66.0|66.0|1877.2727272727|N/A|N/A
+Jason|Carter|DEF|MID|FRE|65|2|0|32.5|32.5|32.5|3150.7692307692|N/A|N/A
+Daniel|Wells|FWD||COL|64|1|0|64.0|64.0|64.0|4732.8125|N/A|N/A
+Ryan|Gardner|DEF|FWD|WBD|63|2|0|31.5|31.5|31.5|3250.7936507937|N/A|N/A
+Callum|Coleman-Jones|RUC|FWD|RIC|60|1|0|60.0|60.0|60.0|2065|N/A|N/A
+Kade|Chandler|MID||MEL|60|1|0|60.0|60.0|60.0|1806.6666666667|N/A|N/A
+Brandon|Zerk-Thatcher|DEF||ESS|58|1|0|58.0|58.0|58.0|2136.2068965517|N/A|N/A
+Billy|Longer|RUC||STK|57|1|0|57.0|57.0|57.0|4577.1929824561|N/A|N/A
+Tom|Doedee|DEF||ADE|56|1|0|56.0|56.0|56.0|7967.8571428571|N/A|N/A
+Lewis|Pierce|RUC||STK|55|1|0|55.0|55.0|55.0|4283.6363636364|N/A|N/A
+Aidyn|Johnson|FWD||PTA|54|1|0|54.0|54.0|54.0|3853.7037037037|N/A|N/A
+Hugh|Goddard|DEF||CAR|53|2|0|26.5|26.5|26.5|6022.641509434|N/A|N/A
+James|Bell|FWD|MID|SYD|53|2|0|26.5|26.5|26.5|4675.4716981132|N/A|N/A
+Zach|Guthrie|DEF||GEE|50|1|0|50.0|50.0|50.0|4076|N/A|N/A
+Patrick|Wilson|MID||ADE|50|1|0|50.0|50.0|50.0|2954|N/A|N/A
+Thomas|Jok|MID||ESS|49|1|49|49.0|49.0|49.0|2395.9183673469|N/A|N/A
+Josh|Schoenfeld|MID||GCS|47|1|0|47.0|47.0|47.0|5491.4893617021|N/A|N/A
+Sam|Rowe|DEF||STK|46|1|46|46.0|46.0|46.0|5886.9565217391|N/A|N/A
+Hugh|Dixon|FWD||FRE|45|1|45|45.0|45.0|45.0|2753.3333333333|N/A|N/A
+Cedric|Cox|DEF||BRL|44|1|44|44.0|44.0|44.0|3775|N/A|N/A
+Ryley|Stoddart|FWD||SYD|42|2|0|21.0|21.0|21.0|6514.2857142857|N/A|N/A
+Curtis|Taylor|MID|FWD|NTH|40|2|0|20.0|20.0|20.0|5865|N/A|N/A
+Dale|Morris|DEF||WBD|39|1|0|39.0|39.0|39.0|7376.9230769231|N/A|N/A
+Angus|Schumacher|DEF||CAR|39|1|0|39.0|39.0|39.0|3176.9230769231|N/A|N/A
+Alex|Rance|DEF||RIC|36|1|0|36.0|36.0|36.0|12447.222222222|N/A|Rance suffered a knee injury in the third quarter and didn't come back on. It didn't look good and unfortunately he has ruptured his ACL and will miss the rest of the season.
+Brandon|Starcevich|FWD|MID|BRL|34|1|0|34.0|34.0|34.0|6970.5882352941|N/A|N/A
+Connor|Idun|DEF|FWD|GWS|33|1|0|33.0|33.0|33.0|3554.5454545455|N/A|N/A
+Kyron|Hayden|MID|FWD|NTH|31|1|0|31.0|31.0|31.0|3303.2258064516|N/A|N/A
+Jacob|Townsend|FWD||RIC|29|1|0|29.0|29.0|29.0|9603.4482758621|N/A|N/A
+Zachary|Sproule|FWD|MID|GWS|26|1|0|26.0|26.0|26.0|4765.3846153846|N/A|N/A
+Ben|Davis|FWD||ADE|22|1|0|22.0|22.0|22.0|5631.8181818182|N/A|N/A
+Flynn|Appleby|DEF||COL|21|1|0|21.0|21.0|21.0|13414.285714286|N/A|N/A
+Justin|McInerney|DEF||SYD|21|1|0|21.0|21.0|21.0|5585.7142857143|N/A|N/A
+Harrison|Macreadie|DEF||CAR|14|1|0|14.0|14.0|14.0|10485.714285714|N/A|N/A
+Callan|Ward|MID||GWS|4|1|0|4.0|4.0|4.0|142000|N/A|N/A
+Tommy|Sheridan|MID||GWS|2|1|0|2.0|2.0|2.0|191250|N/A|N/A
+Ed|Vickers-Willis|DEF||NTH|1|1|0|1.0|1.0|1.0|318300|N/A|N/A
+Tom|Mitchell|MID||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Docherty|DEF||CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ben|Jacobs|MID||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Majak|Daw|DEF||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jonathon|Patton|RUC|FWD|GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Logan|Austin|DEF||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Murray|DEF||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jordan|Cunico|MID||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+James|Stewart|FWD||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Teia|Miles|DEF||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Nick|Smith|DEF||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matt|Dea|DEF||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Shane|Kersten|DEF||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Lynden|Dunn|DEF||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Lin|Jong|FWD|MID|WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Bailey|Rice|DEF||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Dylan|Roberton|DEF||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|Dylan will miss the 2019 season due to his health issues from last season. We wish him all the best in his recovery.
+Aaron|vandenBerg|FWD|MID|MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Callum|Moore|FWD||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Brad|Lynch|DEF|FWD|WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Mayes|DEF||PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Brayden|Crossley|FWD||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Stefan|Giro|FWD||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Joel|Smith|DEF||MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Rory|Thompson|DEF||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Paddy|McCartin|FWD||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ryan|Schoenmakers|FWD||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tyson|Goldsack|DEF||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Naismith|RUC||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Leslie|DEF||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Lukas|Webb|FWD||WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tim|Mohr|DEF||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tim|Broomhead|MID|FWD|COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Corey|Maynard|MID||MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Kobe|Mutch|MID||ESS|0|1|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Trengove|DEF||PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Brayden|Ainsworth|MID||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Pat|Kerr|FWD||CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Fraser|McInnes|RUC||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tom|Nicholls|RUC||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jake|Long|MID||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jamaine|Jones|FWD||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Wylie|Buzza|FWD||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Keegan|Brooksby|RUC||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Fergus|Greene|FWD||WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matt|Eagles|DEF||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Will|Walker|FWD||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Izak|Rankine|FWD||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|A hamstring injury will see Rankine miss the first two months of the season.
+Tom|Murphy|DEF||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Max|King|FWD||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Darren|Minchington|MID||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Nakia|Cockatoo|FWD||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tom|De Koning|RUC|FWD|CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Skinner|DEF||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Harley|Bennell|MID||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Nathan|Murphy|DEF||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Dylan|Buckley|FWD||GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Simpson|MID||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ned|McHenry|MID|FWD|ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Kurt|Mutimer|DEF||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Darcy|Cameron|RUC||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Sturt|FWD||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Nick|Shipley|MID||GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jordan|Houlahan|FWD||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Lloyd|Meek|RUC||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Shane|McAdam|FWD||ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Payne|DEF||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ben|Miller|DEF||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Harrison|Jones|DEF||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Nathan|Kreuger|FWD||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Hayes|RUC||PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Toby|Wooller|FWD||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tristan|Xerri|RUC|FWD|NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jake|Patmore|FWD|MID|PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Maibaum|DEF||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Oscar|Clavarino|DEF||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jackson|Ross|FWD||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matthew|Flynn|RUC||GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Max|Lynch|RUC||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Callum|Porter|MID||WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Kym|Lebois|FWD||CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Hamish|Brayshaw|MID||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Joel|Amartey|FWD||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Andrew|McPherson|DEF||ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Draper|RUC||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matthew|Ling|FWD|MID|SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Trent|Mynott|MID||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Buckley|FWD|MID|GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tom|North|MID||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Toby|Pink|FWD||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Connor|Nutting|DEF|FWD|GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Connor|Ballenden|FWD||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tyler|Brown|DEF||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Declan|Watson|DEF||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Corey|Lyons|MID||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matthew|Allen|FWD|MID|WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Riley|Collier-Dawkins|MID||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Kieran|Strachan|RUC|FWD|ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Thomas|Berry|MID||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Oscar|Brownless|MID||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Xavier|O'Halloran|MID||GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ben|Cavarra|FWD||WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Finbar|O'Dwyer|FWD||CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tom|Joyce|MID||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Irving|Mosquito|MID|FWD|ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Luke|Valente|MID||FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Bailey|Williams|RUC|FWD|WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Lachlan|Sholl|DEF||ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+James|Jordon|DEF|MID|MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ben|Silvagni|DEF|FWD|CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Noah|Gown|FWD||ESS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Connor|McFadyen|MID|FWD|BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jacob|Kennerley|MID||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jez|McLennan|DEF||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Atu|Bosenavulagi|MID|FWD|COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Riley|Grundy|DEF||PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jake|Tarca|FWD||GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Boyd|Woodcock|MID|FWD|PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Kieren|Briggs|RUC||GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ely|Smith|MID||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Fraser|Turner|MID||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Luke|Foley|MID||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+William|Hamill|DEF||ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Luke|English|MID||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Bytel|MID||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Will|Kelly|DEF||COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Aaron|Nietschke|MID||MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Xavier|O'Neill|MID||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jacob|Koschitzke|DEF|FWD|HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Mathew|Walker|MID|FWD|HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Toby|Bedford|MID|FWD|MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Laitham|Vandermeer|DEF|MID|WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Joel|Crocker|DEF|FWD|NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Zac|Foot|FWD||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ben|Jarvis|RUC|FWD|GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tobin|Cox|MID|FWD|PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tom|McKenzie|DEF|MID|NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Durak|Tucker|DEF||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Damon|Greaves|DEF|MID|HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jake|Aarts|FWD||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Harry|Edwards|RUC||WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Blake|Schlensog|RUC|FWD|GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Kai|Pudney|MID||PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Michael|Knoll|RUC||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jordon|Sweet|RUC||WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Dillon|O'Reilly|DEF|FWD|FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Lachlan|Hosie|FWD||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Callum M.|Brown|DEF||GWS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jack|Mayo|FWD||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Mitchell|Riordan|MID||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Alabakis|RUC||STK|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Buku|Khamis|DEF||WBD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matthew|Cottrell|MID|FWD|CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Paul|Hunter|RUC||ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Harrison|Wigg|DEF||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Thomas|Fullarton|RUC||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Brodie|Riach|MID|FWD|WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Harry|Reynolds|DEF||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Austin|Bradtke|RUC||MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Anton|Tohill|DEF|FWD|COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tom|Wilkinson|FWD||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+James|Madden|MID||BRL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Will|Golds|MID||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Samuel|Wicks|MID|FWD|SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Red Og|Murphy|MID||NTH|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Martin|Frederick|DEF|MID|PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Patrick|Bines|RUC|FWD|WCE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Stefan|Okunbor|DEF|FWD|GEE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Cody|Hirst|MID||SYD|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Guy|Walker|DEF|FWD|MEL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Matthew|Owies|MID|FWD|CAR|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Cameron|Hewett|MID||PTA|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Jordon|Butts|DEF|FWD|ADE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Tobe|Watson|DEF|MID|FRE|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Sam|Fletcher|MID||GCS|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Mark|Keane|DEF|FWD|COL|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Marlion|Pickett|MID||RIC|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A
+Ned|Reeves|RUC||HAW|0|0|0|0.0|0.0|0.0|N/A|N/A|N/A

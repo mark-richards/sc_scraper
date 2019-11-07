@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+oauthlib
+requests_oauthlib
+pandas
+selenium
+fuzzywuzzy
+jupyter
+xlrd

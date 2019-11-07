@@ -4,6 +4,8 @@ import json
 from oauthlib.oauth2 import LegacyApplicationClient
 from requests_oauthlib import OAuth2Session
 import getpass
+import time
+
 
 def get_sc_token():
     # Credentials to generate token
@@ -36,7 +38,8 @@ def download_all_player_stats():
     # Append token to the end of the State Centre URL
     sc_url = "https://supercoach.heraldsun.com.au/afl/draft/statscentre?access_token=" + sc_token
     # Create text file to store AFL stats
-    file_output = open("outputs/all_player_stats.txt", "w")
+    timestr = time.strftime("%Y%m%d-%H%M%S")
+    file_output = open("outputs/all_player_stats_{}.txt".format(timestr), "w")
     # HTTP request to stats centre URL
     res = requests.get(sc_url)
     # Parse the response as HTML using the BeautifulSoup Library

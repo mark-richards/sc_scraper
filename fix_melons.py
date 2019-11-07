@@ -1,6 +1,4 @@
 import os
-import fileinput
-import json
 
 path = "inputs/matches/"
 match_file_list = os.scandir(path)

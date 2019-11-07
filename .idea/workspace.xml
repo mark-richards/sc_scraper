@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1685def4-466e-4e77-ad80-f9febb7fdec4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/all_player_stats_20191107-105158.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sc_player_positions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sc_player_positions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019 Summary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2019 Summary.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fix_melons.py" beforeDir="false" afterPath="$PROJECT_DIR$/fix_melons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_stats.py" afterDir="false" />
-    </list>
+    <list default="true" id="1685def4-466e-4e77-ad80-f9febb7fdec4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +226,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548658511845</updated>
-      <workItem from="1573085417889" duration="267000" />
+      <workItem from="1573085417889" duration="601000" />
     </task>
     <servers />
   </component>

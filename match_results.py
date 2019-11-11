@@ -114,7 +114,7 @@ def get_fixture_data_from_results():
 
 
 def get_match_name(round_number, team_id):
-    fixture_df = pd.read_csv('inputs/fixture.csv')
+    fixture_df = pd.read_csv('inputs/2019_sc_fixture.csv')
     team_one = fixture_df[(fixture_df['Round'] == round_number) & (fixture_df['Team One ID'] == team_id)]
     team_two = fixture_df[(fixture_df['Round'] == round_number) & (fixture_df['Team Two ID'] == team_id)]
     if len(team_one) > 0:
@@ -188,7 +188,8 @@ def get_match_data():
             all_matches_list.append(full_match_df)
 
     all_matches = pd.concat(all_matches_list)
-    all_matches.to_csv(r'outputs/all_matches.csv', columns=columns)
+    timestr = time.strftime("%Y%m%d-%H%M%S")
+    all_matches.to_csv('outputs/all_matches_{}.csv'.format(timestr), columns=columns)
     # all_matches.to_csv(r'outputs/all_matches_detailed.csv')
 
 

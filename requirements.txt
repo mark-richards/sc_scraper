@@ -1,9 +1,8 @@
-requests
+selenium
+pandas
 beautifulsoup4
+requests
 oauthlib
 requests_oauthlib
-pandas
-selenium
 fuzzywuzzy
-jupyter
 xlrd

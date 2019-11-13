@@ -221,7 +221,8 @@ def get_weekly_ladder():
     df_combined_weekly_ladders = pd.concat(all_weekly_ladder_list, sort=False)
     # df_combined_weekly_ladders = df_combined_weekly_ladders.sort_values()
     timestr = time.strftime("%Y%m%d-%H%M%S")
-    df_combined_weekly_ladders.to_csv('outputs/weekly_ladder_{}.csv'.format(timestr))
+    print(df_combined_weekly_ladders)
+    # df_combined_weekly_ladders.to_csv('outputs/weekly_ladder_{}.csv'.format(timestr))
 
 
 get_weekly_ladder()

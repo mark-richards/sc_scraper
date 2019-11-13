@@ -193,4 +193,35 @@ def get_match_data():
     # all_matches.to_csv(r'outputs/all_matches_detailed.csv')
 
 
-get_match_data()
+def get_weekly_ladder():
+    path = "inputs/matches/"
+    match_file_list = os.scandir(path)
+    current_round = 0
+    all_weekly_ladder_list = []
+
+    for file in match_file_list:
+        with open(file, 'r') as f:
+            match_json = json.load(f)
+            round_number = match_json['round']
+            if current_round != round_number:
+                df_weekly_ladder_line = json_normalize(match_json['team']['league'])
+                df_weekly_ladder_line['Team ID'] = int(match_json['team']['id'])
+                df_weekly_ladder_line['Team Name'] = match_json['team']['name']
+                df_weekly_ladder_line['Round'] = round_number
+                all_weekly_ladder_list.append(df_weekly_ladder_line)
+                print(df_weekly_ladder_line)
+            current_round = round_number
+            df_weekly_ladder_line = json_normalize(match_json['opponent']['league'])
+            df_weekly_ladder_line['Team ID'] = int(match_json['opponent']['id'])
+            df_weekly_ladder_line['Team Name'] = match_json['opponent']['name']
+            df_weekly_ladder_line['Round'] = round_number
+            all_weekly_ladder_list.append(df_weekly_ladder_line)
+            print(df_weekly_ladder_line)
+
+    df_combined_weekly_ladders = pd.concat(all_weekly_ladder_list, sort=False)
+    # df_combined_weekly_ladders = df_combined_weekly_ladders.sort_values()
+    timestr = time.strftime("%Y%m%d-%H%M%S")
+    df_combined_weekly_ladders.to_csv('outputs/weekly_ladder_{}.csv'.format(timestr))
+
+
+get_weekly_ladder()

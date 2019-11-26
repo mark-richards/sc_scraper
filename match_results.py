@@ -225,4 +225,4 @@ def get_weekly_ladder():
     # df_combined_weekly_ladders.to_csv('outputs/weekly_ladder_{}.csv'.format(timestr))
 
 
-get_weekly_ladder()
+get_match_data()

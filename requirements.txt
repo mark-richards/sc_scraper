@@ -6,3 +6,4 @@ oauthlib
 requests_oauthlib
 fuzzywuzzy
 xlrd
+dash==1.6.1

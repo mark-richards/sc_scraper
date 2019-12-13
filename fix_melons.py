@@ -2,8 +2,8 @@ import os
 
 path = "inputs/matches/"
 match_file_list = os.scandir(path)
-text_to_search = 'Salt&amp;VinegarCripps'
-replacement_text = 'Salt&VinegarCripps'
+text_to_search = "Salt&amp;VinegarCripps"
+replacement_text = "Salt&VinegarCripps"
 
 # for match in match_file_list:
 #     with fileinput.FileInput(match.name, backup='.bak') as file:

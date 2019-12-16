@@ -31,7 +31,6 @@ def get_lowest_uninjured_on_field_score_for_position(row):
 
 
 # Dataframes, spaces between elements
-
 df_final_standings = pd.read_csv("inputs/2019 final standings.csv")
 df_final_standings = df_final_standings.loc[:, ["rank", "Team Name"]]
 
@@ -65,7 +64,7 @@ df_most_total_injuries = df_most_total_injuries.reset_index()
 
 df_donut_list = pd.read_csv("inputs/donut_list.csv")
 df_donut_summary = df_donut_list.groupby(by="Team Name")["Full Name"].agg(["count"])
-df_donut_summary = df_donut_summary.reset_index().sort_values("count", ascending=False)
+df_donut_summary = df_donut_summary.reset_index().sort_values(["count"], ascending=False)
 
 df_all_league_match_data = pd.read_csv("inputs/all_matches_detailed.csv").sort_values(
     ["Round", "Match Name", "Team ID", "On Field?", "pos", "pts"],
@@ -78,7 +77,7 @@ unique_player_data = df_all_league_match_data.loc[
 ]
 unique_player_count_pivot = (
     unique_player_data.pivot_table(
-        index="Team Name", values=("id"), aggfunc=lambda x: len(x.unique())
+        index="Team Name", values="id", aggfunc=lambda x: len(x.unique())
     )
     .sort_values(by=["id"], ascending=False)
     .reset_index()
@@ -134,32 +133,76 @@ df_highest_bench_diff = bench_list_2.nlargest(10, "Diff")[
     ]
 ]
 
+most_carried_pivot = unique_player_data.pivot_table(
+    index=('Team Name', 'Full Name'),
+    values='pts',
+    aggfunc=(np.count_nonzero, np.average, np.sum)
+).sort_values('average')
+most_carried_pivot = most_carried_pivot.reset_index()
+most_carried_pivot = most_carried_pivot[most_carried_pivot['count_nonzero'] >= 7]\
+    .round({'average': 1, 'count_nonzero': 0, 'sum': 0}).head(10)
+
+unique_player_data_inc_bench = df_all_league_match_data.loc[df_all_league_match_data["Round"] <= 21]
+most_carried_pivot_inc_bench = unique_player_data_inc_bench.pivot_table(
+    index=('Team Name', 'Full Name'),
+    values='pts',
+    aggfunc=('count', np.average, np.sum)
+).sort_values('average')
+most_carried_pivot_inc_bench = most_carried_pivot_inc_bench.reset_index()
+most_carried_pivot_inc_bench = most_carried_pivot_inc_bench[most_carried_pivot_inc_bench['count'] >= 7]\
+    .round({'average': 1, 'count_nonzero': 0, 'sum': 0}).head(10)
+
+
 # All elements used in Dash Body
+graph_font_styling = {
+    "family": [
+        "Segoe UI",
+        "Roboto",
+        "Helvetica Neue",
+        "Arial",
+        "Noto Sans",
+        "sans-serif",
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol",
+        "Noto Color Emoji"
+        ],
+    "size": '14',
+    "font-weight": "500"
+}
 el_final_standings = dbc.Col(
     [
-        html.H4(children="Final Standings"),
+        html.H5(children="Final Standings"),
         html.Div(
             children=[
                 dash_table.DataTable(
                     id="final-standings-table",
                     columns=[{"name": i, "id": i} for i in df_final_standings.columns],
                     data=df_final_standings.to_dict("records"),
+                    style_header={
+                        'backgroundColor': 'rgb(230, 230, 230)',
+                        'fontWeight': 'bold'
+                    }
                 ),
             ],
-            style={"textAlign": "center"},
+            style={"textAlign": "center"}
         ),
     ],
     width=4,
 )
 el_ladder = dbc.Col(
     [
-        html.H4(children="End of regular season ladder"),
+        html.H5(children="End of regular season ladder"),
         html.Div(
             children=[
                 dash_table.DataTable(
                     id="end-ladder-table",
                     columns=[{"name": i, "id": i} for i in df_final_ladder.columns],
                     data=df_final_ladder.to_dict("records"),
+                    style_header={
+                        'backgroundColor': 'rgb(230, 230, 230)',
+                        'fontWeight': 'bold'
+                    }
                 ),
             ],
         ),
@@ -186,10 +229,12 @@ el_ladder_tracker = dbc.Col(
                 "layout": {
                     "title": "Ladder Tracker",
                     "yaxis": {"autorange": "reversed"},
+                    "font": graph_font_styling
                 },
             },
         ),
     ],
+    width=12
 )
 el_team_scoring_summary_boxplot = dbc.Col(
     [
@@ -206,20 +251,28 @@ el_team_scoring_summary_boxplot = dbc.Col(
                     )
                     for i in df_fixture_results["Team Name"].unique()
                 ],
-                "layout": {"title": "Team Scoring Summary"},
+                "layout": {
+                    "title": "Team Scoring Summary",
+                    "font": graph_font_styling
+                },
             }
         ),
     ],
+    width=12
 )
 el_top_10_scores = dbc.Col(
     [
-        html.H4(children="Top 10 Scores"),
+        html.H5(children="Top 10 Scores"),
         html.Div(
             children=[
                 dash_table.DataTable(
                     id="top-10-scores-table",
                     columns=[{"name": i, "id": i} for i in df_top_10_scores.columns],
                     data=df_top_10_scores.to_dict("records"),
+                    style_header={
+                        'backgroundColor': 'rgb(230, 230, 230)',
+                        'fontWeight': 'bold'
+                    }
                 ),
             ],
             style={"textAlign": "center"},
@@ -239,17 +292,19 @@ el_donut_count = dbc.Col(
                         text=df_donut_summary["count"],
                         textposition="auto",
                         orientation="h",
-                        hoverinfo="y",
+                        hoverinfo="y"
                     ),
                 ],
                 "layout": {
                     "title": "Number of Donuts",
                     "margin": dict(l=150),
                     "yaxis": {"autorange": "reversed"},
+                    "font": graph_font_styling
                 },
             },
         )
-    ]
+    ],
+    width=6
 )
 el_hardest_fixture = dbc.Col(
     [
@@ -269,6 +324,7 @@ el_hardest_fixture = dbc.Col(
                     "title": "Hardest Fixture (Average opponent score rank)",
                     "margin": dict(l=150),
                     "yaxis": {"autorange": "reversed"},
+                    "font": graph_font_styling
                 },
             },
         )
@@ -286,20 +342,21 @@ el_number_of_injuries = dbc.Col(
                         text=df_most_total_injuries["count"],
                         textposition="auto",
                         orientation="h",
-                        hoverinfo="y",
+                        hoverinfo="y"
                     ),
                 ],
                 "layout": {
                     "title": "Number of in-game Injuries",
                     "margin": {"l": 150},
                     "yaxis": {"autorange": "reversed"},
+                    "font": graph_font_styling
                 },
             },
         ),
     ],
     width=6,
 )
-el_number_of_onfield_players = dbc.Col(
+el_number_of_on_field_players = dbc.Col(
     [
         dcc.Graph(
             figure={
@@ -317,10 +374,12 @@ el_number_of_onfield_players = dbc.Col(
                     "title": "Number of Players used on field",
                     "margin": dict(l=150),
                     "yaxis": {"autorange": "reversed"},
+                    "font": graph_font_styling
                 },
             },
         ),
     ],
+    width=6
 )
 el_bench_utilisation = dbc.Col(
     [
@@ -340,14 +399,16 @@ el_bench_utilisation = dbc.Col(
                     "title": "% of players on bench who played",
                     "margin": dict(l=150),
                     "yaxis": {"autorange": "reversed"},
+                    "font": graph_font_styling
                 },
             },
         ),
     ],
+    width=6
 )
 el_bench_regrets = dbc.Col(
     [
-        html.H4(children="Highest bench player to on field player difference"),
+        html.H5(children="Highest bench player to on field player difference"),
         html.Div(
             children=[
                 dash_table.DataTable(
@@ -356,30 +417,90 @@ el_bench_regrets = dbc.Col(
                         {"name": i, "id": i} for i in df_highest_bench_diff.columns
                     ],
                     data=df_highest_bench_diff.to_dict("records"),
+                    style_header={
+                        'backgroundColor': 'rgb(230, 230, 230)',
+                        'fontWeight': 'bold'
+                    }
                 ),
             ],
         ),
     ],
+    width=12
+)
+
+el_most_carried_on_field = dbc.Col(
+    [
+        html.H5(children="Worst output (on field) player list"),
+        html.Div(
+            children=[
+                dash_table.DataTable(
+                    # id="worst-output-table",
+                    columns=[{"name": i, "id": i} for i in most_carried_pivot.columns],
+                    data=most_carried_pivot.to_dict("records"),
+                    style_header={
+                        'backgroundColor': 'rgb(230, 230, 230)',
+                        'fontWeight': 'bold'
+                    }
+                ),
+            ],
+            style={"textAlign": "center"}
+        ),
+    ],
+    width=6,
+)
+
+el_most_carried_total = dbc.Col(
+    [
+        html.H5(children="Worst output (total) player list"),
+        html.Div(
+            children=[
+                dash_table.DataTable(
+                    # id="worst-output-total-table",
+                    columns=[{"name": i, "id": i} for i in most_carried_pivot_inc_bench.columns],
+                    data=most_carried_pivot_inc_bench.to_dict("records"),
+                    style_header={
+                        'backgroundColor': 'rgb(230, 230, 230)',
+                        'fontWeight': 'bold'
+                    }
+                ),
+            ],
+            style={"textAlign": "center"}
+        ),
+    ],
+    width=6,
 )
 
 # Dash Body
+pretty_container = {
+    'border-radius': '5px',
+    'background-color': '#ffffff',
+    'margin': '5px',
+    'margin-top': '5px',
+    'margin-bottom': '5px',
+    'margin-left': '0px',
+    'margin-right': '00px',
+    'padding': '15px',
+    'position': 'relative',
+    'box-shadow': '2px 2px 2px lightgrey'
+}
 body = dbc.Container(
     [
-        html.H1("Addicts Supercoach League - 2019 Summary"),
-        html.Br(),
-        dbc.Row([el_final_standings, el_ladder,]),
-        dbc.Row([el_ladder_tracker,]),
-        dbc.Row([el_team_scoring_summary_boxplot,],),
-        dbc.Row([el_top_10_scores, el_donut_count],),
-        dbc.Row([el_hardest_fixture, el_number_of_injuries,],),
-        dbc.Row([el_number_of_onfield_players, el_bench_utilisation,],),
-        dbc.Row([el_bench_regrets,]),
+        html.Div(html.H1("Addicts Supercoach League - 2019 Summary"), style=pretty_container),
+        html.Div(dbc.Row([el_final_standings, el_ladder]), style=pretty_container),
+        html.Div(dbc.Row([el_ladder_tracker]), style=pretty_container),
+        html.Div(dbc.Row([el_team_scoring_summary_boxplot]), style=pretty_container),
+        html.Div(dbc.Row([el_top_10_scores, el_donut_count]), style=pretty_container),
+        html.Div(dbc.Row([el_hardest_fixture, el_number_of_injuries]), style=pretty_container),
+        html.Div(dbc.Row([el_number_of_on_field_players, el_bench_utilisation]), style=pretty_container),
+        html.Div(dbc.Row([el_bench_regrets]), style=pretty_container),
+        html.Div(dbc.Row([el_most_carried_on_field, el_most_carried_total]), style=pretty_container),
     ],
 )
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+# app = dash.Dash(__name__)
 
-app.layout = html.Div(body, style={"text-align": "center",})
+app.layout = html.Div(body, style={"text-align": "center", 'backgroundColor': '#E8E8E8'})
 
 if __name__ == "__main__":
     app.run_server(debug=True)

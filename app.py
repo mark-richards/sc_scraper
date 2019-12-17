@@ -502,5 +502,9 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = html.Div(body, style={"text-align": "center", 'backgroundColor': '#E8E8E8'})
 
+server = app.server
+
 if __name__ == "__main__":
     app.run_server(debug=True)
+
+

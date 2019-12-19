@@ -29,6 +29,7 @@ def get_lowest_uninjured_on_field_score_for_position(row):
     }
     return return_data
 
+app = dash.Dash(__name__)
 
 # Dataframes, spaces between elements
 df_final_standings = pd.read_csv("inputs/2019 final standings.csv")
@@ -170,6 +171,18 @@ graph_font_styling = {
     "size": '14',
     "font-weight": "500"
 }
+el_asl_image = dbc.Col(
+    [
+        html.Img(
+            src=app.get_asset_url("ASL Logo.png"),
+            style={
+                "height": "150px",
+                "width": "auto",
+                # "margin-bottom": "25px",
+            }
+        )
+    ]
+)
 el_final_standings = dbc.Col(
     [
         html.H5(children="Final Standings"),
@@ -485,7 +498,9 @@ pretty_container = {
 }
 body = dbc.Container(
     [
-        html.Div(html.H1("Addicts Supercoach League - 2019 Summary"), style=pretty_container),
+        # html.Div(dbc.Row(el_asl_image), style=pretty_container),
+        # html.Div(html.H1("Addicts Supercoach League - 2019 Summary"), style=pretty_container),
+        html.Div([el_asl_image, html.H1("Addicts Supercoach League - 2019 Summary")], style=pretty_container),
         html.Div(dbc.Row([el_final_standings, el_ladder]), style=pretty_container),
         html.Div(dbc.Row([el_ladder_tracker]), style=pretty_container),
         html.Div(dbc.Row([el_team_scoring_summary_boxplot]), style=pretty_container),

@@ -33,7 +33,7 @@ app = dash.Dash(__name__)
 
 # Dataframes, spaces between elements
 df_final_standings = pd.read_csv("inputs/2019 final standings.csv")
-df_final_standings = df_final_standings.loc[:, ["rank", "Team Name"]]
+df_final_standings = df_final_standings.loc[:, ["rank", "Coach"]]
 
 df_final_ladder = pd.read_csv("inputs/2019_final_ladder.csv")
 
@@ -43,11 +43,11 @@ df_top_10_scores = df_fixture_results
 df_top_10_scores["Rank"] = df_top_10_scores["Points"].rank(ascending=False)
 df_top_10_scores = df_top_10_scores.sort_values("Rank").head(10)
 df_top_10_scores = df_top_10_scores[
-    ["Round", "Team Name", "Points", "Opponent Team Name", "Opponent Points"]
+    ["Round", "Coach", "Points", "Opponent Coach", "Opponent Points"]
 ]
 
 df_fixture_difficulty = (
-    df_fixture_results.groupby("Team Name")["Opponent Rank"]
+    df_fixture_results.groupby("Coach")["Opponent Rank"]
     .agg("mean")
     .sort_values(ascending=True)
 )
@@ -55,16 +55,17 @@ df_fixture_difficulty = df_fixture_difficulty.reset_index()
 df_fixture_difficulty["Opponent Rank"] = df_fixture_difficulty["Opponent Rank"].round(1)
 
 df_combined_weekly_ladders = pd.read_csv("inputs/weekly_ladder - with finals.csv")
+
 df_injury_list = pd.read_csv("inputs/injury_list.csv")
 df_most_total_injuries = (
-    df_injury_list.groupby(["Team Name"])["pts"]
+    df_injury_list.groupby(["Coach"])["pts"]
     .agg(["mean", "count"])
     .sort_values("count", ascending=False)
 )
 df_most_total_injuries = df_most_total_injuries.reset_index()
 
 df_donut_list = pd.read_csv("inputs/donut_list.csv")
-df_donut_summary = df_donut_list.groupby(by="Team Name")["Full Name"].agg(["count"])
+df_donut_summary = df_donut_list.groupby(by="Coach")["Full Name"].agg(["count"])
 df_donut_summary = df_donut_summary.reset_index().sort_values(["count"], ascending=False)
 
 df_all_league_match_data = pd.read_csv("inputs/all_matches_detailed.csv").sort_values(
@@ -78,7 +79,7 @@ unique_player_data = df_all_league_match_data.loc[
 ]
 unique_player_count_pivot = (
     unique_player_data.pivot_table(
-        index="Team Name", values="id", aggfunc=lambda x: len(x.unique())
+        index="Coach", values="id", aggfunc=lambda x: len(x.unique())
     )
     .sort_values(by=["id"], ascending=False)
     .reset_index()
@@ -88,11 +89,11 @@ bench_list = df_all_league_match_data.loc[
     (df_all_league_match_data["Round"] <= 21)
     & (~df_all_league_match_data["On Field?"] == True)
 ].replace(0, np.NaN)
-scoring_bench_player_count = bench_list.groupby(["Team Name"])["pts"].agg(
+scoring_bench_player_count = bench_list.groupby(["Coach"])["pts"].agg(
     ["mean", "count"]
 )
 scoring_bench_player_count = scoring_bench_player_count.reset_index().rename(
-    columns={"Team Name": "Team Name", "count": "Scoring Players", "mean": "Average"}
+    columns={"Coach": "Coach", "count": "Scoring Players", "mean": "Average"}
 )
 scoring_bench_player_count["Utilisation"] = (
     scoring_bench_player_count["Scoring Players"] / 84
@@ -125,7 +126,7 @@ df_highest_bench_diff = bench_list_2.nlargest(10, "Diff")[
     [
         "Round_x",
         "Match Name",
-        "Team Name",
+        "Coach",
         "Full Name_x",
         "pts",
         "Played...",
@@ -135,7 +136,7 @@ df_highest_bench_diff = bench_list_2.nlargest(10, "Diff")[
 ]
 
 most_carried_pivot = unique_player_data.pivot_table(
-    index=('Team Name', 'Full Name'),
+    index=('Coach', 'Full Name'),
     values='pts',
     aggfunc=(np.count_nonzero, np.average, np.sum)
 ).sort_values('average')
@@ -145,7 +146,7 @@ most_carried_pivot = most_carried_pivot[most_carried_pivot['count_nonzero'] >= 7
 
 unique_player_data_inc_bench = df_all_league_match_data.loc[df_all_league_match_data["Round"] <= 21]
 most_carried_pivot_inc_bench = unique_player_data_inc_bench.pivot_table(
-    index=('Team Name', 'Full Name'),
+    index=('Coach', 'Full Name'),
     values='pts',
     aggfunc=('count', np.average, np.sum)
 ).sort_values('average')
@@ -229,15 +230,15 @@ el_ladder_tracker = dbc.Col(
                 "data": [
                     dict(
                         x=df_combined_weekly_ladders[
-                            df_combined_weekly_ladders["Team Name"] == i
+                            df_combined_weekly_ladders["Coach"] == i
                         ]["Round"],
                         y=df_combined_weekly_ladders[
-                            df_combined_weekly_ladders["Team Name"] == i
+                            df_combined_weekly_ladders["Coach"] == i
                         ]["rank_number"],
                         name=i,
                         line=dict(width=5),
                     )
-                    for i in df_combined_weekly_ladders["Team Name"].unique()
+                    for i in df_combined_weekly_ladders["Coach"].unique()
                 ],
                 "layout": {
                     "title": "Ladder Tracker",
@@ -256,13 +257,13 @@ el_team_scoring_summary_boxplot = dbc.Col(
                 "data": [
                     go.Box(
                         dict(
-                            y=df_fixture_results[df_fixture_results["Team Name"] == i][
+                            y=df_fixture_results[df_fixture_results["Coach"] == i][
                                 "Points"
                             ],
                             name=i,
                         )
                     )
-                    for i in df_fixture_results["Team Name"].unique()
+                    for i in df_fixture_results["Coach"].unique()
                 ],
                 "layout": {
                     "title": "Team Scoring Summary",
@@ -300,7 +301,7 @@ el_donut_count = dbc.Col(
             figure={
                 "data": [
                     go.Bar(
-                        y=df_donut_summary["Team Name"],
+                        y=df_donut_summary["Coach"],
                         x=df_donut_summary["count"],
                         text=df_donut_summary["count"],
                         textposition="auto",
@@ -325,7 +326,7 @@ el_hardest_fixture = dbc.Col(
             figure={
                 "data": [
                     go.Bar(
-                        y=df_fixture_difficulty["Team Name"],
+                        y=df_fixture_difficulty["Coach"],
                         x=df_fixture_difficulty["Opponent Rank"],
                         text=df_fixture_difficulty["Opponent Rank"],
                         textposition="auto",
@@ -350,7 +351,7 @@ el_number_of_injuries = dbc.Col(
             figure={
                 "data": [
                     go.Bar(
-                        y=df_most_total_injuries["Team Name"],
+                        y=df_most_total_injuries["Coach"],
                         x=df_most_total_injuries["count"],
                         text=df_most_total_injuries["count"],
                         textposition="auto",
@@ -375,7 +376,7 @@ el_number_of_on_field_players = dbc.Col(
             figure={
                 "data": [
                     go.Bar(
-                        y=unique_player_count_pivot["Team Name"],
+                        y=unique_player_count_pivot["Coach"],
                         x=unique_player_count_pivot["id"],
                         text=unique_player_count_pivot["id"],
                         textposition="auto",
@@ -400,7 +401,7 @@ el_bench_utilisation = dbc.Col(
             figure={
                 "data": [
                     go.Bar(
-                        y=scoring_bench_player_count["Team Name"],
+                        y=scoring_bench_player_count["Coach"],
                         x=scoring_bench_player_count["Utilisation"],
                         text=scoring_bench_player_count["Utilisation"],
                         textposition="auto",
@@ -498,8 +499,6 @@ pretty_container = {
 }
 body = dbc.Container(
     [
-        # html.Div(dbc.Row(el_asl_image), style=pretty_container),
-        # html.Div(html.H1("Addicts Supercoach League - 2019 Summary"), style=pretty_container),
         html.Div([el_asl_image, html.H1("Addicts Supercoach League - 2019 Summary")], style=pretty_container),
         html.Div(dbc.Row([el_final_standings, el_ladder]), style=pretty_container),
         html.Div(dbc.Row([el_ladder_tracker]), style=pretty_container),
